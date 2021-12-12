@@ -27,3 +27,9 @@ Spatial Transcriptomics Delineate Dedifferentiation and Molecular Characterizati
 * survival (V3.2-10) 
 * survminer (V0.4.6)
 * R package: stats (V3.6.0), FSA (V0.9.1), e1071 (V1.7-3), pheatmap (V1.0.12), psych (V1.9.12.31)
+
+## Prerequisites
+* Linux x86_64 GNU/Linux or UNIX
+* R >= 3.6.0
+* perl >= v5.16.3
+* 
