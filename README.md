@@ -32,4 +32,3 @@ Spatial Transcriptomics Delineate Dedifferentiation and Molecular Characterizati
 * Linux x86_64 GNU/Linux or UNIX
 * R >= 3.6.0
 * perl >= v5.16.3
-* 
