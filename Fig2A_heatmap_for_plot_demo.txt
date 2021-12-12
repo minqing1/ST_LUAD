@@ -1,0 +1,591 @@
+CellName	Cluster	Score	Sample
+Stroma_Adventitial Fibroblast	MP_PA_Demo_Cluster0	0.010027571	Demo
+Stroma_Adventitial Fibroblast	PA_Demo_Cluster1	0.005788786	Demo
+Stroma_Adventitial Fibroblast	MP_Demo_Cluster2	0.003140407	Demo
+Stroma_Adventitial Fibroblast	S_Demo_Cluster3	0.00195818	Demo
+Stroma_Adventitial Fibroblast	S_Demo_Cluster4	0.004322123	Demo
+Stroma_Adventitial Fibroblast	S_Demo_Cluster5	0.22438488	Demo
+Stroma_Adventitial Fibroblast	S_Demo_Cluster6	0.01836862	Demo
+Stroma_Adventitial Fibroblast	S_Demo_Cluster7	0.003468443	Demo
+Stroma_Adventitial Fibroblast	PA_Demo_Cluster8	0.000200071	Demo
+Stroma_Adventitial Fibroblast	MP_Demo_Cluster9	0	Demo
+Stroma_Airway Smooth Muscle	MP_PA_Demo_Cluster0	0.027734653	Demo
+Stroma_Airway Smooth Muscle	PA_Demo_Cluster1	0.003771854	Demo
+Stroma_Airway Smooth Muscle	MP_Demo_Cluster2	0.001981788	Demo
+Stroma_Airway Smooth Muscle	S_Demo_Cluster3	0.008841637	Demo
+Stroma_Airway Smooth Muscle	S_Demo_Cluster4	0.01847466	Demo
+Stroma_Airway Smooth Muscle	S_Demo_Cluster5	0.082820276	Demo
+Stroma_Airway Smooth Muscle	S_Demo_Cluster6	0.025506434	Demo
+Stroma_Airway Smooth Muscle	S_Demo_Cluster7	0.01046709	Demo
+Stroma_Airway Smooth Muscle	PA_Demo_Cluster8	0.001626965	Demo
+Stroma_Airway Smooth Muscle	MP_Demo_Cluster9	0.025091338	Demo
+Epithelial_Alveolar Epithelial Type 1	MP_PA_Demo_Cluster0	0.012501971	Demo
+Epithelial_Alveolar Epithelial Type 1	PA_Demo_Cluster1	0.011517749	Demo
+Epithelial_Alveolar Epithelial Type 1	MP_Demo_Cluster2	0	Demo
+Epithelial_Alveolar Epithelial Type 1	S_Demo_Cluster3	0.003560305	Demo
+Epithelial_Alveolar Epithelial Type 1	S_Demo_Cluster4	0.062431387	Demo
+Epithelial_Alveolar Epithelial Type 1	S_Demo_Cluster5	0.001111492	Demo
+Epithelial_Alveolar Epithelial Type 1	S_Demo_Cluster6	0.011135005	Demo
+Epithelial_Alveolar Epithelial Type 1	S_Demo_Cluster7	0.003222923	Demo
+Epithelial_Alveolar Epithelial Type 1	PA_Demo_Cluster8	0.064634049	Demo
+Epithelial_Alveolar Epithelial Type 1	MP_Demo_Cluster9	0.033467296	Demo
+Epithelial_Alveolar Epithelial Type 2	MP_PA_Demo_Cluster0	0.001702168	Demo
+Epithelial_Alveolar Epithelial Type 2	PA_Demo_Cluster1	0.293475639	Demo
+Epithelial_Alveolar Epithelial Type 2	MP_Demo_Cluster2	0.000557021	Demo
+Epithelial_Alveolar Epithelial Type 2	S_Demo_Cluster3	0.00022997	Demo
+Epithelial_Alveolar Epithelial Type 2	S_Demo_Cluster4	0.017463991	Demo
+Epithelial_Alveolar Epithelial Type 2	S_Demo_Cluster5	0.002622882	Demo
+Epithelial_Alveolar Epithelial Type 2	S_Demo_Cluster6	0.008289123	Demo
+Epithelial_Alveolar Epithelial Type 2	S_Demo_Cluster7	0.563657579	Demo
+Epithelial_Alveolar Epithelial Type 2	PA_Demo_Cluster8	0.176040932	Demo
+Epithelial_Alveolar Epithelial Type 2	MP_Demo_Cluster9	0.010650849	Demo
+Stroma_Alveolar Fibroblast	MP_PA_Demo_Cluster0	0.055280545	Demo
+Stroma_Alveolar Fibroblast	PA_Demo_Cluster1	0.046635584	Demo
+Stroma_Alveolar Fibroblast	MP_Demo_Cluster2	0.016319153	Demo
+Stroma_Alveolar Fibroblast	S_Demo_Cluster3	0.012742807	Demo
+Stroma_Alveolar Fibroblast	S_Demo_Cluster4	0.003881463	Demo
+Stroma_Alveolar Fibroblast	S_Demo_Cluster5	0.073221938	Demo
+Stroma_Alveolar Fibroblast	S_Demo_Cluster6	0.011520519	Demo
+Stroma_Alveolar Fibroblast	S_Demo_Cluster7	0.005676383	Demo
+Stroma_Alveolar Fibroblast	PA_Demo_Cluster8	0.008946579	Demo
+Stroma_Alveolar Fibroblast	MP_Demo_Cluster9	0.005898734	Demo
+Endothelial_Artery	MP_PA_Demo_Cluster0	0.023525648	Demo
+Endothelial_Artery	PA_Demo_Cluster1	0.003018554	Demo
+Endothelial_Artery	MP_Demo_Cluster2	0.030151453	Demo
+Endothelial_Artery	S_Demo_Cluster3	0.012255702	Demo
+Endothelial_Artery	S_Demo_Cluster4	0.004996726	Demo
+Endothelial_Artery	S_Demo_Cluster5	0.004317231	Demo
+Endothelial_Artery	S_Demo_Cluster6	0.009582596	Demo
+Endothelial_Artery	S_Demo_Cluster7	0.000941541	Demo
+Endothelial_Artery	PA_Demo_Cluster8	0.000989432	Demo
+Endothelial_Artery	MP_Demo_Cluster9	0.005447156	Demo
+Immune_B	MP_PA_Demo_Cluster0	0.053783536	Demo
+Immune_B	PA_Demo_Cluster1	4.19E-05	Demo
+Immune_B	MP_Demo_Cluster2	0.009185487	Demo
+Immune_B	S_Demo_Cluster3	0.047923324	Demo
+Immune_B	S_Demo_Cluster4	0.001620924	Demo
+Immune_B	S_Demo_Cluster5	0.003062017	Demo
+Immune_B	S_Demo_Cluster6	0.0533364	Demo
+Immune_B	S_Demo_Cluster7	0	Demo
+Immune_B	PA_Demo_Cluster8	5.41E-06	Demo
+Immune_B	MP_Demo_Cluster9	0.049846002	Demo
+Epithelial_Basal	MP_PA_Demo_Cluster0	0.011061676	Demo
+Epithelial_Basal	PA_Demo_Cluster1	0.013077679	Demo
+Epithelial_Basal	MP_Demo_Cluster2	0.000136573	Demo
+Epithelial_Basal	S_Demo_Cluster3	0.009906237	Demo
+Epithelial_Basal	S_Demo_Cluster4	0.148407525	Demo
+Epithelial_Basal	S_Demo_Cluster5	0.008617979	Demo
+Epithelial_Basal	S_Demo_Cluster6	0.031137826	Demo
+Epithelial_Basal	S_Demo_Cluster7	0.140693668	Demo
+Epithelial_Basal	PA_Demo_Cluster8	0.289289524	Demo
+Epithelial_Basal	MP_Demo_Cluster9	0.06235771	Demo
+Immune_Basophil/Mast 1	MP_PA_Demo_Cluster0	0.013558176	Demo
+Immune_Basophil/Mast 1	PA_Demo_Cluster1	0.002983602	Demo
+Immune_Basophil/Mast 1	MP_Demo_Cluster2	0.004513039	Demo
+Immune_Basophil/Mast 1	S_Demo_Cluster3	0.025130281	Demo
+Immune_Basophil/Mast 1	S_Demo_Cluster4	0.013779405	Demo
+Immune_Basophil/Mast 1	S_Demo_Cluster5	0.022117458	Demo
+Immune_Basophil/Mast 1	S_Demo_Cluster6	0.030027788	Demo
+Immune_Basophil/Mast 1	S_Demo_Cluster7	0.010861838	Demo
+Immune_Basophil/Mast 1	PA_Demo_Cluster8	0.007250745	Demo
+Immune_Basophil/Mast 1	MP_Demo_Cluster9	0.028368876	Demo
+Immune_Basophil/Mast 2	MP_PA_Demo_Cluster0	0.004707763	Demo
+Immune_Basophil/Mast 2	PA_Demo_Cluster1	2.45E-05	Demo
+Immune_Basophil/Mast 2	MP_Demo_Cluster2	0.000480529	Demo
+Immune_Basophil/Mast 2	S_Demo_Cluster3	0.00189499	Demo
+Immune_Basophil/Mast 2	S_Demo_Cluster4	0.001215714	Demo
+Immune_Basophil/Mast 2	S_Demo_Cluster5	0.002479438	Demo
+Immune_Basophil/Mast 2	S_Demo_Cluster6	0.004464381	Demo
+Immune_Basophil/Mast 2	S_Demo_Cluster7	0.001218432	Demo
+Immune_Basophil/Mast 2	PA_Demo_Cluster8	0.000467057	Demo
+Immune_Basophil/Mast 2	MP_Demo_Cluster9	0.000272579	Demo
+Endothelial_Bronchial Vessel 1	MP_PA_Demo_Cluster0	0.035423273	Demo
+Endothelial_Bronchial Vessel 1	PA_Demo_Cluster1	0.003066141	Demo
+Endothelial_Bronchial Vessel 1	MP_Demo_Cluster2	0.009448821	Demo
+Endothelial_Bronchial Vessel 1	S_Demo_Cluster3	0.023269389	Demo
+Endothelial_Bronchial Vessel 1	S_Demo_Cluster4	0.011321352	Demo
+Endothelial_Bronchial Vessel 1	S_Demo_Cluster5	0.009202049	Demo
+Endothelial_Bronchial Vessel 1	S_Demo_Cluster6	0.01231844	Demo
+Endothelial_Bronchial Vessel 1	S_Demo_Cluster7	0.003351701	Demo
+Endothelial_Bronchial Vessel 1	PA_Demo_Cluster8	0.001539584	Demo
+Endothelial_Bronchial Vessel 1	MP_Demo_Cluster9	0.010548309	Demo
+Endothelial_Bronchial Vessel 2	MP_PA_Demo_Cluster0	0.001069846	Demo
+Endothelial_Bronchial Vessel 2	PA_Demo_Cluster1	0.000914851	Demo
+Endothelial_Bronchial Vessel 2	MP_Demo_Cluster2	0.000184408	Demo
+Endothelial_Bronchial Vessel 2	S_Demo_Cluster3	0.006758034	Demo
+Endothelial_Bronchial Vessel 2	S_Demo_Cluster4	0.009413787	Demo
+Endothelial_Bronchial Vessel 2	S_Demo_Cluster5	0.000912591	Demo
+Endothelial_Bronchial Vessel 2	S_Demo_Cluster6	0.002564683	Demo
+Endothelial_Bronchial Vessel 2	S_Demo_Cluster7	0.00793159	Demo
+Endothelial_Bronchial Vessel 2	PA_Demo_Cluster8	0.002381132	Demo
+Endothelial_Bronchial Vessel 2	MP_Demo_Cluster9	0.000641359	Demo
+Endothelial_Capillary	MP_PA_Demo_Cluster0	0.067867226	Demo
+Endothelial_Capillary	PA_Demo_Cluster1	0.024993363	Demo
+Endothelial_Capillary	MP_Demo_Cluster2	0.037422831	Demo
+Endothelial_Capillary	S_Demo_Cluster3	0.055151995	Demo
+Endothelial_Capillary	S_Demo_Cluster4	0.094909401	Demo
+Endothelial_Capillary	S_Demo_Cluster5	0.008251565	Demo
+Endothelial_Capillary	S_Demo_Cluster6	0.025084361	Demo
+Endothelial_Capillary	S_Demo_Cluster7	0.01622506	Demo
+Endothelial_Capillary	PA_Demo_Cluster8	0.048974529	Demo
+Endothelial_Capillary	MP_Demo_Cluster9	0.041696607	Demo
+Endothelial_Capillary Aerocyte	MP_PA_Demo_Cluster0	0.031344243	Demo
+Endothelial_Capillary Aerocyte	PA_Demo_Cluster1	0.01902995	Demo
+Endothelial_Capillary Aerocyte	MP_Demo_Cluster2	0.013749154	Demo
+Endothelial_Capillary Aerocyte	S_Demo_Cluster3	0.028661885	Demo
+Endothelial_Capillary Aerocyte	S_Demo_Cluster4	0.066111404	Demo
+Endothelial_Capillary Aerocyte	S_Demo_Cluster5	0.020774845	Demo
+Endothelial_Capillary Aerocyte	S_Demo_Cluster6	0.024941964	Demo
+Endothelial_Capillary Aerocyte	S_Demo_Cluster7	0.017957461	Demo
+Endothelial_Capillary Aerocyte	PA_Demo_Cluster8	0.005923343	Demo
+Endothelial_Capillary Aerocyte	MP_Demo_Cluster9	0.011062986	Demo
+Endothelial_Capillary Intermediate 1	MP_PA_Demo_Cluster0	0.012342492	Demo
+Endothelial_Capillary Intermediate 1	PA_Demo_Cluster1	0.001535504	Demo
+Endothelial_Capillary Intermediate 1	MP_Demo_Cluster2	5.86E-05	Demo
+Endothelial_Capillary Intermediate 1	S_Demo_Cluster3	0.001696614	Demo
+Endothelial_Capillary Intermediate 1	S_Demo_Cluster4	0.03299105	Demo
+Endothelial_Capillary Intermediate 1	S_Demo_Cluster5	0	Demo
+Endothelial_Capillary Intermediate 1	S_Demo_Cluster6	0.002623144	Demo
+Endothelial_Capillary Intermediate 1	S_Demo_Cluster7	0.00258401	Demo
+Endothelial_Capillary Intermediate 1	PA_Demo_Cluster8	0.015724131	Demo
+Endothelial_Capillary Intermediate 1	MP_Demo_Cluster9	0.025487957	Demo
+Endothelial_Capillary Intermediate 2	MP_PA_Demo_Cluster0	0.006654515	Demo
+Endothelial_Capillary Intermediate 2	PA_Demo_Cluster1	0.00407844	Demo
+Endothelial_Capillary Intermediate 2	MP_Demo_Cluster2	0.000780743	Demo
+Endothelial_Capillary Intermediate 2	S_Demo_Cluster3	0.027298192	Demo
+Endothelial_Capillary Intermediate 2	S_Demo_Cluster4	0.009016267	Demo
+Endothelial_Capillary Intermediate 2	S_Demo_Cluster5	0.003769133	Demo
+Endothelial_Capillary Intermediate 2	S_Demo_Cluster6	0.01167793	Demo
+Endothelial_Capillary Intermediate 2	S_Demo_Cluster7	0.001570461	Demo
+Endothelial_Capillary Intermediate 2	PA_Demo_Cluster8	0.001098048	Demo
+Endothelial_Capillary Intermediate 2	MP_Demo_Cluster9	0.003192762	Demo
+Immune_CD4+ Memory/Effector T	MP_PA_Demo_Cluster0	0.073125212	Demo
+Immune_CD4+ Memory/Effector T	PA_Demo_Cluster1	0.001992859	Demo
+Immune_CD4+ Memory/Effector T	MP_Demo_Cluster2	0.05332683	Demo
+Immune_CD4+ Memory/Effector T	S_Demo_Cluster3	0.233000062	Demo
+Immune_CD4+ Memory/Effector T	S_Demo_Cluster4	0.017680938	Demo
+Immune_CD4+ Memory/Effector T	S_Demo_Cluster5	0.013940494	Demo
+Immune_CD4+ Memory/Effector T	S_Demo_Cluster6	0.028464137	Demo
+Immune_CD4+ Memory/Effector T	S_Demo_Cluster7	0.005552284	Demo
+Immune_CD4+ Memory/Effector T	PA_Demo_Cluster8	0.003738714	Demo
+Immune_CD4+ Memory/Effector T	MP_Demo_Cluster9	0.044143832	Demo
+Immune_CD4+ Naive T	MP_PA_Demo_Cluster0	0.033611655	Demo
+Immune_CD4+ Naive T	PA_Demo_Cluster1	0.00027394	Demo
+Immune_CD4+ Naive T	MP_Demo_Cluster2	0.020747223	Demo
+Immune_CD4+ Naive T	S_Demo_Cluster3	0.086663481	Demo
+Immune_CD4+ Naive T	S_Demo_Cluster4	0.012652213	Demo
+Immune_CD4+ Naive T	S_Demo_Cluster5	0.002314182	Demo
+Immune_CD4+ Naive T	S_Demo_Cluster6	0.01301122	Demo
+Immune_CD4+ Naive T	S_Demo_Cluster7	0.003015078	Demo
+Immune_CD4+ Naive T	PA_Demo_Cluster8	4.55E-06	Demo
+Immune_CD4+ Naive T	MP_Demo_Cluster9	0.013203942	Demo
+Immune_CD8+ Memory/Effector T	MP_PA_Demo_Cluster0	0.017006117	Demo
+Immune_CD8+ Memory/Effector T	PA_Demo_Cluster1	6.97E-05	Demo
+Immune_CD8+ Memory/Effector T	MP_Demo_Cluster2	0.005085793	Demo
+Immune_CD8+ Memory/Effector T	S_Demo_Cluster3	0.055183265	Demo
+Immune_CD8+ Memory/Effector T	S_Demo_Cluster4	0.002153505	Demo
+Immune_CD8+ Memory/Effector T	S_Demo_Cluster5	0.002319538	Demo
+Immune_CD8+ Memory/Effector T	S_Demo_Cluster6	0.018597764	Demo
+Immune_CD8+ Memory/Effector T	S_Demo_Cluster7	0.000363967	Demo
+Immune_CD8+ Memory/Effector T	PA_Demo_Cluster8	0	Demo
+Immune_CD8+ Memory/Effector T	MP_Demo_Cluster9	0.063978025	Demo
+Immune_CD8+ Naive T	MP_PA_Demo_Cluster0	0.042222302	Demo
+Immune_CD8+ Naive T	PA_Demo_Cluster1	0.000406863	Demo
+Immune_CD8+ Naive T	MP_Demo_Cluster2	0.017113861	Demo
+Immune_CD8+ Naive T	S_Demo_Cluster3	0.025319693	Demo
+Immune_CD8+ Naive T	S_Demo_Cluster4	0.007785041	Demo
+Immune_CD8+ Naive T	S_Demo_Cluster5	0.00372689	Demo
+Immune_CD8+ Naive T	S_Demo_Cluster6	0.013369353	Demo
+Immune_CD8+ Naive T	S_Demo_Cluster7	0.00018238	Demo
+Immune_CD8+ Naive T	PA_Demo_Cluster8	0.000367104	Demo
+Immune_CD8+ Naive T	MP_Demo_Cluster9	0.047187384	Demo
+Epithelial_Ciliated	MP_PA_Demo_Cluster0	0.002778242	Demo
+Epithelial_Ciliated	PA_Demo_Cluster1	0.011261037	Demo
+Epithelial_Ciliated	MP_Demo_Cluster2	0.000620745	Demo
+Epithelial_Ciliated	S_Demo_Cluster3	0.002145342	Demo
+Epithelial_Ciliated	S_Demo_Cluster4	0.009379603	Demo
+Epithelial_Ciliated	S_Demo_Cluster5	0.000197566	Demo
+Epithelial_Ciliated	S_Demo_Cluster6	2.30E-05	Demo
+Epithelial_Ciliated	S_Demo_Cluster7	0.001421125	Demo
+Epithelial_Ciliated	PA_Demo_Cluster8	0.029516185	Demo
+Epithelial_Ciliated	MP_Demo_Cluster9	0.002040947	Demo
+Immune_Classical Monocyte	MP_PA_Demo_Cluster0	0.02735523	Demo
+Immune_Classical Monocyte	PA_Demo_Cluster1	0.000658881	Demo
+Immune_Classical Monocyte	MP_Demo_Cluster2	0.034424658	Demo
+Immune_Classical Monocyte	S_Demo_Cluster3	0.039937538	Demo
+Immune_Classical Monocyte	S_Demo_Cluster4	0.01131166	Demo
+Immune_Classical Monocyte	S_Demo_Cluster5	0.008665712	Demo
+Immune_Classical Monocyte	S_Demo_Cluster6	0.056206803	Demo
+Immune_Classical Monocyte	S_Demo_Cluster7	4.82E-05	Demo
+Immune_Classical Monocyte	PA_Demo_Cluster8	0.000180784	Demo
+Immune_Classical Monocyte	MP_Demo_Cluster9	0.011230117	Demo
+Epithelial_Club	MP_PA_Demo_Cluster0	0.02416962	Demo
+Epithelial_Club	PA_Demo_Cluster1	0.234756849	Demo
+Epithelial_Club	MP_Demo_Cluster2	0.001243805	Demo
+Epithelial_Club	S_Demo_Cluster3	0.018595456	Demo
+Epithelial_Club	S_Demo_Cluster4	0.014147619	Demo
+Epithelial_Club	S_Demo_Cluster5	0.000250419	Demo
+Epithelial_Club	S_Demo_Cluster6	0.007920141	Demo
+Epithelial_Club	S_Demo_Cluster7	0.01033262	Demo
+Epithelial_Club	PA_Demo_Cluster8	0.1177263	Demo
+Epithelial_Club	MP_Demo_Cluster9	0.057362669	Demo
+Immune_Dendritic	MP_PA_Demo_Cluster0	0	Demo
+Immune_Dendritic	PA_Demo_Cluster1	0	Demo
+Immune_Dendritic	MP_Demo_Cluster2	0.001018213	Demo
+Immune_Dendritic	S_Demo_Cluster3	0	Demo
+Immune_Dendritic	S_Demo_Cluster4	0	Demo
+Immune_Dendritic	S_Demo_Cluster5	0	Demo
+Immune_Dendritic	S_Demo_Cluster6	0	Demo
+Immune_Dendritic	S_Demo_Cluster7	0	Demo
+Immune_Dendritic	PA_Demo_Cluster8	0	Demo
+Immune_Dendritic	MP_Demo_Cluster9	0	Demo
+Epithelial_Differentiating Basal	MP_PA_Demo_Cluster0	0.002227544	Demo
+Epithelial_Differentiating Basal	PA_Demo_Cluster1	0.000976884	Demo
+Epithelial_Differentiating Basal	MP_Demo_Cluster2	0.001458833	Demo
+Epithelial_Differentiating Basal	S_Demo_Cluster3	0.008834808	Demo
+Epithelial_Differentiating Basal	S_Demo_Cluster4	0.05535118	Demo
+Epithelial_Differentiating Basal	S_Demo_Cluster5	7.26E-05	Demo
+Epithelial_Differentiating Basal	S_Demo_Cluster6	0.016951777	Demo
+Epithelial_Differentiating Basal	S_Demo_Cluster7	0.016727379	Demo
+Epithelial_Differentiating Basal	PA_Demo_Cluster8	0.056205402	Demo
+Epithelial_Differentiating Basal	MP_Demo_Cluster9	0.001473753	Demo
+Immune_EREG+ Dendritic	MP_PA_Demo_Cluster0	0.00155406	Demo
+Immune_EREG+ Dendritic	PA_Demo_Cluster1	0.000161566	Demo
+Immune_EREG+ Dendritic	MP_Demo_Cluster2	0.015090208	Demo
+Immune_EREG+ Dendritic	S_Demo_Cluster3	0.002055719	Demo
+Immune_EREG+ Dendritic	S_Demo_Cluster4	0.008524043	Demo
+Immune_EREG+ Dendritic	S_Demo_Cluster5	0.001900289	Demo
+Immune_EREG+ Dendritic	S_Demo_Cluster6	0.00243161	Demo
+Immune_EREG+ Dendritic	S_Demo_Cluster7	0.004385987	Demo
+Immune_EREG+ Dendritic	PA_Demo_Cluster8	0	Demo
+Immune_EREG+ Dendritic	MP_Demo_Cluster9	0.000984314	Demo
+Stroma_Fibromyocyte	MP_PA_Demo_Cluster0	0.001010245	Demo
+Stroma_Fibromyocyte	PA_Demo_Cluster1	0.001010519	Demo
+Stroma_Fibromyocyte	MP_Demo_Cluster2	0.001149203	Demo
+Stroma_Fibromyocyte	S_Demo_Cluster3	0.003240274	Demo
+Stroma_Fibromyocyte	S_Demo_Cluster4	0.003134818	Demo
+Stroma_Fibromyocyte	S_Demo_Cluster5	0.036101325	Demo
+Stroma_Fibromyocyte	S_Demo_Cluster6	0.018667089	Demo
+Stroma_Fibromyocyte	S_Demo_Cluster7	0.00043615	Demo
+Stroma_Fibromyocyte	PA_Demo_Cluster8	0	Demo
+Stroma_Fibromyocyte	MP_Demo_Cluster9	2.38E-05	Demo
+Epithelial_Goblet	MP_PA_Demo_Cluster0	0	Demo
+Epithelial_Goblet	PA_Demo_Cluster1	0.021817768	Demo
+Epithelial_Goblet	MP_Demo_Cluster2	0	Demo
+Epithelial_Goblet	S_Demo_Cluster3	0	Demo
+Epithelial_Goblet	S_Demo_Cluster4	0.012420956	Demo
+Epithelial_Goblet	S_Demo_Cluster5	0	Demo
+Epithelial_Goblet	S_Demo_Cluster6	0	Demo
+Epithelial_Goblet	S_Demo_Cluster7	0.000491016	Demo
+Epithelial_Goblet	PA_Demo_Cluster8	0.030430155	Demo
+Epithelial_Goblet	MP_Demo_Cluster9	0.003305412	Demo
+Immune_IGSF21+ Dendritic	MP_PA_Demo_Cluster0	0.004795745	Demo
+Immune_IGSF21+ Dendritic	PA_Demo_Cluster1	0.0012154	Demo
+Immune_IGSF21+ Dendritic	MP_Demo_Cluster2	0.017987914	Demo
+Immune_IGSF21+ Dendritic	S_Demo_Cluster3	0.000921619	Demo
+Immune_IGSF21+ Dendritic	S_Demo_Cluster4	0.032638412	Demo
+Immune_IGSF21+ Dendritic	S_Demo_Cluster5	0.005955219	Demo
+Immune_IGSF21+ Dendritic	S_Demo_Cluster6	0.009847661	Demo
+Immune_IGSF21+ Dendritic	S_Demo_Cluster7	0.004046926	Demo
+Immune_IGSF21+ Dendritic	PA_Demo_Cluster8	0	Demo
+Immune_IGSF21+ Dendritic	MP_Demo_Cluster9	0.000406222	Demo
+Immune_Intermediate Monocyte	MP_PA_Demo_Cluster0	0.001579982	Demo
+Immune_Intermediate Monocyte	PA_Demo_Cluster1	0.000410392	Demo
+Immune_Intermediate Monocyte	MP_Demo_Cluster2	0.000650252	Demo
+Immune_Intermediate Monocyte	S_Demo_Cluster3	3.35E-06	Demo
+Immune_Intermediate Monocyte	S_Demo_Cluster4	0.000118507	Demo
+Immune_Intermediate Monocyte	S_Demo_Cluster5	0	Demo
+Immune_Intermediate Monocyte	S_Demo_Cluster6	0.004496615	Demo
+Immune_Intermediate Monocyte	S_Demo_Cluster7	1.89E-05	Demo
+Immune_Intermediate Monocyte	PA_Demo_Cluster8	0	Demo
+Immune_Intermediate Monocyte	MP_Demo_Cluster9	5.51E-05	Demo
+Epithelial_Ionocyte	MP_PA_Demo_Cluster0	0.005486063	Demo
+Epithelial_Ionocyte	PA_Demo_Cluster1	0	Demo
+Epithelial_Ionocyte	MP_Demo_Cluster2	0	Demo
+Epithelial_Ionocyte	S_Demo_Cluster3	0	Demo
+Epithelial_Ionocyte	S_Demo_Cluster4	0.000113156	Demo
+Epithelial_Ionocyte	S_Demo_Cluster5	8.46E-05	Demo
+Epithelial_Ionocyte	S_Demo_Cluster6	0	Demo
+Epithelial_Ionocyte	S_Demo_Cluster7	0	Demo
+Epithelial_Ionocyte	PA_Demo_Cluster8	0	Demo
+Epithelial_Ionocyte	MP_Demo_Cluster9	0.008568452	Demo
+Stroma_Lipofibroblast	MP_PA_Demo_Cluster0	0	Demo
+Stroma_Lipofibroblast	PA_Demo_Cluster1	0	Demo
+Stroma_Lipofibroblast	MP_Demo_Cluster2	0	Demo
+Stroma_Lipofibroblast	S_Demo_Cluster3	1.31E-05	Demo
+Stroma_Lipofibroblast	S_Demo_Cluster4	0.000153804	Demo
+Stroma_Lipofibroblast	S_Demo_Cluster5	0.013971824	Demo
+Stroma_Lipofibroblast	S_Demo_Cluster6	9.59E-06	Demo
+Stroma_Lipofibroblast	S_Demo_Cluster7	0	Demo
+Stroma_Lipofibroblast	PA_Demo_Cluster8	0	Demo
+Stroma_Lipofibroblast	MP_Demo_Cluster9	0	Demo
+Endothelial_Lymphatic	MP_PA_Demo_Cluster0	0.082857572	Demo
+Endothelial_Lymphatic	PA_Demo_Cluster1	0.009033984	Demo
+Endothelial_Lymphatic	MP_Demo_Cluster2	0.016966202	Demo
+Endothelial_Lymphatic	S_Demo_Cluster3	0.009692284	Demo
+Endothelial_Lymphatic	S_Demo_Cluster4	0.017809123	Demo
+Endothelial_Lymphatic	S_Demo_Cluster5	0.012252758	Demo
+Endothelial_Lymphatic	S_Demo_Cluster6	0.007072584	Demo
+Endothelial_Lymphatic	S_Demo_Cluster7	2.88E-05	Demo
+Endothelial_Lymphatic	PA_Demo_Cluster8	0.002117877	Demo
+Endothelial_Lymphatic	MP_Demo_Cluster9	0.042781016	Demo
+Immune_Macrophage	MP_PA_Demo_Cluster0	0.048454664	Demo
+Immune_Macrophage	PA_Demo_Cluster1	0.01528204	Demo
+Immune_Macrophage	MP_Demo_Cluster2	0.523254324	Demo
+Immune_Macrophage	S_Demo_Cluster3	0.126703538	Demo
+Immune_Macrophage	S_Demo_Cluster4	0.064137451	Demo
+Immune_Macrophage	S_Demo_Cluster5	0.102056862	Demo
+Immune_Macrophage	S_Demo_Cluster6	0.348592822	Demo
+Immune_Macrophage	S_Demo_Cluster7	0.019106778	Demo
+Immune_Macrophage	PA_Demo_Cluster8	0.000499097	Demo
+Immune_Macrophage	MP_Demo_Cluster9	0.039999898	Demo
+Stroma_Mesothelial	MP_PA_Demo_Cluster0	9.37E-05	Demo
+Stroma_Mesothelial	PA_Demo_Cluster1	0	Demo
+Stroma_Mesothelial	MP_Demo_Cluster2	0	Demo
+Stroma_Mesothelial	S_Demo_Cluster3	0.003542907	Demo
+Stroma_Mesothelial	S_Demo_Cluster4	0.001142255	Demo
+Stroma_Mesothelial	S_Demo_Cluster5	0.001939218	Demo
+Stroma_Mesothelial	S_Demo_Cluster6	0.000133777	Demo
+Stroma_Mesothelial	S_Demo_Cluster7	0.00205283	Demo
+Stroma_Mesothelial	PA_Demo_Cluster8	0	Demo
+Stroma_Mesothelial	MP_Demo_Cluster9	0	Demo
+Epithelial_Mucous	MP_PA_Demo_Cluster0	0.000804217	Demo
+Epithelial_Mucous	PA_Demo_Cluster1	0.178110761	Demo
+Epithelial_Mucous	MP_Demo_Cluster2	0	Demo
+Epithelial_Mucous	S_Demo_Cluster3	0	Demo
+Epithelial_Mucous	S_Demo_Cluster4	0	Demo
+Epithelial_Mucous	S_Demo_Cluster5	0	Demo
+Epithelial_Mucous	S_Demo_Cluster6	0	Demo
+Epithelial_Mucous	S_Demo_Cluster7	0.000150846	Demo
+Epithelial_Mucous	PA_Demo_Cluster8	0.068128517	Demo
+Epithelial_Mucous	MP_Demo_Cluster9	0.039141802	Demo
+Immune_Myeloid Dendritic Type 1	MP_PA_Demo_Cluster0	0.00172926	Demo
+Immune_Myeloid Dendritic Type 1	PA_Demo_Cluster1	4.40E-05	Demo
+Immune_Myeloid Dendritic Type 1	MP_Demo_Cluster2	0.011774002	Demo
+Immune_Myeloid Dendritic Type 1	S_Demo_Cluster3	0.013380984	Demo
+Immune_Myeloid Dendritic Type 1	S_Demo_Cluster4	0.001550835	Demo
+Immune_Myeloid Dendritic Type 1	S_Demo_Cluster5	0.005077988	Demo
+Immune_Myeloid Dendritic Type 1	S_Demo_Cluster6	0.016925275	Demo
+Immune_Myeloid Dendritic Type 1	S_Demo_Cluster7	0	Demo
+Immune_Myeloid Dendritic Type 1	PA_Demo_Cluster8	0	Demo
+Immune_Myeloid Dendritic Type 1	MP_Demo_Cluster9	0.019315387	Demo
+Immune_Myeloid Dendritic Type 2	MP_PA_Demo_Cluster0	0.002485242	Demo
+Immune_Myeloid Dendritic Type 2	PA_Demo_Cluster1	0	Demo
+Immune_Myeloid Dendritic Type 2	MP_Demo_Cluster2	0.00274826	Demo
+Immune_Myeloid Dendritic Type 2	S_Demo_Cluster3	0.000275011	Demo
+Immune_Myeloid Dendritic Type 2	S_Demo_Cluster4	0.001154596	Demo
+Immune_Myeloid Dendritic Type 2	S_Demo_Cluster5	0.000180067	Demo
+Immune_Myeloid Dendritic Type 2	S_Demo_Cluster6	1.54E-05	Demo
+Immune_Myeloid Dendritic Type 2	S_Demo_Cluster7	0	Demo
+Immune_Myeloid Dendritic Type 2	PA_Demo_Cluster8	0	Demo
+Immune_Myeloid Dendritic Type 2	MP_Demo_Cluster9	0.004548279	Demo
+Stroma_Myofibroblast	MP_PA_Demo_Cluster0	0.004209557	Demo
+Stroma_Myofibroblast	PA_Demo_Cluster1	0.004386797	Demo
+Stroma_Myofibroblast	MP_Demo_Cluster2	0.002292515	Demo
+Stroma_Myofibroblast	S_Demo_Cluster3	0.004816696	Demo
+Stroma_Myofibroblast	S_Demo_Cluster4	0.00326837	Demo
+Stroma_Myofibroblast	S_Demo_Cluster5	0.13729636	Demo
+Stroma_Myofibroblast	S_Demo_Cluster6	0.031755958	Demo
+Stroma_Myofibroblast	S_Demo_Cluster7	0.018147088	Demo
+Stroma_Myofibroblast	PA_Demo_Cluster8	0.000107728	Demo
+Stroma_Myofibroblast	MP_Demo_Cluster9	6.16E-06	Demo
+Immune_Natural Killer	MP_PA_Demo_Cluster0	0.048692044	Demo
+Immune_Natural Killer	PA_Demo_Cluster1	0.003682965	Demo
+Immune_Natural Killer	MP_Demo_Cluster2	0.014220967	Demo
+Immune_Natural Killer	S_Demo_Cluster3	0.042925365	Demo
+Immune_Natural Killer	S_Demo_Cluster4	0.013712986	Demo
+Immune_Natural Killer	S_Demo_Cluster5	0.013373338	Demo
+Immune_Natural Killer	S_Demo_Cluster6	0.034104237	Demo
+Immune_Natural Killer	S_Demo_Cluster7	0.002547607	Demo
+Immune_Natural Killer	PA_Demo_Cluster8	0.003854513	Demo
+Immune_Natural Killer	MP_Demo_Cluster9	0.065271626	Demo
+Immune_Natural Killer T	MP_PA_Demo_Cluster0	0.004241453	Demo
+Immune_Natural Killer T	PA_Demo_Cluster1	4.09E-05	Demo
+Immune_Natural Killer T	MP_Demo_Cluster2	0.007637123	Demo
+Immune_Natural Killer T	S_Demo_Cluster3	7.20E-05	Demo
+Immune_Natural Killer T	S_Demo_Cluster4	3.76E-06	Demo
+Immune_Natural Killer T	S_Demo_Cluster5	0.000605696	Demo
+Immune_Natural Killer T	S_Demo_Cluster6	0	Demo
+Immune_Natural Killer T	S_Demo_Cluster7	0	Demo
+Immune_Natural Killer T	PA_Demo_Cluster8	0	Demo
+Immune_Natural Killer T	MP_Demo_Cluster9	0.000614333	Demo
+Epithelial_Neuroendocrine	MP_PA_Demo_Cluster0	0.007424781	Demo
+Epithelial_Neuroendocrine	PA_Demo_Cluster1	4.39E-06	Demo
+Epithelial_Neuroendocrine	MP_Demo_Cluster2	0	Demo
+Epithelial_Neuroendocrine	S_Demo_Cluster3	3.68E-05	Demo
+Epithelial_Neuroendocrine	S_Demo_Cluster4	0.000157671	Demo
+Epithelial_Neuroendocrine	S_Demo_Cluster5	0.000153073	Demo
+Epithelial_Neuroendocrine	S_Demo_Cluster6	0	Demo
+Epithelial_Neuroendocrine	S_Demo_Cluster7	0	Demo
+Epithelial_Neuroendocrine	PA_Demo_Cluster8	0	Demo
+Epithelial_Neuroendocrine	MP_Demo_Cluster9	0.016938579	Demo
+Immune_Neutrophil	MP_PA_Demo_Cluster0	0.005849233	Demo
+Immune_Neutrophil	PA_Demo_Cluster1	0	Demo
+Immune_Neutrophil	MP_Demo_Cluster2	0.000308164	Demo
+Immune_Neutrophil	S_Demo_Cluster3	0	Demo
+Immune_Neutrophil	S_Demo_Cluster4	5.13E-05	Demo
+Immune_Neutrophil	S_Demo_Cluster5	9.58E-05	Demo
+Immune_Neutrophil	S_Demo_Cluster6	0.00019527	Demo
+Immune_Neutrophil	S_Demo_Cluster7	0	Demo
+Immune_Neutrophil	PA_Demo_Cluster8	0	Demo
+Immune_Neutrophil	MP_Demo_Cluster9	0.028222616	Demo
+Immune_Nonclassical Monocyte	MP_PA_Demo_Cluster0	0.007582015	Demo
+Immune_Nonclassical Monocyte	PA_Demo_Cluster1	0.000298838	Demo
+Immune_Nonclassical Monocyte	MP_Demo_Cluster2	0.005028012	Demo
+Immune_Nonclassical Monocyte	S_Demo_Cluster3	0.010092782	Demo
+Immune_Nonclassical Monocyte	S_Demo_Cluster4	0.008079144	Demo
+Immune_Nonclassical Monocyte	S_Demo_Cluster5	0.000277583	Demo
+Immune_Nonclassical Monocyte	S_Demo_Cluster6	0.015321473	Demo
+Immune_Nonclassical Monocyte	S_Demo_Cluster7	5.88E-05	Demo
+Immune_Nonclassical Monocyte	PA_Demo_Cluster8	0.000309929	Demo
+Immune_Nonclassical Monocyte	MP_Demo_Cluster9	0.007029312	Demo
+Immune_OLR1+ Classical Monocyte	MP_PA_Demo_Cluster0	0.001063003	Demo
+Immune_OLR1+ Classical Monocyte	PA_Demo_Cluster1	0.000580759	Demo
+Immune_OLR1+ Classical Monocyte	MP_Demo_Cluster2	0.005671691	Demo
+Immune_OLR1+ Classical Monocyte	S_Demo_Cluster3	0.001146579	Demo
+Immune_OLR1+ Classical Monocyte	S_Demo_Cluster4	0.028738218	Demo
+Immune_OLR1+ Classical Monocyte	S_Demo_Cluster5	0.000603121	Demo
+Immune_OLR1+ Classical Monocyte	S_Demo_Cluster6	0.01159602	Demo
+Immune_OLR1+ Classical Monocyte	S_Demo_Cluster7	0.007919015	Demo
+Immune_OLR1+ Classical Monocyte	PA_Demo_Cluster8	0	Demo
+Immune_OLR1+ Classical Monocyte	MP_Demo_Cluster9	0.000906183	Demo
+Stroma_Pericyte	MP_PA_Demo_Cluster0	0.02012632	Demo
+Stroma_Pericyte	PA_Demo_Cluster1	0.014952068	Demo
+Stroma_Pericyte	MP_Demo_Cluster2	0.008160425	Demo
+Stroma_Pericyte	S_Demo_Cluster3	0.009985927	Demo
+Stroma_Pericyte	S_Demo_Cluster4	0.001676617	Demo
+Stroma_Pericyte	S_Demo_Cluster5	0.001889172	Demo
+Stroma_Pericyte	S_Demo_Cluster6	0.001614694	Demo
+Stroma_Pericyte	S_Demo_Cluster7	0.002253277	Demo
+Stroma_Pericyte	PA_Demo_Cluster8	0.025048415	Demo
+Stroma_Pericyte	MP_Demo_Cluster9	0.000945924	Demo
+Immune_Plasma	MP_PA_Demo_Cluster0	0.03864443	Demo
+Immune_Plasma	PA_Demo_Cluster1	0.000281859	Demo
+Immune_Plasma	MP_Demo_Cluster2	0.003107021	Demo
+Immune_Plasma	S_Demo_Cluster3	0.009626414	Demo
+Immune_Plasma	S_Demo_Cluster4	0.000467402	Demo
+Immune_Plasma	S_Demo_Cluster5	0.000337718	Demo
+Immune_Plasma	S_Demo_Cluster6	0.003119499	Demo
+Immune_Plasma	S_Demo_Cluster7	0	Demo
+Immune_Plasma	PA_Demo_Cluster8	0.000484748	Demo
+Immune_Plasma	MP_Demo_Cluster9	0.025345132	Demo
+Immune_Plasmacytoid Dendritic	MP_PA_Demo_Cluster0	0.023148228	Demo
+Immune_Plasmacytoid Dendritic	PA_Demo_Cluster1	0.000153663	Demo
+Immune_Plasmacytoid Dendritic	MP_Demo_Cluster2	0.001112623	Demo
+Immune_Plasmacytoid Dendritic	S_Demo_Cluster3	0.000467354	Demo
+Immune_Plasmacytoid Dendritic	S_Demo_Cluster4	6.12E-06	Demo
+Immune_Plasmacytoid Dendritic	S_Demo_Cluster5	0.00013911	Demo
+Immune_Plasmacytoid Dendritic	S_Demo_Cluster6	0	Demo
+Immune_Plasmacytoid Dendritic	S_Demo_Cluster7	0	Demo
+Immune_Plasmacytoid Dendritic	PA_Demo_Cluster8	0	Demo
+Immune_Plasmacytoid Dendritic	MP_Demo_Cluster9	0.016596406	Demo
+Immune_Platelet/Megakaryocyte	MP_PA_Demo_Cluster0	0.007646691	Demo
+Immune_Platelet/Megakaryocyte	PA_Demo_Cluster1	0	Demo
+Immune_Platelet/Megakaryocyte	MP_Demo_Cluster2	0	Demo
+Immune_Platelet/Megakaryocyte	S_Demo_Cluster3	0.003088306	Demo
+Immune_Platelet/Megakaryocyte	S_Demo_Cluster4	0.003092405	Demo
+Immune_Platelet/Megakaryocyte	S_Demo_Cluster5	0	Demo
+Immune_Platelet/Megakaryocyte	S_Demo_Cluster6	0	Demo
+Immune_Platelet/Megakaryocyte	S_Demo_Cluster7	0.000553866	Demo
+Immune_Platelet/Megakaryocyte	PA_Demo_Cluster8	0.001754292	Demo
+Immune_Platelet/Megakaryocyte	MP_Demo_Cluster9	0.003081523	Demo
+Epithelial_Proliferating Basal	MP_PA_Demo_Cluster0	0	Demo
+Epithelial_Proliferating Basal	PA_Demo_Cluster1	0	Demo
+Epithelial_Proliferating Basal	MP_Demo_Cluster2	0	Demo
+Epithelial_Proliferating Basal	S_Demo_Cluster3	0	Demo
+Epithelial_Proliferating Basal	S_Demo_Cluster4	0.123107611	Demo
+Epithelial_Proliferating Basal	S_Demo_Cluster5	0	Demo
+Epithelial_Proliferating Basal	S_Demo_Cluster6	0.005732597	Demo
+Epithelial_Proliferating Basal	S_Demo_Cluster7	0.085272759	Demo
+Epithelial_Proliferating Basal	PA_Demo_Cluster8	0.003805662	Demo
+Epithelial_Proliferating Basal	MP_Demo_Cluster9	0.002825733	Demo
+Immune_Proliferating Macrophage	MP_PA_Demo_Cluster0	0.000284984	Demo
+Immune_Proliferating Macrophage	PA_Demo_Cluster1	0	Demo
+Immune_Proliferating Macrophage	MP_Demo_Cluster2	0.000434331	Demo
+Immune_Proliferating Macrophage	S_Demo_Cluster3	0	Demo
+Immune_Proliferating Macrophage	S_Demo_Cluster4	0.002505449	Demo
+Immune_Proliferating Macrophage	S_Demo_Cluster5	0.000100778	Demo
+Immune_Proliferating Macrophage	S_Demo_Cluster6	0	Demo
+Immune_Proliferating Macrophage	S_Demo_Cluster7	0	Demo
+Immune_Proliferating Macrophage	PA_Demo_Cluster8	0	Demo
+Immune_Proliferating Macrophage	MP_Demo_Cluster9	9.35E-05	Demo
+Immune_Proliferating NK/T	MP_PA_Demo_Cluster0	0.013665867	Demo
+Immune_Proliferating NK/T	PA_Demo_Cluster1	0.000863531	Demo
+Immune_Proliferating NK/T	MP_Demo_Cluster2	0.004130054	Demo
+Immune_Proliferating NK/T	S_Demo_Cluster3	0.004723844	Demo
+Immune_Proliferating NK/T	S_Demo_Cluster4	0.001060715	Demo
+Immune_Proliferating NK/T	S_Demo_Cluster5	0.00430734	Demo
+Immune_Proliferating NK/T	S_Demo_Cluster6	0.000135096	Demo
+Immune_Proliferating NK/T	S_Demo_Cluster7	0.001410882	Demo
+Immune_Proliferating NK/T	PA_Demo_Cluster8	0.001853171	Demo
+Immune_Proliferating NK/T	MP_Demo_Cluster9	0.015086689	Demo
+Epithelial_Proximal Basal	MP_PA_Demo_Cluster0	0	Demo
+Epithelial_Proximal Basal	PA_Demo_Cluster1	2.63E-05	Demo
+Epithelial_Proximal Basal	MP_Demo_Cluster2	0	Demo
+Epithelial_Proximal Basal	S_Demo_Cluster3	0	Demo
+Epithelial_Proximal Basal	S_Demo_Cluster4	0.009327021	Demo
+Epithelial_Proximal Basal	S_Demo_Cluster5	0	Demo
+Epithelial_Proximal Basal	S_Demo_Cluster6	0	Demo
+Epithelial_Proximal Basal	S_Demo_Cluster7	0.000854925	Demo
+Epithelial_Proximal Basal	PA_Demo_Cluster8	0.005248635	Demo
+Epithelial_Proximal Basal	MP_Demo_Cluster9	0.00057981	Demo
+Epithelial_Proximal Ciliated	MP_PA_Demo_Cluster0	0	Demo
+Epithelial_Proximal Ciliated	PA_Demo_Cluster1	0	Demo
+Epithelial_Proximal Ciliated	MP_Demo_Cluster2	0	Demo
+Epithelial_Proximal Ciliated	S_Demo_Cluster3	4.68E-05	Demo
+Epithelial_Proximal Ciliated	S_Demo_Cluster4	0.007454961	Demo
+Epithelial_Proximal Ciliated	S_Demo_Cluster5	0	Demo
+Epithelial_Proximal Ciliated	S_Demo_Cluster6	0	Demo
+Epithelial_Proximal Ciliated	S_Demo_Cluster7	0.000117352	Demo
+Epithelial_Proximal Ciliated	PA_Demo_Cluster8	0	Demo
+Epithelial_Proximal Ciliated	MP_Demo_Cluster9	0.000393755	Demo
+Epithelial_Serous	MP_PA_Demo_Cluster0	0	Demo
+Epithelial_Serous	PA_Demo_Cluster1	0.017491835	Demo
+Epithelial_Serous	MP_Demo_Cluster2	0	Demo
+Epithelial_Serous	S_Demo_Cluster3	0	Demo
+Epithelial_Serous	S_Demo_Cluster4	4.68E-05	Demo
+Epithelial_Serous	S_Demo_Cluster5	0	Demo
+Epithelial_Serous	S_Demo_Cluster6	0	Demo
+Epithelial_Serous	S_Demo_Cluster7	0.000160254	Demo
+Epithelial_Serous	PA_Demo_Cluster8	0.011267902	Demo
+Epithelial_Serous	MP_Demo_Cluster9	0.00604734	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	MP_PA_Demo_Cluster0	0.000128979	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	PA_Demo_Cluster1	0.032267011	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	MP_Demo_Cluster2	0	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	S_Demo_Cluster3	7.42E-05	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	S_Demo_Cluster4	0	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	S_Demo_Cluster5	0	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	S_Demo_Cluster6	0	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	S_Demo_Cluster7	0.01254983	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	PA_Demo_Cluster8	0.000959659	Demo
+Epithelial_Signaling Alveolar Epithelial Type 2	MP_Demo_Cluster9	0	Demo
+Immune_TREM2+ Dendritic	MP_PA_Demo_Cluster0	0.004847981	Demo
+Immune_TREM2+ Dendritic	PA_Demo_Cluster1	0.000717367	Demo
+Immune_TREM2+ Dendritic	MP_Demo_Cluster2	0.07027415	Demo
+Immune_TREM2+ Dendritic	S_Demo_Cluster3	0.000236931	Demo
+Immune_TREM2+ Dendritic	S_Demo_Cluster4	0.000217737	Demo
+Immune_TREM2+ Dendritic	S_Demo_Cluster5	0.003116887	Demo
+Immune_TREM2+ Dendritic	S_Demo_Cluster6	0.018329158	Demo
+Immune_TREM2+ Dendritic	S_Demo_Cluster7	0	Demo
+Immune_TREM2+ Dendritic	PA_Demo_Cluster8	0	Demo
+Immune_TREM2+ Dendritic	MP_Demo_Cluster9	0	Demo
+Stroma_Vascular Smooth Muscle	MP_PA_Demo_Cluster0	0.025310471	Demo
+Stroma_Vascular Smooth Muscle	PA_Demo_Cluster1	0.003585751	Demo
+Stroma_Vascular Smooth Muscle	MP_Demo_Cluster2	0.003969354	Demo
+Stroma_Vascular Smooth Muscle	S_Demo_Cluster3	0.015511741	Demo
+Stroma_Vascular Smooth Muscle	S_Demo_Cluster4	0.01951125	Demo
+Stroma_Vascular Smooth Muscle	S_Demo_Cluster5	0.158849937	Demo
+Stroma_Vascular Smooth Muscle	S_Demo_Cluster6	0.032752065	Demo
+Stroma_Vascular Smooth Muscle	S_Demo_Cluster7	0.009898454	Demo
+Stroma_Vascular Smooth Muscle	PA_Demo_Cluster8	0.0014062	Demo
+Stroma_Vascular Smooth Muscle	MP_Demo_Cluster9	0.006282598	Demo
+Endothelial_Vein	MP_PA_Demo_Cluster0	0.045201952	Demo
+Endothelial_Vein	PA_Demo_Cluster1	0.00922848	Demo
+Endothelial_Vein	MP_Demo_Cluster2	0.020883286	Demo
+Endothelial_Vein	S_Demo_Cluster3	0.00036037	Demo
+Endothelial_Vein	S_Demo_Cluster4	0.003797549	Demo
+Endothelial_Vein	S_Demo_Cluster5	0.000180864	Demo
+Endothelial_Vein	S_Demo_Cluster6	2.81E-05	Demo
+Endothelial_Vein	S_Demo_Cluster7	6.65E-05	Demo
+Endothelial_Vein	PA_Demo_Cluster8	0.009892925	Demo
+Endothelial_Vein	MP_Demo_Cluster9	0.089951857	Demo

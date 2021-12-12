@@ -1,0 +1,60 @@
+Result 	 CellType 	 Score
+Result 	 Stroma_Vascular Smooth Muscle 	 0.54
+Result 	 Stroma_Pericyte 	 0.17
+Result 	 Stroma_Myofibroblast 	 0.4
+Result 	 Stroma_Mesothelial 	 0.02
+Result 	 Stroma_Lipofibroblast 	 0.03
+Result 	 Stroma_Fibromyocyte 	 0.13
+Result 	 Stroma_Alveolar Fibroblast 	 0.47
+Result 	 Stroma_Airway Smooth Muscle 	 0.4
+Result 	 Stroma_Adventitial Fibroblast 	 0.53
+Result 	 Immune_TREM2+ Dendritic 	 0.19
+Result 	 Immune_Proliferating NK/T 	 0.09
+Result 	 Immune_Proliferating Macrophage 	 0.01
+Result 	 Immune_Platelet/Megakaryocyte 	 0.04
+Result 	 Immune_Plasmacytoid Dendritic 	 0.08
+Result 	 Immune_Plasma 	 0.16
+Result 	 Immune_OLR1+ Classical Monocyte 	 0.11
+Result 	 Immune_Nonclassical Monocyte 	 0.11
+Result 	 Immune_Neutrophil 	 0.07
+Result 	 Immune_Natural Killer T 	 0.03
+Result 	 Immune_Natural Killer 	 0.48
+Result 	 Immune_Myeloid Dendritic Type 2 	 0.02
+Result 	 Immune_Myeloid Dendritic Type 1 	 0.14
+Result 	 Immune_Macrophage 	 2.53
+Result 	 Immune_Intermediate Monocyte 	 0.01
+Result 	 Immune_IGSF21+ Dendritic 	 0.15
+Result 	 Immune_EREG+ Dendritic 	 0.07
+Result 	 Immune_Dendritic 	 0
+Result 	 Immune_Classical Monocyte 	 0.37
+Result 	 Immune_CD8+ Naive T 	 0.31
+Result 	 Immune_CD8+ Memory/Effector T 	 0.32
+Result 	 Immune_CD4+ Naive T 	 0.36
+Result 	 Immune_CD4+ Memory/Effector T 	 0.93
+Result 	 Immune_Basophil/Mast 2 	 0.03
+Result 	 Immune_Basophil/Mast 1 	 0.31
+Result 	 Immune_B 	 0.43
+Result 	 Epithelial_Signaling Alveolar Epithelial Type 2 	 0.09
+Result 	 Epithelial_Serous 	 0.07
+Result 	 Epithelial_Proximal Ciliated 	 0.02
+Result 	 Epithelial_Proximal Basal 	 0.03
+Result 	 Epithelial_Proliferating Basal 	 0.43
+Result 	 Epithelial_Neuroendocrine 	 0.05
+Result 	 Epithelial_Mucous 	 0.56
+Result 	 Epithelial_Ionocyte 	 0.03
+Result 	 Epithelial_Goblet 	 0.13
+Result 	 Epithelial_Differentiating Basal 	 0.31
+Result 	 Epithelial_Club 	 0.95
+Result 	 Epithelial_Ciliated 	 0.12
+Result 	 Epithelial_Basal 	 1.4
+Result 	 Epithelial_Alveolar Epithelial Type 2 	 2.11
+Result 	 Epithelial_Alveolar Epithelial Type 1 	 0.4
+Result 	 Endothelial_Vein 	 0.35
+Result 	 Endothelial_Lymphatic 	 0.39
+Result 	 Endothelial_Capillary Intermediate 2 	 0.14
+Result 	 Endothelial_Capillary Intermediate 1 	 0.19
+Result 	 Endothelial_Capillary Aerocyte 	 0.47
+Result 	 Endothelial_Capillary 	 0.82
+Result 	 Endothelial_Bronchial Vessel 2 	 0.06
+Result 	 Endothelial_Bronchial Vessel 1 	 0.23
+Result 	 Endothelial_Artery 	 0.19

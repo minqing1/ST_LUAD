@@ -1,0 +1,2774 @@
+Subtype	Cluster	Cell	Score	Celltype
+MP	MP_ST_P7_Cluster2	CD4+ Memory/Effector T	0.0322984916461696	Immune
+MP	MP_ST_P7_Cluster2	CD4+ Naive T	0.0162017327552186	Immune
+MP	MP_ST_P7_Cluster2	CD8+ Memory/Effector T	0.0258904142591855	Immune
+MP	MP_ST_P7_Cluster2	CD8+ Naive T	0.01603044452614	Immune
+MP	MP_ST_P7_Cluster2	Natural Killer	0.0272584081203553	Immune
+MP	MP_ST_P7_Cluster2	Classical Monocyte	0.0150934675257333	Immune
+MP	MP_ST_P7_Cluster2	Nonclassical Monocyte	0.00248765837873452	Immune
+MP	MP_ST_P7_Cluster2	Myeloid Dendritic Type 2	0.00412556487189575	Immune
+MP	MP_ST_P7_Cluster2	Platelet/Megakaryocyte	2.65315881296346e-05	Immune
+MP	MP_ST_P7_Cluster2	B	0.00377986241804462	Immune
+MP	MP_ST_P7_Cluster2	IGSF21+ Dendritic	0.00228298159977225	Immune
+MP	MP_ST_P7_Cluster2	EREG+ Dendritic	0	Immune
+MP	MP_ST_P7_Cluster2	Plasmacytoid Dendritic	0	Immune
+MP	MP_ST_P7_Cluster2	Myeloid Dendritic Type 1	0.00195726223018743	Immune
+MP	MP_ST_P7_Cluster2	TREM2+ Dendritic	0.000190290303224206	Immune
+MP	MP_ST_P7_Cluster2	Differentiating Basal	0.00131313132486194	Epithelial
+MP	MP_ST_P7_Cluster2	Proliferating Basal	0.00550004152016133	Epithelial
+MP	MP_ST_P7_Cluster2	Basal	0.00165021659642464	Epithelial
+MP	MP_ST_P7_Cluster2	Plasma	0	Immune
+MP	MP_ST_P7_Cluster2	Macrophage	0.244375436910367	Immune
+MP	MP_ST_P7_Cluster2	Basophil/Mast 1	0.00927896268499385	Immune
+MP	MP_ST_P7_Cluster2	Proliferating Macrophage	0.00278148710405518	Immune
+MP	MP_ST_P7_Cluster2	Capillary Aerocyte	0.0145212133107951	Endothelial
+MP	MP_ST_P7_Cluster2	Capillary	0.00655241395001034	Endothelial
+MP	MP_ST_P7_Cluster2	Bronchial Vessel 2	6.1548882739828e-05	Endothelial
+MP	MP_ST_P7_Cluster2	Vein	0	Endothelial
+MP	MP_ST_P7_Cluster2	Artery	0	Endothelial
+MP	MP_ST_P7_Cluster2	Lymphatic	0.000309044522985861	Endothelial
+MP	MP_ST_P7_Cluster2	Bronchial Vessel 1	0.000149730123198008	Endothelial
+MP	MP_ST_P7_Cluster2	Airway Smooth Muscle	3.41931822014064e-06	Stroma
+MP	MP_ST_P7_Cluster2	Alveolar Epithelial Type 2	0.238674630594638	Epithelial
+MP	MP_ST_P7_Cluster2	Club	0.204866518370479	Epithelial
+MP	MP_ST_P7_Cluster2	Pericyte	0.0011035435197819	Stroma
+MP	MP_ST_P7_Cluster2	Myofibroblast	0	Stroma
+MP	MP_ST_P7_Cluster2	Alveolar Epithelial Type 1	0.0343983493461703	Epithelial
+MP	MP_ST_P7_Cluster2	Ciliated	0.000436632279284783	Epithelial
+MP	MP_ST_P7_Cluster2	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P7_Cluster2	Alveolar Fibroblast	0.000898130021660099	Stroma
+MP	MP_ST_P7_Cluster2	Lipofibroblast	0	Stroma
+MP	MP_ST_P7_Cluster2	Mesothelial	0	Stroma
+MP	MP_ST_P7_Cluster2	Capillary Intermediate 1	0	Endothelial
+MP	MP_ST_P7_Cluster2	Capillary Intermediate 2	0.00259391618064964	Endothelial
+MP	MP_ST_P7_Cluster2	Vascular Smooth Muscle	8.21242072997099e-06	Stroma
+MP	MP_ST_P7_Cluster2	Mucous	0.0123278612443968	Epithelial
+MP	MP_ST_P7_Cluster2	Proliferating NK/T	0.00327471251157413	Immune
+MP	MP_ST_P7_Cluster2	Natural Killer T	0.000264938081571538	Immune
+MP	MP_ST_P7_Cluster2	OLR1+ Classical Monocyte	0.00361832963942297	Immune
+MP	MP_ST_P7_Cluster2	Intermediate Monocyte	0.00157086686816089	Immune
+MP	MP_ST_P7_Cluster2	Basophil/Mast 2	0.00258673963359482	Immune
+MP	MP_ST_P7_Cluster2	Signaling Alveolar Epithelial Type 2	0.058511156453719	Epithelial
+MP	MP_ST_P7_Cluster2	Proximal Basal	0	Epithelial
+MP	MP_ST_P7_Cluster2	Neuroendocrine	0	Epithelial
+MP	MP_ST_P7_Cluster2	Fibromyocyte	0	Stroma
+MP	MP_ST_P7_Cluster2	Ionocyte	2.2357201023058e-06	Epithelial
+MP	MP_ST_P7_Cluster2	Serous	0	Epithelial
+MP	MP_ST_P7_Cluster2	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P7_Cluster2	Goblet	2.70004959595885e-05	Epithelial
+MP	MP_ST_P7_Cluster2	Neutrophil	0.000716470146500237	Immune
+MP	MP_ST_P7_Cluster2	Dendritic	0	Immune
+Lep	Lep_ST_P8_1_Cluster2	CD4+ Memory/Effector T	0.0352212480560887	Immune
+Lep	Lep_ST_P8_1_Cluster2	CD4+ Naive T	0.0226029638462658	Immune
+Lep	Lep_ST_P8_1_Cluster2	CD8+ Memory/Effector T	0.0195167089901595	Immune
+Lep	Lep_ST_P8_1_Cluster2	CD8+ Naive T	0.0238030545351535	Immune
+Lep	Lep_ST_P8_1_Cluster2	Natural Killer	0.0287233080681101	Immune
+Lep	Lep_ST_P8_1_Cluster2	Classical Monocyte	0.0153917335503171	Immune
+Lep	Lep_ST_P8_1_Cluster2	Nonclassical Monocyte	0.00186802668731658	Immune
+Lep	Lep_ST_P8_1_Cluster2	Myeloid Dendritic Type 2	0.00100256051711833	Immune
+Lep	Lep_ST_P8_1_Cluster2	Platelet/Megakaryocyte	0.000713524174249492	Immune
+Lep	Lep_ST_P8_1_Cluster2	B	0.00878638421317946	Immune
+Lep	Lep_ST_P8_1_Cluster2	IGSF21+ Dendritic	1.62364826355161e-05	Immune
+Lep	Lep_ST_P8_1_Cluster2	EREG+ Dendritic	0.000356424499077382	Immune
+Lep	Lep_ST_P8_1_Cluster2	Plasmacytoid Dendritic	0.00017362755838694	Immune
+Lep	Lep_ST_P8_1_Cluster2	Myeloid Dendritic Type 1	2.18566688627691e-05	Immune
+Lep	Lep_ST_P8_1_Cluster2	TREM2+ Dendritic	8.59354263137452e-05	Immune
+Lep	Lep_ST_P8_1_Cluster2	Differentiating Basal	0.0115495711963761	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Proliferating Basal	0.00151579872212512	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Basal	0.023512809361523	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Plasma	0.000122709630840262	Immune
+Lep	Lep_ST_P8_1_Cluster2	Macrophage	0.0395737558597608	Immune
+Lep	Lep_ST_P8_1_Cluster2	Basophil/Mast 1	0.00206640766956551	Immune
+Lep	Lep_ST_P8_1_Cluster2	Proliferating Macrophage	0.000947408935994461	Immune
+Lep	Lep_ST_P8_1_Cluster2	Capillary Aerocyte	0.00672950512016943	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Capillary	0.0118707449909697	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Bronchial Vessel 2	3.30212358855928e-05	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Vein	0.000778440419885699	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Artery	4.31299424987625e-05	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Lymphatic	7.7197029547659e-06	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Bronchial Vessel 1	2.28143107643083e-05	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Airway Smooth Muscle	0.000697253606022094	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Alveolar Epithelial Type 2	0.100997970084598	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Club	0.512763972440163	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Pericyte	0.000315779920039876	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Myofibroblast	0.00140839445299515	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Alveolar Epithelial Type 1	0.0640913868401898	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Ciliated	1.00327914330099e-05	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Adventitial Fibroblast	0.000147692889967125	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Alveolar Fibroblast	0.00013398551169814	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Lipofibroblast	4.44976699047937e-05	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Mesothelial	0	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Capillary Intermediate 1	4.90210612704886e-06	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Capillary Intermediate 2	0.00625333935673342	Endothelial
+Lep	Lep_ST_P8_1_Cluster2	Vascular Smooth Muscle	0.00017216052269561	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Mucous	0.00874865278885985	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Proliferating NK/T	0.0186860604769174	Immune
+Lep	Lep_ST_P8_1_Cluster2	Natural Killer T	0.00972097908199561	Immune
+Lep	Lep_ST_P8_1_Cluster2	OLR1+ Classical Monocyte	0.000150071106554993	Immune
+Lep	Lep_ST_P8_1_Cluster2	Intermediate Monocyte	0.000155953900633098	Immune
+Lep	Lep_ST_P8_1_Cluster2	Basophil/Mast 2	0.000137978507227999	Immune
+Lep	Lep_ST_P8_1_Cluster2	Signaling Alveolar Epithelial Type 2	0.0139406516491533	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Proximal Basal	0.000595113657804017	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Neuroendocrine	2.10066818424312e-05	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Fibromyocyte	0.00016528044206391	Stroma
+Lep	Lep_ST_P8_1_Cluster2	Ionocyte	0.00236953374041156	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Serous	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Proximal Ciliated	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Goblet	0.00103491343693514	Epithelial
+Lep	Lep_ST_P8_1_Cluster2	Neutrophil	0.000175005964484942	Immune
+Lep	Lep_ST_P8_1_Cluster2	Dendritic	0	Immune
+MP	MP_ST_P7_Cluster6	CD4+ Memory/Effector T	0.00380767976412531	Immune
+MP	MP_ST_P7_Cluster6	CD4+ Naive T	0.00318343250104929	Immune
+MP	MP_ST_P7_Cluster6	CD8+ Memory/Effector T	0.00087961059409906	Immune
+MP	MP_ST_P7_Cluster6	CD8+ Naive T	0.00185111270060078	Immune
+MP	MP_ST_P7_Cluster6	Natural Killer	0.00405937865650013	Immune
+MP	MP_ST_P7_Cluster6	Classical Monocyte	0.0047929826509252	Immune
+MP	MP_ST_P7_Cluster6	Nonclassical Monocyte	0.000275333055779753	Immune
+MP	MP_ST_P7_Cluster6	Myeloid Dendritic Type 2	4.9375197064742e-05	Immune
+MP	MP_ST_P7_Cluster6	Platelet/Megakaryocyte	0.000400590536501076	Immune
+MP	MP_ST_P7_Cluster6	B	0.000472158864384843	Immune
+MP	MP_ST_P7_Cluster6	IGSF21+ Dendritic	0.000686533563371305	Immune
+MP	MP_ST_P7_Cluster6	EREG+ Dendritic	0	Immune
+MP	MP_ST_P7_Cluster6	Plasmacytoid Dendritic	2.21363971989658e-05	Immune
+MP	MP_ST_P7_Cluster6	Myeloid Dendritic Type 1	0	Immune
+MP	MP_ST_P7_Cluster6	TREM2+ Dendritic	0	Immune
+MP	MP_ST_P7_Cluster6	Differentiating Basal	4.25261346137925e-05	Epithelial
+MP	MP_ST_P7_Cluster6	Proliferating Basal	0.00871215692075606	Epithelial
+MP	MP_ST_P7_Cluster6	Basal	0.000331207514739136	Epithelial
+MP	MP_ST_P7_Cluster6	Plasma	7.61972888795135e-05	Immune
+MP	MP_ST_P7_Cluster6	Macrophage	0.0244342325485847	Immune
+MP	MP_ST_P7_Cluster6	Basophil/Mast 1	0.00414534735699463	Immune
+MP	MP_ST_P7_Cluster6	Proliferating Macrophage	0.00114380754151274	Immune
+MP	MP_ST_P7_Cluster6	Capillary Aerocyte	0.0137047257958883	Endothelial
+MP	MP_ST_P7_Cluster6	Capillary	0.00858821092129992	Endothelial
+MP	MP_ST_P7_Cluster6	Bronchial Vessel 2	2.04176995384986e-05	Endothelial
+MP	MP_ST_P7_Cluster6	Vein	0.0196103797696695	Endothelial
+MP	MP_ST_P7_Cluster6	Artery	0.000181206328835768	Endothelial
+MP	MP_ST_P7_Cluster6	Lymphatic	0.0095226090733121	Endothelial
+MP	MP_ST_P7_Cluster6	Bronchial Vessel 1	0.00117761397594999	Endothelial
+MP	MP_ST_P7_Cluster6	Airway Smooth Muscle	1.58862501233557e-05	Stroma
+MP	MP_ST_P7_Cluster6	Alveolar Epithelial Type 2	0.644560906694749	Epithelial
+MP	MP_ST_P7_Cluster6	Club	0.0162016652684041	Epithelial
+MP	MP_ST_P7_Cluster6	Pericyte	0.0501551637830263	Stroma
+MP	MP_ST_P7_Cluster6	Myofibroblast	0.000644672362450254	Stroma
+MP	MP_ST_P7_Cluster6	Alveolar Epithelial Type 1	0.00166660221433887	Epithelial
+MP	MP_ST_P7_Cluster6	Ciliated	0.0037806932828491	Epithelial
+MP	MP_ST_P7_Cluster6	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P7_Cluster6	Alveolar Fibroblast	0.000860495144987996	Stroma
+MP	MP_ST_P7_Cluster6	Lipofibroblast	0	Stroma
+MP	MP_ST_P7_Cluster6	Mesothelial	8.18891134135615e-06	Stroma
+MP	MP_ST_P7_Cluster6	Capillary Intermediate 1	0.000613233639567066	Endothelial
+MP	MP_ST_P7_Cluster6	Capillary Intermediate 2	0.00171087289923064	Endothelial
+MP	MP_ST_P7_Cluster6	Vascular Smooth Muscle	0.000243288565937151	Stroma
+MP	MP_ST_P7_Cluster6	Mucous	0.0157377240800349	Epithelial
+MP	MP_ST_P7_Cluster6	Proliferating NK/T	0.00226824985613292	Immune
+MP	MP_ST_P7_Cluster6	Natural Killer T	0.000158480326259303	Immune
+MP	MP_ST_P7_Cluster6	OLR1+ Classical Monocyte	0	Immune
+MP	MP_ST_P7_Cluster6	Intermediate Monocyte	0	Immune
+MP	MP_ST_P7_Cluster6	Basophil/Mast 2	0.00112512945154106	Immune
+MP	MP_ST_P7_Cluster6	Signaling Alveolar Epithelial Type 2	0.148067129103345	Epithelial
+MP	MP_ST_P7_Cluster6	Proximal Basal	0	Epithelial
+MP	MP_ST_P7_Cluster6	Neuroendocrine	0	Epithelial
+MP	MP_ST_P7_Cluster6	Fibromyocyte	1.06548135063591e-05	Stroma
+MP	MP_ST_P7_Cluster6	Ionocyte	0	Epithelial
+MP	MP_ST_P7_Cluster6	Serous	0	Epithelial
+MP	MP_ST_P7_Cluster6	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P7_Cluster6	Goblet	0	Epithelial
+MP	MP_ST_P7_Cluster6	Neutrophil	0	Immune
+MP	MP_ST_P7_Cluster6	Dendritic	0	Immune
+N	N_ST_P1_Cluster8	CD4+ Memory/Effector T	0.010346224859094	Immune
+N	N_ST_P1_Cluster8	CD4+ Naive T	0.00147782237180081	Immune
+N	N_ST_P1_Cluster8	CD8+ Memory/Effector T	0.00699619435748967	Immune
+N	N_ST_P1_Cluster8	CD8+ Naive T	0.00202054291746932	Immune
+N	N_ST_P1_Cluster8	Natural Killer	0.00156797956446708	Immune
+N	N_ST_P1_Cluster8	Classical Monocyte	0.00300126321007173	Immune
+N	N_ST_P1_Cluster8	Nonclassical Monocyte	0.000676547692328157	Immune
+N	N_ST_P1_Cluster8	Myeloid Dendritic Type 2	0.000521524602872622	Immune
+N	N_ST_P1_Cluster8	Platelet/Megakaryocyte	2.37907700185161e-06	Immune
+N	N_ST_P1_Cluster8	B	0.022660647539543	Immune
+N	N_ST_P1_Cluster8	IGSF21+ Dendritic	0.0275231470953152	Immune
+N	N_ST_P1_Cluster8	EREG+ Dendritic	0.00274023408747293	Immune
+N	N_ST_P1_Cluster8	Plasmacytoid Dendritic	0.0274955171217002	Immune
+N	N_ST_P1_Cluster8	Myeloid Dendritic Type 1	0.00336602370433997	Immune
+N	N_ST_P1_Cluster8	TREM2+ Dendritic	0.222458026836491	Immune
+N	N_ST_P1_Cluster8	Differentiating Basal	0.00054561034503986	Epithelial
+N	N_ST_P1_Cluster8	Proliferating Basal	0	Epithelial
+N	N_ST_P1_Cluster8	Basal	0.0018839031902319	Epithelial
+N	N_ST_P1_Cluster8	Plasma	0.0721982905577617	Immune
+N	N_ST_P1_Cluster8	Macrophage	0.128842657586849	Immune
+N	N_ST_P1_Cluster8	Basophil/Mast 1	0.00590622709376949	Immune
+N	N_ST_P1_Cluster8	Proliferating Macrophage	0.000117841546030026	Immune
+N	N_ST_P1_Cluster8	Capillary Aerocyte	0.0135458292426558	Endothelial
+N	N_ST_P1_Cluster8	Capillary	0.0455299478290647	Endothelial
+N	N_ST_P1_Cluster8	Bronchial Vessel 2	0.00566609149624199	Endothelial
+N	N_ST_P1_Cluster8	Vein	0.035133219531614	Endothelial
+N	N_ST_P1_Cluster8	Artery	0.0213914940103628	Endothelial
+N	N_ST_P1_Cluster8	Lymphatic	0.0181965726086302	Endothelial
+N	N_ST_P1_Cluster8	Bronchial Vessel 1	0.00508018576835968	Endothelial
+N	N_ST_P1_Cluster8	Airway Smooth Muscle	0.0655488799007516	Stroma
+N	N_ST_P1_Cluster8	Alveolar Epithelial Type 2	0.00585003061447391	Epithelial
+N	N_ST_P1_Cluster8	Club	0.00680855880650083	Epithelial
+N	N_ST_P1_Cluster8	Pericyte	0.016814327827037	Stroma
+N	N_ST_P1_Cluster8	Myofibroblast	0.00337123907147897	Stroma
+N	N_ST_P1_Cluster8	Alveolar Epithelial Type 1	0.00166598507353721	Epithelial
+N	N_ST_P1_Cluster8	Ciliated	0.0982737855678014	Epithelial
+N	N_ST_P1_Cluster8	Adventitial Fibroblast	0.0414730086492136	Stroma
+N	N_ST_P1_Cluster8	Alveolar Fibroblast	0.0110694180689075	Stroma
+N	N_ST_P1_Cluster8	Lipofibroblast	0.00777500632121821	Stroma
+N	N_ST_P1_Cluster8	Mesothelial	0	Stroma
+N	N_ST_P1_Cluster8	Capillary Intermediate 1	0.00307310349742324	Endothelial
+N	N_ST_P1_Cluster8	Capillary Intermediate 2	0.00262103369527204	Endothelial
+N	N_ST_P1_Cluster8	Vascular Smooth Muscle	0.0132044286514239	Stroma
+N	N_ST_P1_Cluster8	Mucous	0.0137786897525021	Epithelial
+N	N_ST_P1_Cluster8	Proliferating NK/T	0.000333069467913385	Immune
+N	N_ST_P1_Cluster8	Natural Killer T	0.000775599790326929	Immune
+N	N_ST_P1_Cluster8	OLR1+ Classical Monocyte	0	Immune
+N	N_ST_P1_Cluster8	Intermediate Monocyte	0.00194812789332357	Immune
+N	N_ST_P1_Cluster8	Basophil/Mast 2	0.0177451445691233	Immune
+N	N_ST_P1_Cluster8	Signaling Alveolar Epithelial Type 2	0.000308920934017192	Epithelial
+N	N_ST_P1_Cluster8	Proximal Basal	0	Epithelial
+N	N_ST_P1_Cluster8	Neuroendocrine	2.08171870905713e-05	Epithelial
+N	N_ST_P1_Cluster8	Fibromyocyte	9.40649950689242e-05	Stroma
+N	N_ST_P1_Cluster8	Ionocyte	0.000128858204907526	Epithelial
+N	N_ST_P1_Cluster8	Serous	0	Epithelial
+N	N_ST_P1_Cluster8	Proximal Ciliated	0	Epithelial
+N	N_ST_P1_Cluster8	Goblet	0.000424367007077863	Epithelial
+N	N_ST_P1_Cluster8	Neutrophil	1.588609540367e-06	Immune
+N	N_ST_P1_Cluster8	Dendritic	0	Immune
+MP	MP_49_3_Cluster7	CD4+ Memory/Effector T	0.0868718508953836	Immune
+MP	MP_49_3_Cluster7	CD4+ Naive T	0.0213052126010114	Immune
+MP	MP_49_3_Cluster7	CD8+ Memory/Effector T	0.0126922230551329	Immune
+MP	MP_49_3_Cluster7	CD8+ Naive T	0.0161534162305659	Immune
+MP	MP_49_3_Cluster7	Natural Killer	0.0886832047041879	Immune
+MP	MP_49_3_Cluster7	Classical Monocyte	0.0369795854169707	Immune
+MP	MP_49_3_Cluster7	Nonclassical Monocyte	0.021719444847083	Immune
+MP	MP_49_3_Cluster7	Myeloid Dendritic Type 2	0.000110843764565276	Immune
+MP	MP_49_3_Cluster7	Platelet/Megakaryocyte	0.0084592680291585	Immune
+MP	MP_49_3_Cluster7	B	0.0019671845339357	Immune
+MP	MP_49_3_Cluster7	IGSF21+ Dendritic	0.00183620280676608	Immune
+MP	MP_49_3_Cluster7	EREG+ Dendritic	0	Immune
+MP	MP_49_3_Cluster7	Plasmacytoid Dendritic	0.0018563373193597	Immune
+MP	MP_49_3_Cluster7	Myeloid Dendritic Type 1	0.00130504878860828	Immune
+MP	MP_49_3_Cluster7	TREM2+ Dendritic	0	Immune
+MP	MP_49_3_Cluster7	Differentiating Basal	0.00577471318203674	Epithelial
+MP	MP_49_3_Cluster7	Proliferating Basal	8.76404908453206e-05	Epithelial
+MP	MP_49_3_Cluster7	Basal	0.0230580636202594	Epithelial
+MP	MP_49_3_Cluster7	Plasma	0.000281605213581962	Immune
+MP	MP_49_3_Cluster7	Macrophage	0.196583470165741	Immune
+MP	MP_49_3_Cluster7	Basophil/Mast 1	0.00195599496275411	Immune
+MP	MP_49_3_Cluster7	Proliferating Macrophage	4.4385634840401e-05	Immune
+MP	MP_49_3_Cluster7	Capillary Aerocyte	0.0360792764237196	Endothelial
+MP	MP_49_3_Cluster7	Capillary	0.00480807836192667	Endothelial
+MP	MP_49_3_Cluster7	Bronchial Vessel 2	0.00118931139632948	Endothelial
+MP	MP_49_3_Cluster7	Vein	0	Endothelial
+MP	MP_49_3_Cluster7	Artery	0.00103744597072085	Endothelial
+MP	MP_49_3_Cluster7	Lymphatic	0.0115087145791802	Endothelial
+MP	MP_49_3_Cluster7	Bronchial Vessel 1	0.0046007588227796	Endothelial
+MP	MP_49_3_Cluster7	Airway Smooth Muscle	0.0021233323463942	Stroma
+MP	MP_49_3_Cluster7	Alveolar Epithelial Type 2	0.028828504438185	Epithelial
+MP	MP_49_3_Cluster7	Club	0.121066965459459	Epithelial
+MP	MP_49_3_Cluster7	Pericyte	0.00830523932433715	Stroma
+MP	MP_49_3_Cluster7	Myofibroblast	0	Stroma
+MP	MP_49_3_Cluster7	Alveolar Epithelial Type 1	0.112032707611896	Epithelial
+MP	MP_49_3_Cluster7	Ciliated	0.0123051928554344	Epithelial
+MP	MP_49_3_Cluster7	Adventitial Fibroblast	0	Stroma
+MP	MP_49_3_Cluster7	Alveolar Fibroblast	0	Stroma
+MP	MP_49_3_Cluster7	Lipofibroblast	0	Stroma
+MP	MP_49_3_Cluster7	Mesothelial	0	Stroma
+MP	MP_49_3_Cluster7	Capillary Intermediate 1	0	Endothelial
+MP	MP_49_3_Cluster7	Capillary Intermediate 2	0.012626350206532	Endothelial
+MP	MP_49_3_Cluster7	Vascular Smooth Muscle	0.00288110316443005	Stroma
+MP	MP_49_3_Cluster7	Mucous	0.021949754922235	Epithelial
+MP	MP_49_3_Cluster7	Proliferating NK/T	0.000236297041778759	Immune
+MP	MP_49_3_Cluster7	Natural Killer T	0.00762777285283697	Immune
+MP	MP_49_3_Cluster7	OLR1+ Classical Monocyte	0.00442494374881815	Immune
+MP	MP_49_3_Cluster7	Intermediate Monocyte	0.00370695249286622	Immune
+MP	MP_49_3_Cluster7	Basophil/Mast 2	0.000281474211941581	Immune
+MP	MP_49_3_Cluster7	Signaling Alveolar Epithelial Type 2	0.0218505963900633	Epithelial
+MP	MP_49_3_Cluster7	Proximal Basal	0	Epithelial
+MP	MP_49_3_Cluster7	Neuroendocrine	0.00241376594113999	Epithelial
+MP	MP_49_3_Cluster7	Fibromyocyte	0	Stroma
+MP	MP_49_3_Cluster7	Ionocyte	0.0178039368698114	Epithelial
+MP	MP_49_3_Cluster7	Serous	0	Epithelial
+MP	MP_49_3_Cluster7	Proximal Ciliated	0.000452103746341169	Epithelial
+MP	MP_49_3_Cluster7	Goblet	0.0320192290682839	Epithelial
+MP	MP_49_3_Cluster7	Neutrophil	0.000114495489772043	Immune
+MP	MP_49_3_Cluster7	Dendritic	0	Immune
+Lep	Lep_ST_P8_1_Cluster6	CD4+ Memory/Effector T	0.012572550660043	Immune
+Lep	Lep_ST_P8_1_Cluster6	CD4+ Naive T	0.00706605561952626	Immune
+Lep	Lep_ST_P8_1_Cluster6	CD8+ Memory/Effector T	0.00658721915998312	Immune
+Lep	Lep_ST_P8_1_Cluster6	CD8+ Naive T	0.0205880352092626	Immune
+Lep	Lep_ST_P8_1_Cluster6	Natural Killer	0.107130458448383	Immune
+Lep	Lep_ST_P8_1_Cluster6	Classical Monocyte	0.00803444113410145	Immune
+Lep	Lep_ST_P8_1_Cluster6	Nonclassical Monocyte	0.000459539391058479	Immune
+Lep	Lep_ST_P8_1_Cluster6	Myeloid Dendritic Type 2	0.000168776985898958	Immune
+Lep	Lep_ST_P8_1_Cluster6	Platelet/Megakaryocyte	0.000229196578497969	Immune
+Lep	Lep_ST_P8_1_Cluster6	B	0.0157908070785589	Immune
+Lep	Lep_ST_P8_1_Cluster6	IGSF21+ Dendritic	0.00565394439362063	Immune
+Lep	Lep_ST_P8_1_Cluster6	EREG+ Dendritic	0.00142261144474705	Immune
+Lep	Lep_ST_P8_1_Cluster6	Plasmacytoid Dendritic	0	Immune
+Lep	Lep_ST_P8_1_Cluster6	Myeloid Dendritic Type 1	0.000103237791578415	Immune
+Lep	Lep_ST_P8_1_Cluster6	TREM2+ Dendritic	0.0129474062041865	Immune
+Lep	Lep_ST_P8_1_Cluster6	Differentiating Basal	0.015020072703696	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Proliferating Basal	0.0123594122169329	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Basal	0.0203586306174254	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Plasma	0.0125841738627425	Immune
+Lep	Lep_ST_P8_1_Cluster6	Macrophage	0.295814646183212	Immune
+Lep	Lep_ST_P8_1_Cluster6	Basophil/Mast 1	0.0117081266791501	Immune
+Lep	Lep_ST_P8_1_Cluster6	Proliferating Macrophage	0.000492732641403575	Immune
+Lep	Lep_ST_P8_1_Cluster6	Capillary Aerocyte	0.0679345906023798	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Capillary	0.0268271870885658	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Bronchial Vessel 2	0.00355935167719527	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Vein	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Artery	0.00148947438368808	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Lymphatic	0.00101756012725328	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Bronchial Vessel 1	5.02823599432462e-05	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Airway Smooth Muscle	0.00187978779804144	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Alveolar Epithelial Type 2	0.100466830505883	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Club	0.0288797702981164	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Pericyte	0.0612698540384965	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Myofibroblast	0.00128974205338463	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Alveolar Epithelial Type 1	0.061377861269599	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Ciliated	0.0018550477131251	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Adventitial Fibroblast	7.5795813933214e-05	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Alveolar Fibroblast	0.000296800846748128	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Lipofibroblast	0	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Mesothelial	2.23112972319032e-06	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Capillary Intermediate 1	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Capillary Intermediate 2	0.0118190376523659	Endothelial
+Lep	Lep_ST_P8_1_Cluster6	Vascular Smooth Muscle	0.000680467142353463	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Mucous	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Proliferating NK/T	0.00386952476076188	Immune
+Lep	Lep_ST_P8_1_Cluster6	Natural Killer T	0.00609057440051875	Immune
+Lep	Lep_ST_P8_1_Cluster6	OLR1+ Classical Monocyte	0.0163857857961213	Immune
+Lep	Lep_ST_P8_1_Cluster6	Intermediate Monocyte	0.0007928132177868	Immune
+Lep	Lep_ST_P8_1_Cluster6	Basophil/Mast 2	0.00044290184874065	Immune
+Lep	Lep_ST_P8_1_Cluster6	Signaling Alveolar Epithelial Type 2	0.033694793392088	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Proximal Basal	7.86214641257452e-05	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Neuroendocrine	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Fibromyocyte	0	Stroma
+Lep	Lep_ST_P8_1_Cluster6	Ionocyte	0.000197896729341377	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Serous	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Proximal Ciliated	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Goblet	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster6	Neutrophil	0.000583340885711316	Immune
+Lep	Lep_ST_P8_1_Cluster6	Dendritic	0	Immune
+MP	MP_ST_P8_1_Cluster5	CD4+ Memory/Effector T	0.0412719599499705	Immune
+MP	MP_ST_P8_1_Cluster5	CD4+ Naive T	0.0352258802358368	Immune
+MP	MP_ST_P8_1_Cluster5	CD8+ Memory/Effector T	0.00893445590002635	Immune
+MP	MP_ST_P8_1_Cluster5	CD8+ Naive T	0.0105447322155955	Immune
+MP	MP_ST_P8_1_Cluster5	Natural Killer	0.0187299035179052	Immune
+MP	MP_ST_P8_1_Cluster5	Classical Monocyte	0.0258988470664524	Immune
+MP	MP_ST_P8_1_Cluster5	Nonclassical Monocyte	0.0133552674130949	Immune
+MP	MP_ST_P8_1_Cluster5	Myeloid Dendritic Type 2	0.00420026146539227	Immune
+MP	MP_ST_P8_1_Cluster5	Platelet/Megakaryocyte	0.00231712450829199	Immune
+MP	MP_ST_P8_1_Cluster5	B	0.0150822472980908	Immune
+MP	MP_ST_P8_1_Cluster5	IGSF21+ Dendritic	0.0262089031324252	Immune
+MP	MP_ST_P8_1_Cluster5	EREG+ Dendritic	0.0187981076186027	Immune
+MP	MP_ST_P8_1_Cluster5	Plasmacytoid Dendritic	0	Immune
+MP	MP_ST_P8_1_Cluster5	Myeloid Dendritic Type 1	0.000490020469755103	Immune
+MP	MP_ST_P8_1_Cluster5	TREM2+ Dendritic	0.0630783858713209	Immune
+MP	MP_ST_P8_1_Cluster5	Differentiating Basal	0.0127734635865941	Epithelial
+MP	MP_ST_P8_1_Cluster5	Proliferating Basal	0	Epithelial
+MP	MP_ST_P8_1_Cluster5	Basal	0.00186279584605273	Epithelial
+MP	MP_ST_P8_1_Cluster5	Plasma	0	Immune
+MP	MP_ST_P8_1_Cluster5	Macrophage	0.578117762824256	Immune
+MP	MP_ST_P8_1_Cluster5	Basophil/Mast 1	0.00690089977280714	Immune
+MP	MP_ST_P8_1_Cluster5	Proliferating Macrophage	0.0186170477477091	Immune
+MP	MP_ST_P8_1_Cluster5	Capillary Aerocyte	0.00962385721606824	Endothelial
+MP	MP_ST_P8_1_Cluster5	Capillary	0.0146177031292546	Endothelial
+MP	MP_ST_P8_1_Cluster5	Bronchial Vessel 2	0.00546981740204413	Endothelial
+MP	MP_ST_P8_1_Cluster5	Vein	0	Endothelial
+MP	MP_ST_P8_1_Cluster5	Artery	0.00448668387634644	Endothelial
+MP	MP_ST_P8_1_Cluster5	Lymphatic	0.000711838774046648	Endothelial
+MP	MP_ST_P8_1_Cluster5	Bronchial Vessel 1	0.000525572599338032	Endothelial
+MP	MP_ST_P8_1_Cluster5	Airway Smooth Muscle	0.000534826634925417	Stroma
+MP	MP_ST_P8_1_Cluster5	Alveolar Epithelial Type 2	0.000887228910215702	Epithelial
+MP	MP_ST_P8_1_Cluster5	Club	0.00406003340600336	Epithelial
+MP	MP_ST_P8_1_Cluster5	Pericyte	0.000261761910475691	Stroma
+MP	MP_ST_P8_1_Cluster5	Myofibroblast	0.000318710696568762	Stroma
+MP	MP_ST_P8_1_Cluster5	Alveolar Epithelial Type 1	3.02407710028591e-05	Epithelial
+MP	MP_ST_P8_1_Cluster5	Ciliated	0.000403002202727325	Epithelial
+MP	MP_ST_P8_1_Cluster5	Adventitial Fibroblast	0.00101906841365792	Stroma
+MP	MP_ST_P8_1_Cluster5	Alveolar Fibroblast	0	Stroma
+MP	MP_ST_P8_1_Cluster5	Lipofibroblast	0	Stroma
+MP	MP_ST_P8_1_Cluster5	Mesothelial	0	Stroma
+MP	MP_ST_P8_1_Cluster5	Capillary Intermediate 1	0	Endothelial
+MP	MP_ST_P8_1_Cluster5	Capillary Intermediate 2	0.00374896068715883	Endothelial
+MP	MP_ST_P8_1_Cluster5	Vascular Smooth Muscle	0.000375590264458557	Stroma
+MP	MP_ST_P8_1_Cluster5	Mucous	0.00676815961309562	Epithelial
+MP	MP_ST_P8_1_Cluster5	Proliferating NK/T	0.0170098860372451	Immune
+MP	MP_ST_P8_1_Cluster5	Natural Killer T	3.98133955262665e-05	Immune
+MP	MP_ST_P8_1_Cluster5	OLR1+ Classical Monocyte	0.0170120420743647	Immune
+MP	MP_ST_P8_1_Cluster5	Intermediate Monocyte	0.00529111521949504	Immune
+MP	MP_ST_P8_1_Cluster5	Basophil/Mast 2	0.0016426276133722	Immune
+MP	MP_ST_P8_1_Cluster5	Signaling Alveolar Epithelial Type 2	0.000283997169643839	Epithelial
+MP	MP_ST_P8_1_Cluster5	Proximal Basal	0	Epithelial
+MP	MP_ST_P8_1_Cluster5	Neuroendocrine	0.000338162134419558	Epithelial
+MP	MP_ST_P8_1_Cluster5	Fibromyocyte	0	Stroma
+MP	MP_ST_P8_1_Cluster5	Ionocyte	3.39180948379151e-05	Epithelial
+MP	MP_ST_P8_1_Cluster5	Serous	0	Epithelial
+MP	MP_ST_P8_1_Cluster5	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P8_1_Cluster5	Goblet	0	Epithelial
+MP	MP_ST_P8_1_Cluster5	Neutrophil	0.00209731531352797	Immune
+MP	MP_ST_P8_1_Cluster5	Dendritic	0	Immune
+MP	MP_ST_P1_Cluster9	CD4+ Memory/Effector T	0.0178609810909719	Immune
+MP	MP_ST_P1_Cluster9	CD4+ Naive T	0.00322237945286039	Immune
+MP	MP_ST_P1_Cluster9	CD8+ Memory/Effector T	0.00469980353202129	Immune
+MP	MP_ST_P1_Cluster9	CD8+ Naive T	0.0087642005629926	Immune
+MP	MP_ST_P1_Cluster9	Natural Killer	0.0458543730578866	Immune
+MP	MP_ST_P1_Cluster9	Classical Monocyte	0.0102379282367935	Immune
+MP	MP_ST_P1_Cluster9	Nonclassical Monocyte	0.00309270901599006	Immune
+MP	MP_ST_P1_Cluster9	Myeloid Dendritic Type 2	0.000597471798442035	Immune
+MP	MP_ST_P1_Cluster9	Platelet/Megakaryocyte	0	Immune
+MP	MP_ST_P1_Cluster9	B	0.00469889272848747	Immune
+MP	MP_ST_P1_Cluster9	IGSF21+ Dendritic	0.0676941381431175	Immune
+MP	MP_ST_P1_Cluster9	EREG+ Dendritic	0.016228181107501	Immune
+MP	MP_ST_P1_Cluster9	Plasmacytoid Dendritic	0.0109386994613405	Immune
+MP	MP_ST_P1_Cluster9	Myeloid Dendritic Type 1	0.0242883607473434	Immune
+MP	MP_ST_P1_Cluster9	TREM2+ Dendritic	0.00386327550784039	Immune
+MP	MP_ST_P1_Cluster9	Differentiating Basal	0.00297295232032891	Epithelial
+MP	MP_ST_P1_Cluster9	Proliferating Basal	0	Epithelial
+MP	MP_ST_P1_Cluster9	Basal	0.0111936050098664	Epithelial
+MP	MP_ST_P1_Cluster9	Plasma	0.00028288066287455	Immune
+MP	MP_ST_P1_Cluster9	Macrophage	0.0154232120499878	Immune
+MP	MP_ST_P1_Cluster9	Basophil/Mast 1	0.00734682926085809	Immune
+MP	MP_ST_P1_Cluster9	Proliferating Macrophage	3.54216280687593e-05	Immune
+MP	MP_ST_P1_Cluster9	Capillary Aerocyte	0.0675267457960681	Endothelial
+MP	MP_ST_P1_Cluster9	Capillary	0.0437478779513739	Endothelial
+MP	MP_ST_P1_Cluster9	Bronchial Vessel 2	0.00219821845338986	Endothelial
+MP	MP_ST_P1_Cluster9	Vein	0.0519147591120805	Endothelial
+MP	MP_ST_P1_Cluster9	Artery	0.00677221490940572	Endothelial
+MP	MP_ST_P1_Cluster9	Lymphatic	0.011060271908385	Endothelial
+MP	MP_ST_P1_Cluster9	Bronchial Vessel 1	0.00835595272919737	Endothelial
+MP	MP_ST_P1_Cluster9	Airway Smooth Muscle	0.00810429865467986	Stroma
+MP	MP_ST_P1_Cluster9	Alveolar Epithelial Type 2	0.285879043007396	Epithelial
+MP	MP_ST_P1_Cluster9	Club	0.0216038579587813	Epithelial
+MP	MP_ST_P1_Cluster9	Pericyte	0.0118929210248013	Stroma
+MP	MP_ST_P1_Cluster9	Myofibroblast	0.000935442068168188	Stroma
+MP	MP_ST_P1_Cluster9	Alveolar Epithelial Type 1	0.030387188803415	Epithelial
+MP	MP_ST_P1_Cluster9	Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster9	Adventitial Fibroblast	0.00155324629621033	Stroma
+MP	MP_ST_P1_Cluster9	Alveolar Fibroblast	0.0869529032883419	Stroma
+MP	MP_ST_P1_Cluster9	Lipofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster9	Mesothelial	7.08002378963279e-05	Stroma
+MP	MP_ST_P1_Cluster9	Capillary Intermediate 1	0.00195171923235888	Endothelial
+MP	MP_ST_P1_Cluster9	Capillary Intermediate 2	0.00701149080569846	Endothelial
+MP	MP_ST_P1_Cluster9	Vascular Smooth Muscle	0.0141655016589321	Stroma
+MP	MP_ST_P1_Cluster9	Mucous	0.035268316034388	Epithelial
+MP	MP_ST_P1_Cluster9	Proliferating NK/T	0.00281553646826815	Immune
+MP	MP_ST_P1_Cluster9	Natural Killer T	0.00146333879095973	Immune
+MP	MP_ST_P1_Cluster9	OLR1+ Classical Monocyte	0.000392120587970473	Immune
+MP	MP_ST_P1_Cluster9	Intermediate Monocyte	0.00160496367572229	Immune
+MP	MP_ST_P1_Cluster9	Basophil/Mast 2	0.00545927675230138	Immune
+MP	MP_ST_P1_Cluster9	Signaling Alveolar Epithelial Type 2	0.0253501811024558	Epithelial
+MP	MP_ST_P1_Cluster9	Proximal Basal	0	Epithelial
+MP	MP_ST_P1_Cluster9	Neuroendocrine	0	Epithelial
+MP	MP_ST_P1_Cluster9	Fibromyocyte	0	Stroma
+MP	MP_ST_P1_Cluster9	Ionocyte	0.000276351908844767	Epithelial
+MP	MP_ST_P1_Cluster9	Serous	0	Epithelial
+MP	MP_ST_P1_Cluster9	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster9	Goblet	0.00507331450881586	Epithelial
+MP	MP_ST_P1_Cluster9	Neutrophil	0.000915850898120639	Immune
+MP	MP_ST_P1_Cluster9	Dendritic	0	Immune
+N	N_ST_P7_Cluster0	CD4+ Memory/Effector T	0.083391669098013	Immune
+N	N_ST_P7_Cluster0	CD4+ Naive T	0.102198017379784	Immune
+N	N_ST_P7_Cluster0	CD8+ Memory/Effector T	0.0300941885380028	Immune
+N	N_ST_P7_Cluster0	CD8+ Naive T	0.0673955862994083	Immune
+N	N_ST_P7_Cluster0	Natural Killer	0.0584380995929697	Immune
+N	N_ST_P7_Cluster0	Classical Monocyte	0.0595518234793915	Immune
+N	N_ST_P7_Cluster0	Nonclassical Monocyte	0.0287636944904226	Immune
+N	N_ST_P7_Cluster0	Myeloid Dendritic Type 2	5.98966694690908e-05	Immune
+N	N_ST_P7_Cluster0	Platelet/Megakaryocyte	0.00728251895382891	Immune
+N	N_ST_P7_Cluster0	B	0.0539207806407644	Immune
+N	N_ST_P7_Cluster0	IGSF21+ Dendritic	0.003036873376266	Immune
+N	N_ST_P7_Cluster0	EREG+ Dendritic	0.000976177151885508	Immune
+N	N_ST_P7_Cluster0	Plasmacytoid Dendritic	0	Immune
+N	N_ST_P7_Cluster0	Myeloid Dendritic Type 1	0.00315055345406875	Immune
+N	N_ST_P7_Cluster0	TREM2+ Dendritic	0.00110981505749577	Immune
+N	N_ST_P7_Cluster0	Differentiating Basal	0.00712839595525372	Epithelial
+N	N_ST_P7_Cluster0	Proliferating Basal	0.00628201125828497	Epithelial
+N	N_ST_P7_Cluster0	Basal	0.00829249667237777	Epithelial
+N	N_ST_P7_Cluster0	Plasma	0.000443591236451471	Immune
+N	N_ST_P7_Cluster0	Macrophage	0.0882934646159797	Immune
+N	N_ST_P7_Cluster0	Basophil/Mast 1	0.0150292456771215	Immune
+N	N_ST_P7_Cluster0	Proliferating Macrophage	0	Immune
+N	N_ST_P7_Cluster0	Capillary Aerocyte	0.0533672281960407	Endothelial
+N	N_ST_P7_Cluster0	Capillary	0.0370570253596653	Endothelial
+N	N_ST_P7_Cluster0	Bronchial Vessel 2	0.00222836581599956	Endothelial
+N	N_ST_P7_Cluster0	Vein	0.0111556904043689	Endothelial
+N	N_ST_P7_Cluster0	Artery	0	Endothelial
+N	N_ST_P7_Cluster0	Lymphatic	0.0268840300670383	Endothelial
+N	N_ST_P7_Cluster0	Bronchial Vessel 1	0.00597619612907172	Endothelial
+N	N_ST_P7_Cluster0	Airway Smooth Muscle	0.0562042910101533	Stroma
+N	N_ST_P7_Cluster0	Alveolar Epithelial Type 2	0.00188480119666304	Epithelial
+N	N_ST_P7_Cluster0	Club	0.0142852828095488	Epithelial
+N	N_ST_P7_Cluster0	Pericyte	0.00456377807556998	Stroma
+N	N_ST_P7_Cluster0	Myofibroblast	2.81596046269058e-06	Stroma
+N	N_ST_P7_Cluster0	Alveolar Epithelial Type 1	0.0330298731419901	Epithelial
+N	N_ST_P7_Cluster0	Ciliated	0.00386457031854009	Epithelial
+N	N_ST_P7_Cluster0	Adventitial Fibroblast	0	Stroma
+N	N_ST_P7_Cluster0	Alveolar Fibroblast	5.27883699619502e-05	Stroma
+N	N_ST_P7_Cluster0	Lipofibroblast	0	Stroma
+N	N_ST_P7_Cluster0	Mesothelial	0	Stroma
+N	N_ST_P7_Cluster0	Capillary Intermediate 1	0.000381030550967698	Endothelial
+N	N_ST_P7_Cluster0	Capillary Intermediate 2	0.0406351861497255	Endothelial
+N	N_ST_P7_Cluster0	Vascular Smooth Muscle	0.0262516031865566	Stroma
+N	N_ST_P7_Cluster0	Mucous	0.00529547441763861	Epithelial
+N	N_ST_P7_Cluster0	Proliferating NK/T	5.07121162039232e-05	Immune
+N	N_ST_P7_Cluster0	Natural Killer T	0.0114933011808908	Immune
+N	N_ST_P7_Cluster0	OLR1+ Classical Monocyte	0.000447946415146504	Immune
+N	N_ST_P7_Cluster0	Intermediate Monocyte	0.00913041353713805	Immune
+N	N_ST_P7_Cluster0	Basophil/Mast 2	0.0152056990709453	Immune
+N	N_ST_P7_Cluster0	Signaling Alveolar Epithelial Type 2	0.000891742110336773	Epithelial
+N	N_ST_P7_Cluster0	Proximal Basal	5.00193487004489e-06	Epithelial
+N	N_ST_P7_Cluster0	Neuroendocrine	0.00336065174237994	Epithelial
+N	N_ST_P7_Cluster0	Fibromyocyte	0	Stroma
+N	N_ST_P7_Cluster0	Ionocyte	0.00751961746109664	Epithelial
+N	N_ST_P7_Cluster0	Serous	0	Epithelial
+N	N_ST_P7_Cluster0	Proximal Ciliated	0	Epithelial
+N	N_ST_P7_Cluster0	Goblet	0.00239348698929571	Epithelial
+N	N_ST_P7_Cluster0	Neutrophil	0.00154249668449456	Immune
+N	N_ST_P7_Cluster0	Dendritic	0	Immune
+PA	PA_ST_P1_Cluster7	CD4+ Memory/Effector T	0.0171715210982595	Immune
+PA	PA_ST_P1_Cluster7	CD4+ Naive T	0.000545970749556327	Immune
+PA	PA_ST_P1_Cluster7	CD8+ Memory/Effector T	0.0214376857067507	Immune
+PA	PA_ST_P1_Cluster7	CD8+ Naive T	0.0315992438730352	Immune
+PA	PA_ST_P1_Cluster7	Natural Killer	0.00267474926143584	Immune
+PA	PA_ST_P1_Cluster7	Classical Monocyte	0.00345460249071838	Immune
+PA	PA_ST_P1_Cluster7	Nonclassical Monocyte	7.92648440372256e-05	Immune
+PA	PA_ST_P1_Cluster7	Myeloid Dendritic Type 2	0.0170142569656659	Immune
+PA	PA_ST_P1_Cluster7	Platelet/Megakaryocyte	0.00181218467395193	Immune
+PA	PA_ST_P1_Cluster7	B	0.0103162513536702	Immune
+PA	PA_ST_P1_Cluster7	IGSF21+ Dendritic	0	Immune
+PA	PA_ST_P1_Cluster7	EREG+ Dendritic	0.00169258029933524	Immune
+PA	PA_ST_P1_Cluster7	Plasmacytoid Dendritic	0.000951466349626259	Immune
+PA	PA_ST_P1_Cluster7	Myeloid Dendritic Type 1	0.000278024896724587	Immune
+PA	PA_ST_P1_Cluster7	TREM2+ Dendritic	0	Immune
+PA	PA_ST_P1_Cluster7	Differentiating Basal	0.0380268416396682	Epithelial
+PA	PA_ST_P1_Cluster7	Proliferating Basal	0.00243999518105145	Epithelial
+PA	PA_ST_P1_Cluster7	Basal	0.107556391434245	Epithelial
+PA	PA_ST_P1_Cluster7	Plasma	0.000696655420465011	Immune
+PA	PA_ST_P1_Cluster7	Macrophage	0.176825023764471	Immune
+PA	PA_ST_P1_Cluster7	Basophil/Mast 1	0.00150997228699837	Immune
+PA	PA_ST_P1_Cluster7	Proliferating Macrophage	0.0741405225461118	Immune
+PA	PA_ST_P1_Cluster7	Capillary Aerocyte	0.030138204464753	Endothelial
+PA	PA_ST_P1_Cluster7	Capillary	0.0250794594347353	Endothelial
+PA	PA_ST_P1_Cluster7	Bronchial Vessel 2	0	Endothelial
+PA	PA_ST_P1_Cluster7	Vein	0.0108830395680937	Endothelial
+PA	PA_ST_P1_Cluster7	Artery	0.000481228532114132	Endothelial
+PA	PA_ST_P1_Cluster7	Lymphatic	0.00122201031749923	Endothelial
+PA	PA_ST_P1_Cluster7	Bronchial Vessel 1	0.00644564068164429	Endothelial
+PA	PA_ST_P1_Cluster7	Airway Smooth Muscle	0	Stroma
+PA	PA_ST_P1_Cluster7	Alveolar Epithelial Type 2	0.010455722716959	Epithelial
+PA	PA_ST_P1_Cluster7	Club	0.203033208814135	Epithelial
+PA	PA_ST_P1_Cluster7	Pericyte	0.00399159176784228	Stroma
+PA	PA_ST_P1_Cluster7	Myofibroblast	0.00111245332251229	Stroma
+PA	PA_ST_P1_Cluster7	Alveolar Epithelial Type 1	0.088052305786792	Epithelial
+PA	PA_ST_P1_Cluster7	Ciliated	0.00183396446167034	Epithelial
+PA	PA_ST_P1_Cluster7	Adventitial Fibroblast	0	Stroma
+PA	PA_ST_P1_Cluster7	Alveolar Fibroblast	0.000322405689837382	Stroma
+PA	PA_ST_P1_Cluster7	Lipofibroblast	0	Stroma
+PA	PA_ST_P1_Cluster7	Mesothelial	0.000718052774200834	Stroma
+PA	PA_ST_P1_Cluster7	Capillary Intermediate 1	0.00363070177791637	Endothelial
+PA	PA_ST_P1_Cluster7	Capillary Intermediate 2	0.00299541260637962	Endothelial
+PA	PA_ST_P1_Cluster7	Vascular Smooth Muscle	0.000858492405949884	Stroma
+PA	PA_ST_P1_Cluster7	Mucous	0.0526267300240818	Epithelial
+PA	PA_ST_P1_Cluster7	Proliferating NK/T	0.000161027898664403	Immune
+PA	PA_ST_P1_Cluster7	Natural Killer T	0	Immune
+PA	PA_ST_P1_Cluster7	OLR1+ Classical Monocyte	0.00329904973561254	Immune
+PA	PA_ST_P1_Cluster7	Intermediate Monocyte	0.000554107126369456	Immune
+PA	PA_ST_P1_Cluster7	Basophil/Mast 2	0.000223855942340725	Immune
+PA	PA_ST_P1_Cluster7	Signaling Alveolar Epithelial Type 2	0	Epithelial
+PA	PA_ST_P1_Cluster7	Proximal Basal	0.000455645085312748	Epithelial
+PA	PA_ST_P1_Cluster7	Neuroendocrine	0	Epithelial
+PA	PA_ST_P1_Cluster7	Fibromyocyte	0.00063304672140256	Stroma
+PA	PA_ST_P1_Cluster7	Ionocyte	0	Epithelial
+PA	PA_ST_P1_Cluster7	Serous	0	Epithelial
+PA	PA_ST_P1_Cluster7	Proximal Ciliated	0	Epithelial
+PA	PA_ST_P1_Cluster7	Goblet	0.0405640193179707	Epithelial
+PA	PA_ST_P1_Cluster7	Neutrophil	5.41818943328641e-06	Immune
+PA	PA_ST_P1_Cluster7	Dendritic	0	Immune
+MP	MP_ST_P8_1_Cluster1	CD4+ Memory/Effector T	0.0500664251639054	Immune
+MP	MP_ST_P8_1_Cluster1	CD4+ Naive T	0.0340608446460146	Immune
+MP	MP_ST_P8_1_Cluster1	CD8+ Memory/Effector T	0.0111785808463663	Immune
+MP	MP_ST_P8_1_Cluster1	CD8+ Naive T	0.0193197057047633	Immune
+MP	MP_ST_P8_1_Cluster1	Natural Killer	0.0738015017566442	Immune
+MP	MP_ST_P8_1_Cluster1	Classical Monocyte	0.0538166688938842	Immune
+MP	MP_ST_P8_1_Cluster1	Nonclassical Monocyte	0.0115257863899183	Immune
+MP	MP_ST_P8_1_Cluster1	Myeloid Dendritic Type 2	0.000201918928800293	Immune
+MP	MP_ST_P8_1_Cluster1	Platelet/Megakaryocyte	0	Immune
+MP	MP_ST_P8_1_Cluster1	B	0.0110859652734582	Immune
+MP	MP_ST_P8_1_Cluster1	IGSF21+ Dendritic	2.14096522311396e-05	Immune
+MP	MP_ST_P8_1_Cluster1	EREG+ Dendritic	0.000958883107600812	Immune
+MP	MP_ST_P8_1_Cluster1	Plasmacytoid Dendritic	0.00015370389734964	Immune
+MP	MP_ST_P8_1_Cluster1	Myeloid Dendritic Type 1	0	Immune
+MP	MP_ST_P8_1_Cluster1	TREM2+ Dendritic	0.000268569542424569	Immune
+MP	MP_ST_P8_1_Cluster1	Differentiating Basal	0.0840810415903112	Epithelial
+MP	MP_ST_P8_1_Cluster1	Proliferating Basal	0.000228113823632532	Epithelial
+MP	MP_ST_P8_1_Cluster1	Basal	0.0911692259200508	Epithelial
+MP	MP_ST_P8_1_Cluster1	Plasma	0	Immune
+MP	MP_ST_P8_1_Cluster1	Macrophage	0.137050124532991	Immune
+MP	MP_ST_P8_1_Cluster1	Basophil/Mast 1	0.0147033506841909	Immune
+MP	MP_ST_P8_1_Cluster1	Proliferating Macrophage	0.00134015951846096	Immune
+MP	MP_ST_P8_1_Cluster1	Capillary Aerocyte	0.0319105718250001	Endothelial
+MP	MP_ST_P8_1_Cluster1	Capillary	0.0329181084844904	Endothelial
+MP	MP_ST_P8_1_Cluster1	Bronchial Vessel 2	0.0031663334205303	Endothelial
+MP	MP_ST_P8_1_Cluster1	Vein	0.000200652524824969	Endothelial
+MP	MP_ST_P8_1_Cluster1	Artery	0.00528685417864795	Endothelial
+MP	MP_ST_P8_1_Cluster1	Lymphatic	0	Endothelial
+MP	MP_ST_P8_1_Cluster1	Bronchial Vessel 1	0.00174388148597421	Endothelial
+MP	MP_ST_P8_1_Cluster1	Airway Smooth Muscle	0.00190668500214374	Stroma
+MP	MP_ST_P8_1_Cluster1	Alveolar Epithelial Type 2	0.103910898933936	Epithelial
+MP	MP_ST_P8_1_Cluster1	Club	0.115754604035818	Epithelial
+MP	MP_ST_P8_1_Cluster1	Pericyte	0.00490114441084037	Stroma
+MP	MP_ST_P8_1_Cluster1	Myofibroblast	0.00595386569462439	Stroma
+MP	MP_ST_P8_1_Cluster1	Alveolar Epithelial Type 1	0.0279405851746624	Epithelial
+MP	MP_ST_P8_1_Cluster1	Ciliated	0.00747685608244634	Epithelial
+MP	MP_ST_P8_1_Cluster1	Adventitial Fibroblast	0.0011926828057404	Stroma
+MP	MP_ST_P8_1_Cluster1	Alveolar Fibroblast	0.000251329495803523	Stroma
+MP	MP_ST_P8_1_Cluster1	Lipofibroblast	0.000571014190555548	Stroma
+MP	MP_ST_P8_1_Cluster1	Mesothelial	3.05670117239639e-05	Stroma
+MP	MP_ST_P8_1_Cluster1	Capillary Intermediate 1	0	Endothelial
+MP	MP_ST_P8_1_Cluster1	Capillary Intermediate 2	0.00452947482785602	Endothelial
+MP	MP_ST_P8_1_Cluster1	Vascular Smooth Muscle	0.00339904170874603	Stroma
+MP	MP_ST_P8_1_Cluster1	Mucous	0.00552928373921849	Epithelial
+MP	MP_ST_P8_1_Cluster1	Proliferating NK/T	0.0127823617800209	Immune
+MP	MP_ST_P8_1_Cluster1	Natural Killer T	0.00466872623972	Immune
+MP	MP_ST_P8_1_Cluster1	OLR1+ Classical Monocyte	0.00253667539208137	Immune
+MP	MP_ST_P8_1_Cluster1	Intermediate Monocyte	0.00217160886359875	Immune
+MP	MP_ST_P8_1_Cluster1	Basophil/Mast 2	0.00288549900217982	Immune
+MP	MP_ST_P8_1_Cluster1	Signaling Alveolar Epithelial Type 2	0.0177804643424059	Epithelial
+MP	MP_ST_P8_1_Cluster1	Proximal Basal	0.00179797564909905	Epithelial
+MP	MP_ST_P8_1_Cluster1	Neuroendocrine	0	Epithelial
+MP	MP_ST_P8_1_Cluster1	Fibromyocyte	0.000547911367118585	Stroma
+MP	MP_ST_P8_1_Cluster1	Ionocyte	0.000224617173153795	Epithelial
+MP	MP_ST_P8_1_Cluster1	Serous	0	Epithelial
+MP	MP_ST_P8_1_Cluster1	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P8_1_Cluster1	Goblet	0	Epithelial
+MP	MP_ST_P8_1_Cluster1	Neutrophil	0.000997745284040647	Immune
+MP	MP_ST_P8_1_Cluster1	Dendritic	0	Immune
+MP	MP_ST_P1_Cluster1	CD4+ Memory/Effector T	0.0784367631331503	Immune
+MP	MP_ST_P1_Cluster1	CD4+ Naive T	0.0576270570419991	Immune
+MP	MP_ST_P1_Cluster1	CD8+ Memory/Effector T	0.0336757757929981	Immune
+MP	MP_ST_P1_Cluster1	CD8+ Naive T	0.0574614540950633	Immune
+MP	MP_ST_P1_Cluster1	Natural Killer	0.0750706294975649	Immune
+MP	MP_ST_P1_Cluster1	Classical Monocyte	0.0691983388162764	Immune
+MP	MP_ST_P1_Cluster1	Nonclassical Monocyte	0.0144723855859803	Immune
+MP	MP_ST_P1_Cluster1	Myeloid Dendritic Type 2	0.000387891444696078	Immune
+MP	MP_ST_P1_Cluster1	Platelet/Megakaryocyte	1.10974730281759e-05	Immune
+MP	MP_ST_P1_Cluster1	B	0.017870852817009	Immune
+MP	MP_ST_P1_Cluster1	IGSF21+ Dendritic	0.000542752529211055	Immune
+MP	MP_ST_P1_Cluster1	EREG+ Dendritic	0.000407626292918101	Immune
+MP	MP_ST_P1_Cluster1	Plasmacytoid Dendritic	0.00179022834939477	Immune
+MP	MP_ST_P1_Cluster1	Myeloid Dendritic Type 1	0.000794896458500907	Immune
+MP	MP_ST_P1_Cluster1	TREM2+ Dendritic	0.000115117234251593	Immune
+MP	MP_ST_P1_Cluster1	Differentiating Basal	0.0162548010492755	Epithelial
+MP	MP_ST_P1_Cluster1	Proliferating Basal	0.00014862981198555	Epithelial
+MP	MP_ST_P1_Cluster1	Basal	0.0159176841222987	Epithelial
+MP	MP_ST_P1_Cluster1	Plasma	0.00331107333448792	Immune
+MP	MP_ST_P1_Cluster1	Macrophage	0.160137941227377	Immune
+MP	MP_ST_P1_Cluster1	Basophil/Mast 1	0.00546503517075367	Immune
+MP	MP_ST_P1_Cluster1	Proliferating Macrophage	0.000365170754937836	Immune
+MP	MP_ST_P1_Cluster1	Capillary Aerocyte	0.0542970472891939	Endothelial
+MP	MP_ST_P1_Cluster1	Capillary	0.0712646598496173	Endothelial
+MP	MP_ST_P1_Cluster1	Bronchial Vessel 2	0.00109077362059478	Endothelial
+MP	MP_ST_P1_Cluster1	Vein	0.00718689921395339	Endothelial
+MP	MP_ST_P1_Cluster1	Artery	0.0075027638838067	Endothelial
+MP	MP_ST_P1_Cluster1	Lymphatic	0.0010413949474127	Endothelial
+MP	MP_ST_P1_Cluster1	Bronchial Vessel 1	0.0144088157550565	Endothelial
+MP	MP_ST_P1_Cluster1	Airway Smooth Muscle	0.00167106177733188	Stroma
+MP	MP_ST_P1_Cluster1	Alveolar Epithelial Type 2	0.0295204052307683	Epithelial
+MP	MP_ST_P1_Cluster1	Club	0.045717352573951	Epithelial
+MP	MP_ST_P1_Cluster1	Pericyte	0.0280592094889791	Stroma
+MP	MP_ST_P1_Cluster1	Myofibroblast	0.00118352345067031	Stroma
+MP	MP_ST_P1_Cluster1	Alveolar Epithelial Type 1	0.0590321979308058	Epithelial
+MP	MP_ST_P1_Cluster1	Ciliated	0.000887868015037901	Epithelial
+MP	MP_ST_P1_Cluster1	Adventitial Fibroblast	8.45595744030818e-05	Stroma
+MP	MP_ST_P1_Cluster1	Alveolar Fibroblast	0.000707769961858699	Stroma
+MP	MP_ST_P1_Cluster1	Lipofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster1	Mesothelial	0	Stroma
+MP	MP_ST_P1_Cluster1	Capillary Intermediate 1	0	Endothelial
+MP	MP_ST_P1_Cluster1	Capillary Intermediate 2	0.0287973967886694	Endothelial
+MP	MP_ST_P1_Cluster1	Vascular Smooth Muscle	0.00133078801920651	Stroma
+MP	MP_ST_P1_Cluster1	Mucous	0.00229827531107465	Epithelial
+MP	MP_ST_P1_Cluster1	Proliferating NK/T	0.00762200044256211	Immune
+MP	MP_ST_P1_Cluster1	Natural Killer T	0.00126110732387921	Immune
+MP	MP_ST_P1_Cluster1	OLR1+ Classical Monocyte	0.00079787459557414	Immune
+MP	MP_ST_P1_Cluster1	Intermediate Monocyte	0.00130459071552187	Immune
+MP	MP_ST_P1_Cluster1	Basophil/Mast 2	0.00105859160710738	Immune
+MP	MP_ST_P1_Cluster1	Signaling Alveolar Epithelial Type 2	0.00710344829839397	Epithelial
+MP	MP_ST_P1_Cluster1	Proximal Basal	0	Epithelial
+MP	MP_ST_P1_Cluster1	Neuroendocrine	0.00332541392428722	Epithelial
+MP	MP_ST_P1_Cluster1	Fibromyocyte	0	Stroma
+MP	MP_ST_P1_Cluster1	Ionocyte	0.00388972846095046	Epithelial
+MP	MP_ST_P1_Cluster1	Serous	8.14011427343657e-05	Epithelial
+MP	MP_ST_P1_Cluster1	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster1	Goblet	0.00599516478741588	Epithelial
+MP	MP_ST_P1_Cluster1	Neutrophil	0.00201471398602345	Immune
+MP	MP_ST_P1_Cluster1	Dendritic	0	Immune
+N	N_ST_P7_Cluster9	CD4+ Memory/Effector T	0.145719436119858	Immune
+N	N_ST_P7_Cluster9	CD4+ Naive T	0.0280578929791045	Immune
+N	N_ST_P7_Cluster9	CD8+ Memory/Effector T	0.0318543622327096	Immune
+N	N_ST_P7_Cluster9	CD8+ Naive T	0.0475272824703171	Immune
+N	N_ST_P7_Cluster9	Natural Killer	0.056487987275419	Immune
+N	N_ST_P7_Cluster9	Classical Monocyte	0.039825944133965	Immune
+N	N_ST_P7_Cluster9	Nonclassical Monocyte	0.00209100645346738	Immune
+N	N_ST_P7_Cluster9	Myeloid Dendritic Type 2	0.000967451508980579	Immune
+N	N_ST_P7_Cluster9	Platelet/Megakaryocyte	0.00441603891083711	Immune
+N	N_ST_P7_Cluster9	B	0.0114196754633208	Immune
+N	N_ST_P7_Cluster9	IGSF21+ Dendritic	0	Immune
+N	N_ST_P7_Cluster9	EREG+ Dendritic	0	Immune
+N	N_ST_P7_Cluster9	Plasmacytoid Dendritic	0	Immune
+N	N_ST_P7_Cluster9	Myeloid Dendritic Type 1	0.0111753384862113	Immune
+N	N_ST_P7_Cluster9	TREM2+ Dendritic	3.98091443109738e-05	Immune
+N	N_ST_P7_Cluster9	Differentiating Basal	0.000824508543737973	Epithelial
+N	N_ST_P7_Cluster9	Proliferating Basal	0.00167019495253368	Epithelial
+N	N_ST_P7_Cluster9	Basal	0.001271567097418	Epithelial
+N	N_ST_P7_Cluster9	Plasma	0	Immune
+N	N_ST_P7_Cluster9	Macrophage	0.182184716979133	Immune
+N	N_ST_P7_Cluster9	Basophil/Mast 1	0.00021194029073695	Immune
+N	N_ST_P7_Cluster9	Proliferating Macrophage	0	Immune
+N	N_ST_P7_Cluster9	Capillary Aerocyte	0.0214544728152637	Endothelial
+N	N_ST_P7_Cluster9	Capillary	0.033009639036687	Endothelial
+N	N_ST_P7_Cluster9	Bronchial Vessel 2	0.000399729675322893	Endothelial
+N	N_ST_P7_Cluster9	Vein	0.00133515688289734	Endothelial
+N	N_ST_P7_Cluster9	Artery	0	Endothelial
+N	N_ST_P7_Cluster9	Lymphatic	0.00190770005332236	Endothelial
+N	N_ST_P7_Cluster9	Bronchial Vessel 1	0.0198395823911567	Endothelial
+N	N_ST_P7_Cluster9	Airway Smooth Muscle	0.00233755208685865	Stroma
+N	N_ST_P7_Cluster9	Alveolar Epithelial Type 2	0.201692223336763	Epithelial
+N	N_ST_P7_Cluster9	Club	0.00449611693672663	Epithelial
+N	N_ST_P7_Cluster9	Pericyte	4.25982401110017e-05	Stroma
+N	N_ST_P7_Cluster9	Myofibroblast	0	Stroma
+N	N_ST_P7_Cluster9	Alveolar Epithelial Type 1	0.0210511791271687	Epithelial
+N	N_ST_P7_Cluster9	Ciliated	0.00205911072305436	Epithelial
+N	N_ST_P7_Cluster9	Adventitial Fibroblast	0	Stroma
+N	N_ST_P7_Cluster9	Alveolar Fibroblast	0	Stroma
+N	N_ST_P7_Cluster9	Lipofibroblast	0	Stroma
+N	N_ST_P7_Cluster9	Mesothelial	0	Stroma
+N	N_ST_P7_Cluster9	Capillary Intermediate 1	0	Endothelial
+N	N_ST_P7_Cluster9	Capillary Intermediate 2	0.0496846881950323	Endothelial
+N	N_ST_P7_Cluster9	Vascular Smooth Muscle	2.55096437292277e-05	Stroma
+N	N_ST_P7_Cluster9	Mucous	0.00353614253842314	Epithelial
+N	N_ST_P7_Cluster9	Proliferating NK/T	6.68197961742116e-05	Immune
+N	N_ST_P7_Cluster9	Natural Killer T	0.00817668049001932	Immune
+N	N_ST_P7_Cluster9	OLR1+ Classical Monocyte	0.00269595365860185	Immune
+N	N_ST_P7_Cluster9	Intermediate Monocyte	0.000293786301988848	Immune
+N	N_ST_P7_Cluster9	Basophil/Mast 2	0	Immune
+N	N_ST_P7_Cluster9	Signaling Alveolar Epithelial Type 2	0.044921397458739	Epithelial
+N	N_ST_P7_Cluster9	Proximal Basal	0	Epithelial
+N	N_ST_P7_Cluster9	Neuroendocrine	0.000403354927600105	Epithelial
+N	N_ST_P7_Cluster9	Fibromyocyte	0	Stroma
+N	N_ST_P7_Cluster9	Ionocyte	0.0148185513707079	Epithelial
+N	N_ST_P7_Cluster9	Serous	0	Epithelial
+N	N_ST_P7_Cluster9	Proximal Ciliated	0	Epithelial
+N	N_ST_P7_Cluster9	Goblet	0	Epithelial
+N	N_ST_P7_Cluster9	Neutrophil	6.90127159070943e-06	Immune
+N	N_ST_P7_Cluster9	Dendritic	0	Immune
+MP	MP_ST_P1_Cluster2	CD4+ Memory/Effector T	0.0314355876020339	Immune
+MP	MP_ST_P1_Cluster2	CD4+ Naive T	0.00546154187803809	Immune
+MP	MP_ST_P1_Cluster2	CD8+ Memory/Effector T	0.0077341552239056	Immune
+MP	MP_ST_P1_Cluster2	CD8+ Naive T	0.0315004884670042	Immune
+MP	MP_ST_P1_Cluster2	Natural Killer	0.0263625507492223	Immune
+MP	MP_ST_P1_Cluster2	Classical Monocyte	0.0185125607073727	Immune
+MP	MP_ST_P1_Cluster2	Nonclassical Monocyte	0.00129090428809476	Immune
+MP	MP_ST_P1_Cluster2	Myeloid Dendritic Type 2	0.00162295230417159	Immune
+MP	MP_ST_P1_Cluster2	Platelet/Megakaryocyte	0	Immune
+MP	MP_ST_P1_Cluster2	B	0.0184583283337867	Immune
+MP	MP_ST_P1_Cluster2	IGSF21+ Dendritic	0.0173314468118988	Immune
+MP	MP_ST_P1_Cluster2	EREG+ Dendritic	0.00012069047988623	Immune
+MP	MP_ST_P1_Cluster2	Plasmacytoid Dendritic	0.00647620257408445	Immune
+MP	MP_ST_P1_Cluster2	Myeloid Dendritic Type 1	0.00207646156957548	Immune
+MP	MP_ST_P1_Cluster2	TREM2+ Dendritic	0.00478593239677766	Immune
+MP	MP_ST_P1_Cluster2	Differentiating Basal	0.00782638332330328	Epithelial
+MP	MP_ST_P1_Cluster2	Proliferating Basal	0	Epithelial
+MP	MP_ST_P1_Cluster2	Basal	0.00890919453973895	Epithelial
+MP	MP_ST_P1_Cluster2	Plasma	0.00679375786074249	Immune
+MP	MP_ST_P1_Cluster2	Macrophage	0.0442543522367571	Immune
+MP	MP_ST_P1_Cluster2	Basophil/Mast 1	0.0265051856952774	Immune
+MP	MP_ST_P1_Cluster2	Proliferating Macrophage	0.000586750435479244	Immune
+MP	MP_ST_P1_Cluster2	Capillary Aerocyte	0.0922473304829799	Endothelial
+MP	MP_ST_P1_Cluster2	Capillary	0.124134224029803	Endothelial
+MP	MP_ST_P1_Cluster2	Bronchial Vessel 2	0.00586372436713473	Endothelial
+MP	MP_ST_P1_Cluster2	Vein	0.0162523967998769	Endothelial
+MP	MP_ST_P1_Cluster2	Artery	0.0359155746058601	Endothelial
+MP	MP_ST_P1_Cluster2	Lymphatic	0.0788776802711813	Endothelial
+MP	MP_ST_P1_Cluster2	Bronchial Vessel 1	0.0440532308913965	Endothelial
+MP	MP_ST_P1_Cluster2	Airway Smooth Muscle	0.0546685317623622	Stroma
+MP	MP_ST_P1_Cluster2	Alveolar Epithelial Type 2	0.000706787075138273	Epithelial
+MP	MP_ST_P1_Cluster2	Club	0.0031480070744121	Epithelial
+MP	MP_ST_P1_Cluster2	Pericyte	0.0364500112396666	Stroma
+MP	MP_ST_P1_Cluster2	Myofibroblast	0.0208953841065348	Stroma
+MP	MP_ST_P1_Cluster2	Alveolar Epithelial Type 1	0.00170480389171331	Epithelial
+MP	MP_ST_P1_Cluster2	Ciliated	0.000197108635065128	Epithelial
+MP	MP_ST_P1_Cluster2	Adventitial Fibroblast	0.00512570461564305	Stroma
+MP	MP_ST_P1_Cluster2	Alveolar Fibroblast	0.1057228774075	Stroma
+MP	MP_ST_P1_Cluster2	Lipofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster2	Mesothelial	0	Stroma
+MP	MP_ST_P1_Cluster2	Capillary Intermediate 1	0.00089188404524168	Endothelial
+MP	MP_ST_P1_Cluster2	Capillary Intermediate 2	0.00542999609742197	Endothelial
+MP	MP_ST_P1_Cluster2	Vascular Smooth Muscle	0.0331603871428504	Stroma
+MP	MP_ST_P1_Cluster2	Mucous	0	Epithelial
+MP	MP_ST_P1_Cluster2	Proliferating NK/T	0.00469445607380181	Immune
+MP	MP_ST_P1_Cluster2	Natural Killer T	0.023329582117116	Immune
+MP	MP_ST_P1_Cluster2	OLR1+ Classical Monocyte	0.00138299989328453	Immune
+MP	MP_ST_P1_Cluster2	Intermediate Monocyte	0.00188176462798186	Immune
+MP	MP_ST_P1_Cluster2	Basophil/Mast 2	0.0252755648714079	Immune
+MP	MP_ST_P1_Cluster2	Signaling Alveolar Epithelial Type 2	4.52045156293166e-05	Epithelial
+MP	MP_ST_P1_Cluster2	Proximal Basal	0	Epithelial
+MP	MP_ST_P1_Cluster2	Neuroendocrine	0.00156804708174104	Epithelial
+MP	MP_ST_P1_Cluster2	Fibromyocyte	0.00428048077194923	Stroma
+MP	MP_ST_P1_Cluster2	Ionocyte	0.00327828909650779	Epithelial
+MP	MP_ST_P1_Cluster2	Serous	0	Epithelial
+MP	MP_ST_P1_Cluster2	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster2	Goblet	0.000286464456880075	Epithelial
+MP	MP_ST_P1_Cluster2	Neutrophil	0.000486074474767583	Immune
+MP	MP_ST_P1_Cluster2	Dendritic	0	Immune
+MP	MP_ST_P1_Cluster10	CD4+ Memory/Effector T	0.0168682547496126	Immune
+MP	MP_ST_P1_Cluster10	CD4+ Naive T	0.00825886795401496	Immune
+MP	MP_ST_P1_Cluster10	CD8+ Memory/Effector T	0.00592940670639988	Immune
+MP	MP_ST_P1_Cluster10	CD8+ Naive T	0.00832633189973633	Immune
+MP	MP_ST_P1_Cluster10	Natural Killer	0.00658710828698104	Immune
+MP	MP_ST_P1_Cluster10	Classical Monocyte	0.0590131068082908	Immune
+MP	MP_ST_P1_Cluster10	Nonclassical Monocyte	0.00288565720422789	Immune
+MP	MP_ST_P1_Cluster10	Myeloid Dendritic Type 2	0.0192412764160598	Immune
+MP	MP_ST_P1_Cluster10	Platelet/Megakaryocyte	8.00882667510615e-06	Immune
+MP	MP_ST_P1_Cluster10	B	0.0102417331113441	Immune
+MP	MP_ST_P1_Cluster10	IGSF21+ Dendritic	0.0417231780113892	Immune
+MP	MP_ST_P1_Cluster10	EREG+ Dendritic	0.0230741311285992	Immune
+MP	MP_ST_P1_Cluster10	Plasmacytoid Dendritic	0.000287464217567877	Immune
+MP	MP_ST_P1_Cluster10	Myeloid Dendritic Type 1	0.00131726634464797	Immune
+MP	MP_ST_P1_Cluster10	TREM2+ Dendritic	0.00687353305641872	Immune
+MP	MP_ST_P1_Cluster10	Differentiating Basal	0.00400708676594405	Epithelial
+MP	MP_ST_P1_Cluster10	Proliferating Basal	0.000287691164156543	Epithelial
+MP	MP_ST_P1_Cluster10	Basal	0.00130634808386526	Epithelial
+MP	MP_ST_P1_Cluster10	Plasma	4.30047071766751e-05	Immune
+MP	MP_ST_P1_Cluster10	Macrophage	0.583246512068356	Immune
+MP	MP_ST_P1_Cluster10	Basophil/Mast 1	0.00390052494048373	Immune
+MP	MP_ST_P1_Cluster10	Proliferating Macrophage	0.0803792946112857	Immune
+MP	MP_ST_P1_Cluster10	Capillary Aerocyte	0.0328216742878458	Endothelial
+MP	MP_ST_P1_Cluster10	Capillary	0.021522265340966	Endothelial
+MP	MP_ST_P1_Cluster10	Bronchial Vessel 2	3.99918673974717e-05	Endothelial
+MP	MP_ST_P1_Cluster10	Vein	0.000590905018173801	Endothelial
+MP	MP_ST_P1_Cluster10	Artery	0.00176348188991856	Endothelial
+MP	MP_ST_P1_Cluster10	Lymphatic	0	Endothelial
+MP	MP_ST_P1_Cluster10	Bronchial Vessel 1	0.000445332285200509	Endothelial
+MP	MP_ST_P1_Cluster10	Airway Smooth Muscle	0.000522344541538391	Stroma
+MP	MP_ST_P1_Cluster10	Alveolar Epithelial Type 2	0.00700670053008156	Epithelial
+MP	MP_ST_P1_Cluster10	Club	0.00167435937394908	Epithelial
+MP	MP_ST_P1_Cluster10	Pericyte	0.00397198291989884	Stroma
+MP	MP_ST_P1_Cluster10	Myofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster10	Alveolar Epithelial Type 1	0.00942452047397803	Epithelial
+MP	MP_ST_P1_Cluster10	Ciliated	7.07517475218253e-06	Epithelial
+MP	MP_ST_P1_Cluster10	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P1_Cluster10	Alveolar Fibroblast	4.85329866515097e-05	Stroma
+MP	MP_ST_P1_Cluster10	Lipofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster10	Mesothelial	0	Stroma
+MP	MP_ST_P1_Cluster10	Capillary Intermediate 1	5.83278462296135e-05	Endothelial
+MP	MP_ST_P1_Cluster10	Capillary Intermediate 2	0.00444243849180479	Endothelial
+MP	MP_ST_P1_Cluster10	Vascular Smooth Muscle	0.000139200403698063	Stroma
+MP	MP_ST_P1_Cluster10	Mucous	0.0115578751860133	Epithelial
+MP	MP_ST_P1_Cluster10	Proliferating NK/T	0.00212855594700681	Immune
+MP	MP_ST_P1_Cluster10	Natural Killer T	0.000224343223624495	Immune
+MP	MP_ST_P1_Cluster10	OLR1+ Classical Monocyte	0.00474306111378777	Immune
+MP	MP_ST_P1_Cluster10	Intermediate Monocyte	0.00574882036617316	Immune
+MP	MP_ST_P1_Cluster10	Basophil/Mast 2	0.0010976883458048	Immune
+MP	MP_ST_P1_Cluster10	Signaling Alveolar Epithelial Type 2	0.000623024114860995	Epithelial
+MP	MP_ST_P1_Cluster10	Proximal Basal	0.000171777142832057	Epithelial
+MP	MP_ST_P1_Cluster10	Neuroendocrine	0	Epithelial
+MP	MP_ST_P1_Cluster10	Fibromyocyte	0	Stroma
+MP	MP_ST_P1_Cluster10	Ionocyte	4.35173401940312e-05	Epithelial
+MP	MP_ST_P1_Cluster10	Serous	0	Epithelial
+MP	MP_ST_P1_Cluster10	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster10	Goblet	0.00249207386437453	Epithelial
+MP	MP_ST_P1_Cluster10	Neutrophil	0.00186681717670924	Immune
+MP	MP_ST_P1_Cluster10	Dendritic	0.00101752568330171	Immune
+MA	MA_49_3_Cluster5	CD4+ Memory/Effector T	0.0778059186517561	Immune
+MA	MA_49_3_Cluster5	CD4+ Naive T	0.0138901866190909	Immune
+MA	MA_49_3_Cluster5	CD8+ Memory/Effector T	0.0360837601107546	Immune
+MA	MA_49_3_Cluster5	CD8+ Naive T	0.0211088408469405	Immune
+MA	MA_49_3_Cluster5	Natural Killer	0.0778492587526178	Immune
+MA	MA_49_3_Cluster5	Classical Monocyte	0.00395067140685009	Immune
+MA	MA_49_3_Cluster5	Nonclassical Monocyte	0.00389021170884506	Immune
+MA	MA_49_3_Cluster5	Myeloid Dendritic Type 2	0.000682801991872068	Immune
+MA	MA_49_3_Cluster5	Platelet/Megakaryocyte	0	Immune
+MA	MA_49_3_Cluster5	B	0.00322731839012094	Immune
+MA	MA_49_3_Cluster5	IGSF21+ Dendritic	0	Immune
+MA	MA_49_3_Cluster5	EREG+ Dendritic	0.000765176124244794	Immune
+MA	MA_49_3_Cluster5	Plasmacytoid Dendritic	0	Immune
+MA	MA_49_3_Cluster5	Myeloid Dendritic Type 1	0.000117644285562051	Immune
+MA	MA_49_3_Cluster5	TREM2+ Dendritic	0.00168179759174454	Immune
+MA	MA_49_3_Cluster5	Differentiating Basal	0.00464507204300235	Epithelial
+MA	MA_49_3_Cluster5	Proliferating Basal	0.0395656750247606	Epithelial
+MA	MA_49_3_Cluster5	Basal	5.50222319070147e-05	Epithelial
+MA	MA_49_3_Cluster5	Plasma	0.000376195469909232	Immune
+MA	MA_49_3_Cluster5	Macrophage	0.0901732669315121	Immune
+MA	MA_49_3_Cluster5	Basophil/Mast 1	0.00162398405631425	Immune
+MA	MA_49_3_Cluster5	Proliferating Macrophage	0.0147893309926792	Immune
+MA	MA_49_3_Cluster5	Capillary Aerocyte	0.0282299496854187	Endothelial
+MA	MA_49_3_Cluster5	Capillary	0.00360444306523306	Endothelial
+MA	MA_49_3_Cluster5	Bronchial Vessel 2	2.53782809109553e-06	Endothelial
+MA	MA_49_3_Cluster5	Vein	0.00198899599319876	Endothelial
+MA	MA_49_3_Cluster5	Artery	0.00143539827613828	Endothelial
+MA	MA_49_3_Cluster5	Lymphatic	0.00147249140887203	Endothelial
+MA	MA_49_3_Cluster5	Bronchial Vessel 1	0.000882151350756471	Endothelial
+MA	MA_49_3_Cluster5	Airway Smooth Muscle	0.000324840603631389	Stroma
+MA	MA_49_3_Cluster5	Alveolar Epithelial Type 2	0.314458244741554	Epithelial
+MA	MA_49_3_Cluster5	Club	0.0543511004898401	Epithelial
+MA	MA_49_3_Cluster5	Pericyte	0.000488428727050345	Stroma
+MA	MA_49_3_Cluster5	Myofibroblast	0.000132095265250424	Stroma
+MA	MA_49_3_Cluster5	Alveolar Epithelial Type 1	0.0316024802274513	Epithelial
+MA	MA_49_3_Cluster5	Ciliated	0.0403183546752754	Epithelial
+MA	MA_49_3_Cluster5	Adventitial Fibroblast	4.27803941862725e-05	Stroma
+MA	MA_49_3_Cluster5	Alveolar Fibroblast	0.000346786177399222	Stroma
+MA	MA_49_3_Cluster5	Lipofibroblast	0	Stroma
+MA	MA_49_3_Cluster5	Mesothelial	0.00030801432948052	Stroma
+MA	MA_49_3_Cluster5	Capillary Intermediate 1	0	Endothelial
+MA	MA_49_3_Cluster5	Capillary Intermediate 2	0.00031567444798609	Endothelial
+MA	MA_49_3_Cluster5	Vascular Smooth Muscle	0.00014671421646147	Stroma
+MA	MA_49_3_Cluster5	Mucous	0.000789814593930489	Epithelial
+MA	MA_49_3_Cluster5	Proliferating NK/T	0.0314666917958916	Immune
+MA	MA_49_3_Cluster5	Natural Killer T	0.00214605357367725	Immune
+MA	MA_49_3_Cluster5	OLR1+ Classical Monocyte	0.00242376212589921	Immune
+MA	MA_49_3_Cluster5	Intermediate Monocyte	4.56668867418094e-05	Immune
+MA	MA_49_3_Cluster5	Basophil/Mast 2	0.000327360875340319	Immune
+MA	MA_49_3_Cluster5	Signaling Alveolar Epithelial Type 2	0.0829489732280188	Epithelial
+MA	MA_49_3_Cluster5	Proximal Basal	0	Epithelial
+MA	MA_49_3_Cluster5	Neuroendocrine	0.00198751154273301	Epithelial
+MA	MA_49_3_Cluster5	Fibromyocyte	0	Stroma
+MA	MA_49_3_Cluster5	Ionocyte	0	Epithelial
+MA	MA_49_3_Cluster5	Serous	4.77452519640549e-05	Epithelial
+MA	MA_49_3_Cluster5	Proximal Ciliated	0.00407548136989112	Epithelial
+MA	MA_49_3_Cluster5	Goblet	0.000921413879476743	Epithelial
+MA	MA_49_3_Cluster5	Neutrophil	8.59097426761394e-05	Immune
+MA	MA_49_3_Cluster5	Dendritic	0	Immune
+MP	MP_ST_P7_Cluster8	CD4+ Memory/Effector T	0	Immune
+MP	MP_ST_P7_Cluster8	CD4+ Naive T	1.46639092772319e-05	Immune
+MP	MP_ST_P7_Cluster8	CD8+ Memory/Effector T	0	Immune
+MP	MP_ST_P7_Cluster8	CD8+ Naive T	0	Immune
+MP	MP_ST_P7_Cluster8	Natural Killer	5.76296497660131e-05	Immune
+MP	MP_ST_P7_Cluster8	Classical Monocyte	6.48208880673905e-06	Immune
+MP	MP_ST_P7_Cluster8	Nonclassical Monocyte	0	Immune
+MP	MP_ST_P7_Cluster8	Myeloid Dendritic Type 2	0	Immune
+MP	MP_ST_P7_Cluster8	Platelet/Megakaryocyte	1.96425611815153e-06	Immune
+MP	MP_ST_P7_Cluster8	B	0	Immune
+MP	MP_ST_P7_Cluster8	IGSF21+ Dendritic	2.86056630369086e-05	Immune
+MP	MP_ST_P7_Cluster8	EREG+ Dendritic	0	Immune
+MP	MP_ST_P7_Cluster8	Plasmacytoid Dendritic	0	Immune
+MP	MP_ST_P7_Cluster8	Myeloid Dendritic Type 1	0	Immune
+MP	MP_ST_P7_Cluster8	TREM2+ Dendritic	0	Immune
+MP	MP_ST_P7_Cluster8	Differentiating Basal	0	Epithelial
+MP	MP_ST_P7_Cluster8	Proliferating Basal	0	Epithelial
+MP	MP_ST_P7_Cluster8	Basal	0	Epithelial
+MP	MP_ST_P7_Cluster8	Plasma	0	Immune
+MP	MP_ST_P7_Cluster8	Macrophage	0.000711682814649779	Immune
+MP	MP_ST_P7_Cluster8	Basophil/Mast 1	2.85958942584478e-05	Immune
+MP	MP_ST_P7_Cluster8	Proliferating Macrophage	0	Immune
+MP	MP_ST_P7_Cluster8	Capillary Aerocyte	0.0135795393455171	Endothelial
+MP	MP_ST_P7_Cluster8	Capillary	0.0299065054107879	Endothelial
+MP	MP_ST_P7_Cluster8	Bronchial Vessel 2	0.000293346411639669	Endothelial
+MP	MP_ST_P7_Cluster8	Vein	0.049698538152625	Endothelial
+MP	MP_ST_P7_Cluster8	Artery	0.209345513087014	Endothelial
+MP	MP_ST_P7_Cluster8	Lymphatic	0.00836649134476487	Endothelial
+MP	MP_ST_P7_Cluster8	Bronchial Vessel 1	0.013959212602344	Endothelial
+MP	MP_ST_P7_Cluster8	Airway Smooth Muscle	0.412412981247136	Stroma
+MP	MP_ST_P7_Cluster8	Alveolar Epithelial Type 2	3.38927739967155e-05	Epithelial
+MP	MP_ST_P7_Cluster8	Club	0	Epithelial
+MP	MP_ST_P7_Cluster8	Pericyte	0.0160364826134464	Stroma
+MP	MP_ST_P7_Cluster8	Myofibroblast	0.000262976394088948	Stroma
+MP	MP_ST_P7_Cluster8	Alveolar Epithelial Type 1	0.000200585711155177	Epithelial
+MP	MP_ST_P7_Cluster8	Ciliated	0	Epithelial
+MP	MP_ST_P7_Cluster8	Adventitial Fibroblast	0.0150309294322815	Stroma
+MP	MP_ST_P7_Cluster8	Alveolar Fibroblast	0.00848162194647014	Stroma
+MP	MP_ST_P7_Cluster8	Lipofibroblast	0	Stroma
+MP	MP_ST_P7_Cluster8	Mesothelial	0	Stroma
+MP	MP_ST_P7_Cluster8	Capillary Intermediate 1	0.00331931377084723	Endothelial
+MP	MP_ST_P7_Cluster8	Capillary Intermediate 2	0	Endothelial
+MP	MP_ST_P7_Cluster8	Vascular Smooth Muscle	0.179482529415184	Stroma
+MP	MP_ST_P7_Cluster8	Mucous	0	Epithelial
+MP	MP_ST_P7_Cluster8	Proliferating NK/T	0	Immune
+MP	MP_ST_P7_Cluster8	Natural Killer T	0	Immune
+MP	MP_ST_P7_Cluster8	OLR1+ Classical Monocyte	0	Immune
+MP	MP_ST_P7_Cluster8	Intermediate Monocyte	0	Immune
+MP	MP_ST_P7_Cluster8	Basophil/Mast 2	0	Immune
+MP	MP_ST_P7_Cluster8	Signaling Alveolar Epithelial Type 2	0	Epithelial
+MP	MP_ST_P7_Cluster8	Proximal Basal	0	Epithelial
+MP	MP_ST_P7_Cluster8	Neuroendocrine	0	Epithelial
+MP	MP_ST_P7_Cluster8	Fibromyocyte	0.0387399160647872	Stroma
+MP	MP_ST_P7_Cluster8	Ionocyte	0	Epithelial
+MP	MP_ST_P7_Cluster8	Serous	0	Epithelial
+MP	MP_ST_P7_Cluster8	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P7_Cluster8	Goblet	0	Epithelial
+MP	MP_ST_P7_Cluster8	Neutrophil	0	Immune
+MP	MP_ST_P7_Cluster8	Dendritic	0	Immune
+N	N_ST_P8_1_Cluster0	CD4+ Memory/Effector T	0.010220962264012	Immune
+N	N_ST_P8_1_Cluster0	CD4+ Naive T	0.00468213379746733	Immune
+N	N_ST_P8_1_Cluster0	CD8+ Memory/Effector T	0.00677874230905093	Immune
+N	N_ST_P8_1_Cluster0	CD8+ Naive T	0.0115803403285662	Immune
+N	N_ST_P8_1_Cluster0	Natural Killer	0.0166742658739056	Immune
+N	N_ST_P8_1_Cluster0	Classical Monocyte	0.00924632443300893	Immune
+N	N_ST_P8_1_Cluster0	Nonclassical Monocyte	0.00350026564131835	Immune
+N	N_ST_P8_1_Cluster0	Myeloid Dendritic Type 2	9.3326256032893e-06	Immune
+N	N_ST_P8_1_Cluster0	Platelet/Megakaryocyte	0.0085803750472967	Immune
+N	N_ST_P8_1_Cluster0	B	0.000808153229732542	Immune
+N	N_ST_P8_1_Cluster0	IGSF21+ Dendritic	0	Immune
+N	N_ST_P8_1_Cluster0	EREG+ Dendritic	6.31344661531673e-05	Immune
+N	N_ST_P8_1_Cluster0	Plasmacytoid Dendritic	0	Immune
+N	N_ST_P8_1_Cluster0	Myeloid Dendritic Type 1	2.64297667775924e-06	Immune
+N	N_ST_P8_1_Cluster0	TREM2+ Dendritic	2.46669659655788e-05	Immune
+N	N_ST_P8_1_Cluster0	Differentiating Basal	0.00541086062120296	Epithelial
+N	N_ST_P8_1_Cluster0	Proliferating Basal	0	Epithelial
+N	N_ST_P8_1_Cluster0	Basal	0.0068334691773939	Epithelial
+N	N_ST_P8_1_Cluster0	Plasma	7.48207016223206e-05	Immune
+N	N_ST_P8_1_Cluster0	Macrophage	0.0359693239055166	Immune
+N	N_ST_P8_1_Cluster0	Basophil/Mast 1	0.0300676275407618	Immune
+N	N_ST_P8_1_Cluster0	Proliferating Macrophage	4.74439895748228e-05	Immune
+N	N_ST_P8_1_Cluster0	Capillary Aerocyte	0.214955827505844	Endothelial
+N	N_ST_P8_1_Cluster0	Capillary	0.192730979929298	Endothelial
+N	N_ST_P8_1_Cluster0	Bronchial Vessel 2	0.00228932058167865	Endothelial
+N	N_ST_P8_1_Cluster0	Vein	0.0195153565992781	Endothelial
+N	N_ST_P8_1_Cluster0	Artery	0.0171207850719671	Endothelial
+N	N_ST_P8_1_Cluster0	Lymphatic	0.00821395829947932	Endothelial
+N	N_ST_P8_1_Cluster0	Bronchial Vessel 1	0.0140312277739592	Endothelial
+N	N_ST_P8_1_Cluster0	Airway Smooth Muscle	0.0322504858390677	Stroma
+N	N_ST_P8_1_Cluster0	Alveolar Epithelial Type 2	0.0630143809900568	Epithelial
+N	N_ST_P8_1_Cluster0	Club	0.00354940792833533	Epithelial
+N	N_ST_P8_1_Cluster0	Pericyte	0.0516043195059162	Stroma
+N	N_ST_P8_1_Cluster0	Myofibroblast	0.00187152760854036	Stroma
+N	N_ST_P8_1_Cluster0	Alveolar Epithelial Type 1	0.0613197646378197	Epithelial
+N	N_ST_P8_1_Cluster0	Ciliated	8.52541490777796e-05	Epithelial
+N	N_ST_P8_1_Cluster0	Adventitial Fibroblast	0.00326440696430898	Stroma
+N	N_ST_P8_1_Cluster0	Alveolar Fibroblast	0.0695995303220008	Stroma
+N	N_ST_P8_1_Cluster0	Lipofibroblast	0	Stroma
+N	N_ST_P8_1_Cluster0	Mesothelial	0	Stroma
+N	N_ST_P8_1_Cluster0	Capillary Intermediate 1	0.0425526917181722	Endothelial
+N	N_ST_P8_1_Cluster0	Capillary Intermediate 2	0.0147579384138934	Endothelial
+N	N_ST_P8_1_Cluster0	Vascular Smooth Muscle	0.0218166787148787	Stroma
+N	N_ST_P8_1_Cluster0	Mucous	3.29647311257443e-05	Epithelial
+N	N_ST_P8_1_Cluster0	Proliferating NK/T	0.000430052364689607	Immune
+N	N_ST_P8_1_Cluster0	Natural Killer T	0	Immune
+N	N_ST_P8_1_Cluster0	OLR1+ Classical Monocyte	0.00140455277238785	Immune
+N	N_ST_P8_1_Cluster0	Intermediate Monocyte	0.00205271251063932	Immune
+N	N_ST_P8_1_Cluster0	Basophil/Mast 2	0.00763615686806827	Immune
+N	N_ST_P8_1_Cluster0	Signaling Alveolar Epithelial Type 2	0.000157574902987382	Epithelial
+N	N_ST_P8_1_Cluster0	Proximal Basal	0.00170167188933963	Epithelial
+N	N_ST_P8_1_Cluster0	Neuroendocrine	6.20889302776066e-06	Epithelial
+N	N_ST_P8_1_Cluster0	Fibromyocyte	0	Stroma
+N	N_ST_P8_1_Cluster0	Ionocyte	0	Epithelial
+N	N_ST_P8_1_Cluster0	Serous	0	Epithelial
+N	N_ST_P8_1_Cluster0	Proximal Ciliated	0	Epithelial
+N	N_ST_P8_1_Cluster0	Goblet	2.65130387797445e-05	Epithelial
+N	N_ST_P8_1_Cluster0	Neutrophil	0.00143286358055088	Immune
+N	N_ST_P8_1_Cluster0	Dendritic	0	Immune
+PA	PA_ST_P5_1_Cluster8	CD4+ Memory/Effector T	0.00373871435920819	Immune
+PA	PA_ST_P5_1_Cluster8	CD4+ Naive T	4.55290931882399e-06	Immune
+PA	PA_ST_P5_1_Cluster8	CD8+ Memory/Effector T	0	Immune
+PA	PA_ST_P5_1_Cluster8	CD8+ Naive T	0.000367104411311983	Immune
+PA	PA_ST_P5_1_Cluster8	Natural Killer	0.00385451337874584	Immune
+PA	PA_ST_P5_1_Cluster8	Classical Monocyte	0.000180784229455754	Immune
+PA	PA_ST_P5_1_Cluster8	Nonclassical Monocyte	0.000309928717423138	Immune
+PA	PA_ST_P5_1_Cluster8	Myeloid Dendritic Type 2	0	Immune
+PA	PA_ST_P5_1_Cluster8	Platelet/Megakaryocyte	0.00175429224440422	Immune
+PA	PA_ST_P5_1_Cluster8	B	5.40683214377195e-06	Immune
+PA	PA_ST_P5_1_Cluster8	IGSF21+ Dendritic	0	Immune
+PA	PA_ST_P5_1_Cluster8	EREG+ Dendritic	0	Immune
+PA	PA_ST_P5_1_Cluster8	Plasmacytoid Dendritic	0	Immune
+PA	PA_ST_P5_1_Cluster8	Myeloid Dendritic Type 1	0	Immune
+PA	PA_ST_P5_1_Cluster8	TREM2+ Dendritic	0	Immune
+PA	PA_ST_P5_1_Cluster8	Differentiating Basal	0.0562054024670895	Epithelial
+PA	PA_ST_P5_1_Cluster8	Proliferating Basal	0.00380566242672082	Epithelial
+PA	PA_ST_P5_1_Cluster8	Basal	0.289289524467107	Epithelial
+PA	PA_ST_P5_1_Cluster8	Plasma	0.000484748185628013	Immune
+PA	PA_ST_P5_1_Cluster8	Macrophage	0.000499096762056355	Immune
+PA	PA_ST_P5_1_Cluster8	Basophil/Mast 1	0.00725074466208067	Immune
+PA	PA_ST_P5_1_Cluster8	Proliferating Macrophage	0	Immune
+PA	PA_ST_P5_1_Cluster8	Capillary Aerocyte	0.00592334340011443	Endothelial
+PA	PA_ST_P5_1_Cluster8	Capillary	0.0489745286142949	Endothelial
+PA	PA_ST_P5_1_Cluster8	Bronchial Vessel 2	0.00238113188361519	Endothelial
+PA	PA_ST_P5_1_Cluster8	Vein	0.00989292503853178	Endothelial
+PA	PA_ST_P5_1_Cluster8	Artery	0.000989432415968067	Endothelial
+PA	PA_ST_P5_1_Cluster8	Lymphatic	0.00211787678965766	Endothelial
+PA	PA_ST_P5_1_Cluster8	Bronchial Vessel 1	0.00153958374182975	Endothelial
+PA	PA_ST_P5_1_Cluster8	Airway Smooth Muscle	0.00162696532417706	Stroma
+PA	PA_ST_P5_1_Cluster8	Alveolar Epithelial Type 2	0.176040932419494	Epithelial
+PA	PA_ST_P5_1_Cluster8	Club	0.11772629994778	Epithelial
+PA	PA_ST_P5_1_Cluster8	Pericyte	0.0250484152382996	Stroma
+PA	PA_ST_P5_1_Cluster8	Myofibroblast	0.000107728050180953	Stroma
+PA	PA_ST_P5_1_Cluster8	Alveolar Epithelial Type 1	0.0646340494475436	Epithelial
+PA	PA_ST_P5_1_Cluster8	Ciliated	0.0295161854618417	Epithelial
+PA	PA_ST_P5_1_Cluster8	Adventitial Fibroblast	0.000200071095905481	Stroma
+PA	PA_ST_P5_1_Cluster8	Alveolar Fibroblast	0.00894657875143509	Stroma
+PA	PA_ST_P5_1_Cluster8	Lipofibroblast	0	Stroma
+PA	PA_ST_P5_1_Cluster8	Mesothelial	0	Stroma
+PA	PA_ST_P5_1_Cluster8	Capillary Intermediate 1	0.0157241310434742	Endothelial
+PA	PA_ST_P5_1_Cluster8	Capillary Intermediate 2	0.00109804759222973	Endothelial
+PA	PA_ST_P5_1_Cluster8	Vascular Smooth Muscle	0.0014061998715707	Stroma
+PA	PA_ST_P5_1_Cluster8	Mucous	0.06812851711243	Epithelial
+PA	PA_ST_P5_1_Cluster8	Proliferating NK/T	0.00185317140614193	Immune
+PA	PA_ST_P5_1_Cluster8	Natural Killer T	0	Immune
+PA	PA_ST_P5_1_Cluster8	OLR1+ Classical Monocyte	0	Immune
+PA	PA_ST_P5_1_Cluster8	Intermediate Monocyte	0	Immune
+PA	PA_ST_P5_1_Cluster8	Basophil/Mast 2	0.000467057175234851	Immune
+PA	PA_ST_P5_1_Cluster8	Signaling Alveolar Epithelial Type 2	0.000959659447979239	Epithelial
+PA	PA_ST_P5_1_Cluster8	Proximal Basal	0.00524863516671666	Epithelial
+PA	PA_ST_P5_1_Cluster8	Neuroendocrine	0	Epithelial
+PA	PA_ST_P5_1_Cluster8	Fibromyocyte	0	Stroma
+PA	PA_ST_P5_1_Cluster8	Ionocyte	0	Epithelial
+PA	PA_ST_P5_1_Cluster8	Serous	0.0112679024953671	Epithelial
+PA	PA_ST_P5_1_Cluster8	Proximal Ciliated	0	Epithelial
+PA	PA_ST_P5_1_Cluster8	Goblet	0.0304301550154933	Epithelial
+PA	PA_ST_P5_1_Cluster8	Neutrophil	0	Immune
+PA	PA_ST_P5_1_Cluster8	Dendritic	0	Immune
+S	S_ST_P5_1_Cluster4	CD4+ Memory/Effector T	0.0176809378491906	Immune
+S	S_ST_P5_1_Cluster4	CD4+ Naive T	0.0126522134260647	Immune
+S	S_ST_P5_1_Cluster4	CD8+ Memory/Effector T	0.00215350543438009	Immune
+S	S_ST_P5_1_Cluster4	CD8+ Naive T	0.00778504124780802	Immune
+S	S_ST_P5_1_Cluster4	Natural Killer	0.013712985692887	Immune
+S	S_ST_P5_1_Cluster4	Classical Monocyte	0.0113116602269494	Immune
+S	S_ST_P5_1_Cluster4	Nonclassical Monocyte	0.00807914447953007	Immune
+S	S_ST_P5_1_Cluster4	Myeloid Dendritic Type 2	0.00115459612272383	Immune
+S	S_ST_P5_1_Cluster4	Platelet/Megakaryocyte	0.00309240489579072	Immune
+S	S_ST_P5_1_Cluster4	B	0.00162092441500368	Immune
+S	S_ST_P5_1_Cluster4	IGSF21+ Dendritic	0.0326384117116757	Immune
+S	S_ST_P5_1_Cluster4	EREG+ Dendritic	0.00852404318767827	Immune
+S	S_ST_P5_1_Cluster4	Plasmacytoid Dendritic	6.12332866777991e-06	Immune
+S	S_ST_P5_1_Cluster4	Myeloid Dendritic Type 1	0.00155083479416771	Immune
+S	S_ST_P5_1_Cluster4	TREM2+ Dendritic	0.000217737018444302	Immune
+S	S_ST_P5_1_Cluster4	Differentiating Basal	0.0553511799923734	Epithelial
+S	S_ST_P5_1_Cluster4	Proliferating Basal	0.123107611177083	Epithelial
+S	S_ST_P5_1_Cluster4	Basal	0.14840752543166	Epithelial
+S	S_ST_P5_1_Cluster4	Plasma	0.000467402044380623	Immune
+S	S_ST_P5_1_Cluster4	Macrophage	0.064137450694909	Immune
+S	S_ST_P5_1_Cluster4	Basophil/Mast 1	0.013779404941004	Immune
+S	S_ST_P5_1_Cluster4	Proliferating Macrophage	0.0025054488404433	Immune
+S	S_ST_P5_1_Cluster4	Capillary Aerocyte	0.066111404211094	Endothelial
+S	S_ST_P5_1_Cluster4	Capillary	0.0949094009913529	Endothelial
+S	S_ST_P5_1_Cluster4	Bronchial Vessel 2	0.00941378724296355	Endothelial
+S	S_ST_P5_1_Cluster4	Vein	0.00379754858977484	Endothelial
+S	S_ST_P5_1_Cluster4	Artery	0.00499672579165223	Endothelial
+S	S_ST_P5_1_Cluster4	Lymphatic	0.0178091225428247	Endothelial
+S	S_ST_P5_1_Cluster4	Bronchial Vessel 1	0.011321351759614	Endothelial
+S	S_ST_P5_1_Cluster4	Airway Smooth Muscle	0.0184746603850235	Stroma
+S	S_ST_P5_1_Cluster4	Alveolar Epithelial Type 2	0.0174639905282565	Epithelial
+S	S_ST_P5_1_Cluster4	Club	0.0141476192407223	Epithelial
+S	S_ST_P5_1_Cluster4	Pericyte	0.00167661657097498	Stroma
+S	S_ST_P5_1_Cluster4	Myofibroblast	0.00326836981913163	Stroma
+S	S_ST_P5_1_Cluster4	Alveolar Epithelial Type 1	0.0624313867214658	Epithelial
+S	S_ST_P5_1_Cluster4	Ciliated	0.00937960291888436	Epithelial
+S	S_ST_P5_1_Cluster4	Adventitial Fibroblast	0.00432212314761225	Stroma
+S	S_ST_P5_1_Cluster4	Alveolar Fibroblast	0.00388146320618884	Stroma
+S	S_ST_P5_1_Cluster4	Lipofibroblast	0.000153803742622761	Stroma
+S	S_ST_P5_1_Cluster4	Mesothelial	0.00114225453052313	Stroma
+S	S_ST_P5_1_Cluster4	Capillary Intermediate 1	0.0329910496751854	Endothelial
+S	S_ST_P5_1_Cluster4	Capillary Intermediate 2	0.00901626712974179	Endothelial
+S	S_ST_P5_1_Cluster4	Vascular Smooth Muscle	0.0195112498038129	Stroma
+S	S_ST_P5_1_Cluster4	Mucous	0	Epithelial
+S	S_ST_P5_1_Cluster4	Proliferating NK/T	0.00106071508133285	Immune
+S	S_ST_P5_1_Cluster4	Natural Killer T	3.75742660841901e-06	Immune
+S	S_ST_P5_1_Cluster4	OLR1+ Classical Monocyte	0.0287382179405794	Immune
+S	S_ST_P5_1_Cluster4	Intermediate Monocyte	0.000118506942218082	Immune
+S	S_ST_P5_1_Cluster4	Basophil/Mast 2	0.00121571410406971	Immune
+S	S_ST_P5_1_Cluster4	Signaling Alveolar Epithelial Type 2	0	Epithelial
+S	S_ST_P5_1_Cluster4	Proximal Basal	0.0093270213668555	Epithelial
+S	S_ST_P5_1_Cluster4	Neuroendocrine	0.000157671445823803	Epithelial
+S	S_ST_P5_1_Cluster4	Fibromyocyte	0.003134818420106	Stroma
+S	S_ST_P5_1_Cluster4	Ionocyte	0.000113156470801922	Epithelial
+S	S_ST_P5_1_Cluster4	Serous	4.67964373981999e-05	Epithelial
+S	S_ST_P5_1_Cluster4	Proximal Ciliated	0.00745496126570819	Epithelial
+S	S_ST_P5_1_Cluster4	Goblet	0.0124209555894037	Epithelial
+S	S_ST_P5_1_Cluster4	Neutrophil	5.13220068568217e-05	Immune
+S	S_ST_P5_1_Cluster4	Dendritic	0	Immune
+MA	MA_49_3_Cluster3	CD4+ Memory/Effector T	0.050214813563529	Immune
+MA	MA_49_3_Cluster3	CD4+ Naive T	0.00960040548717614	Immune
+MA	MA_49_3_Cluster3	CD8+ Memory/Effector T	0.00233526213215089	Immune
+MA	MA_49_3_Cluster3	CD8+ Naive T	0.0126141812224217	Immune
+MA	MA_49_3_Cluster3	Natural Killer	0.0257761862249645	Immune
+MA	MA_49_3_Cluster3	Classical Monocyte	0.0206142976306723	Immune
+MA	MA_49_3_Cluster3	Nonclassical Monocyte	0.00847959499294896	Immune
+MA	MA_49_3_Cluster3	Myeloid Dendritic Type 2	0.00484577597862853	Immune
+MA	MA_49_3_Cluster3	Platelet/Megakaryocyte	7.15036278640859e-05	Immune
+MA	MA_49_3_Cluster3	B	0.0472462810916678	Immune
+MA	MA_49_3_Cluster3	IGSF21+ Dendritic	0.0181192917838444	Immune
+MA	MA_49_3_Cluster3	EREG+ Dendritic	0.000751785974813162	Immune
+MA	MA_49_3_Cluster3	Plasmacytoid Dendritic	0.00984934194322948	Immune
+MA	MA_49_3_Cluster3	Myeloid Dendritic Type 1	0.00533031547508002	Immune
+MA	MA_49_3_Cluster3	TREM2+ Dendritic	0.078129869204545	Immune
+MA	MA_49_3_Cluster3	Differentiating Basal	0.000567494600880718	Epithelial
+MA	MA_49_3_Cluster3	Proliferating Basal	0.00279779011155679	Epithelial
+MA	MA_49_3_Cluster3	Basal	9.24535395715687e-05	Epithelial
+MA	MA_49_3_Cluster3	Plasma	0.00401773377677672	Immune
+MA	MA_49_3_Cluster3	Macrophage	0.101152816288873	Immune
+MA	MA_49_3_Cluster3	Basophil/Mast 1	0.000497032505020087	Immune
+MA	MA_49_3_Cluster3	Proliferating Macrophage	0.000895707933293009	Immune
+MA	MA_49_3_Cluster3	Capillary Aerocyte	0.00400098430016483	Endothelial
+MA	MA_49_3_Cluster3	Capillary	0.0261433370521765	Endothelial
+MA	MA_49_3_Cluster3	Bronchial Vessel 2	0.00111445027229327	Endothelial
+MA	MA_49_3_Cluster3	Vein	0.0616701653671962	Endothelial
+MA	MA_49_3_Cluster3	Artery	0.0139910070313421	Endothelial
+MA	MA_49_3_Cluster3	Lymphatic	0.0431817013647109	Endothelial
+MA	MA_49_3_Cluster3	Bronchial Vessel 1	0.0378921132289455	Endothelial
+MA	MA_49_3_Cluster3	Airway Smooth Muscle	0.0804414877566436	Stroma
+MA	MA_49_3_Cluster3	Alveolar Epithelial Type 2	0.0905239156846394	Epithelial
+MA	MA_49_3_Cluster3	Club	0.000140840834262375	Epithelial
+MA	MA_49_3_Cluster3	Pericyte	0.0158524577970018	Stroma
+MA	MA_49_3_Cluster3	Myofibroblast	0.00547397490202836	Stroma
+MA	MA_49_3_Cluster3	Alveolar Epithelial Type 1	0.00213314229760438	Epithelial
+MA	MA_49_3_Cluster3	Ciliated	0.0126895312012712	Epithelial
+MA	MA_49_3_Cluster3	Adventitial Fibroblast	0.0375401982339379	Stroma
+MA	MA_49_3_Cluster3	Alveolar Fibroblast	0.0119093390286507	Stroma
+MA	MA_49_3_Cluster3	Lipofibroblast	0	Stroma
+MA	MA_49_3_Cluster3	Mesothelial	0.00855320008218805	Stroma
+MA	MA_49_3_Cluster3	Capillary Intermediate 1	0.000152292804048869	Endothelial
+MA	MA_49_3_Cluster3	Capillary Intermediate 2	0.00016493424745612	Endothelial
+MA	MA_49_3_Cluster3	Vascular Smooth Muscle	0.0507801102902291	Stroma
+MA	MA_49_3_Cluster3	Mucous	5.39020031043549e-06	Epithelial
+MA	MA_49_3_Cluster3	Proliferating NK/T	0.000504100688087107	Immune
+MA	MA_49_3_Cluster3	Natural Killer T	0.0149098533926695	Immune
+MA	MA_49_3_Cluster3	OLR1+ Classical Monocyte	0.00312464383718255	Immune
+MA	MA_49_3_Cluster3	Intermediate Monocyte	0.000434635546758832	Immune
+MA	MA_49_3_Cluster3	Basophil/Mast 2	0.0163801628427532	Immune
+MA	MA_49_3_Cluster3	Signaling Alveolar Epithelial Type 2	0.0152021885315784	Epithelial
+MA	MA_49_3_Cluster3	Proximal Basal	0.000550264586438775	Epithelial
+MA	MA_49_3_Cluster3	Neuroendocrine	0.000451282157437395	Epithelial
+MA	MA_49_3_Cluster3	Fibromyocyte	0.00393380677206065	Stroma
+MA	MA_49_3_Cluster3	Ionocyte	0	Epithelial
+MA	MA_49_3_Cluster3	Serous	0.0294115006851656	Epithelial
+MA	MA_49_3_Cluster3	Proximal Ciliated	8.80859484903601e-05	Epithelial
+MA	MA_49_3_Cluster3	Goblet	0.00590227953669436	Epithelial
+MA	MA_49_3_Cluster3	Neutrophil	0.000752686408074206	Immune
+MA	MA_49_3_Cluster3	Dendritic	0	Immune
+N	N_49_3_Cluster1	CD4+ Memory/Effector T	0.00938512380657581	Immune
+N	N_49_3_Cluster1	CD4+ Naive T	0.00324209954420026	Immune
+N	N_49_3_Cluster1	CD8+ Memory/Effector T	0.00469290847403763	Immune
+N	N_49_3_Cluster1	CD8+ Naive T	0.00763440714567342	Immune
+N	N_49_3_Cluster1	Natural Killer	0.0172666410248906	Immune
+N	N_49_3_Cluster1	Classical Monocyte	0.00625722323273465	Immune
+N	N_49_3_Cluster1	Nonclassical Monocyte	0.00427853907183952	Immune
+N	N_49_3_Cluster1	Myeloid Dendritic Type 2	0.00391805438910883	Immune
+N	N_49_3_Cluster1	Platelet/Megakaryocyte	0.00801731366829362	Immune
+N	N_49_3_Cluster1	B	0.0511649353031492	Immune
+N	N_49_3_Cluster1	IGSF21+ Dendritic	0.000902495215771147	Immune
+N	N_49_3_Cluster1	EREG+ Dendritic	0.00272449355622002	Immune
+N	N_49_3_Cluster1	Plasmacytoid Dendritic	0.000809031437532334	Immune
+N	N_49_3_Cluster1	Myeloid Dendritic Type 1	0.0035052753723795	Immune
+N	N_49_3_Cluster1	TREM2+ Dendritic	0.0190955948683938	Immune
+N	N_49_3_Cluster1	Differentiating Basal	5.54280268368556e-05	Epithelial
+N	N_49_3_Cluster1	Proliferating Basal	0.000214674848791375	Epithelial
+N	N_49_3_Cluster1	Basal	0.00138552536275617	Epithelial
+N	N_49_3_Cluster1	Plasma	0.00333177985252829	Immune
+N	N_49_3_Cluster1	Macrophage	0.146074835517235	Immune
+N	N_49_3_Cluster1	Basophil/Mast 1	0.00785149348247549	Immune
+N	N_49_3_Cluster1	Proliferating Macrophage	0.00173810386697614	Immune
+N	N_49_3_Cluster1	Capillary Aerocyte	0.0518314867732493	Endothelial
+N	N_49_3_Cluster1	Capillary	0.161907379626649	Endothelial
+N	N_49_3_Cluster1	Bronchial Vessel 2	0.000517054985407962	Endothelial
+N	N_49_3_Cluster1	Vein	0.0458797100417949	Endothelial
+N	N_49_3_Cluster1	Artery	0.0340538255643187	Endothelial
+N	N_49_3_Cluster1	Lymphatic	0.00834958790514836	Endothelial
+N	N_49_3_Cluster1	Bronchial Vessel 1	0.0177690176896148	Endothelial
+N	N_49_3_Cluster1	Airway Smooth Muscle	0.0134876573786505	Stroma
+N	N_49_3_Cluster1	Alveolar Epithelial Type 2	0.0895630239422725	Epithelial
+N	N_49_3_Cluster1	Club	0.000818621141723823	Epithelial
+N	N_49_3_Cluster1	Pericyte	0.0294088263386707	Stroma
+N	N_49_3_Cluster1	Myofibroblast	0.0022189666421891	Stroma
+N	N_49_3_Cluster1	Alveolar Epithelial Type 1	0.00224150874311092	Epithelial
+N	N_49_3_Cluster1	Ciliated	0.049774506891451	Epithelial
+N	N_49_3_Cluster1	Adventitial Fibroblast	0.00327085539554786	Stroma
+N	N_49_3_Cluster1	Alveolar Fibroblast	0.0951775998136605	Stroma
+N	N_49_3_Cluster1	Lipofibroblast	0	Stroma
+N	N_49_3_Cluster1	Mesothelial	6.83525407826762e-05	Stroma
+N	N_49_3_Cluster1	Capillary Intermediate 1	0.0230788526926462	Endothelial
+N	N_49_3_Cluster1	Capillary Intermediate 2	0.00852370521220677	Endothelial
+N	N_49_3_Cluster1	Vascular Smooth Muscle	0.0217242231393152	Stroma
+N	N_49_3_Cluster1	Mucous	2.88284939081618e-05	Epithelial
+N	N_49_3_Cluster1	Proliferating NK/T	4.17976032815472e-05	Immune
+N	N_49_3_Cluster1	Natural Killer T	0.0004951624868133	Immune
+N	N_49_3_Cluster1	OLR1+ Classical Monocyte	0.000836255803199181	Immune
+N	N_49_3_Cluster1	Intermediate Monocyte	0.00206634493323045	Immune
+N	N_49_3_Cluster1	Basophil/Mast 2	0.000646758450123267	Immune
+N	N_49_3_Cluster1	Signaling Alveolar Epithelial Type 2	0.0143525838569268	Epithelial
+N	N_49_3_Cluster1	Proximal Basal	5.90051156794623e-06	Epithelial
+N	N_49_3_Cluster1	Neuroendocrine	0.0129836075772087	Epithelial
+N	N_49_3_Cluster1	Fibromyocyte	0.00126807716981909	Stroma
+N	N_49_3_Cluster1	Ionocyte	0	Epithelial
+N	N_49_3_Cluster1	Serous	0.00296997635637172	Epithelial
+N	N_49_3_Cluster1	Proximal Ciliated	0.000604042477023802	Epithelial
+N	N_49_3_Cluster1	Goblet	2.66564475420921e-05	Epithelial
+N	N_49_3_Cluster1	Neutrophil	0.000463268306173488	Immune
+N	N_49_3_Cluster1	Dendritic	0	Immune
+MP	MP_ST_P5_1_Cluster2	CD4+ Memory/Effector T	0.0533268296105514	Immune
+MP	MP_ST_P5_1_Cluster2	CD4+ Naive T	0.0207472229588521	Immune
+MP	MP_ST_P5_1_Cluster2	CD8+ Memory/Effector T	0.00508579286404502	Immune
+MP	MP_ST_P5_1_Cluster2	CD8+ Naive T	0.0171138607656117	Immune
+MP	MP_ST_P5_1_Cluster2	Natural Killer	0.0142209671552364	Immune
+MP	MP_ST_P5_1_Cluster2	Classical Monocyte	0.0344246578031062	Immune
+MP	MP_ST_P5_1_Cluster2	Nonclassical Monocyte	0.00502801175209992	Immune
+MP	MP_ST_P5_1_Cluster2	Myeloid Dendritic Type 2	0.0027482604461289	Immune
+MP	MP_ST_P5_1_Cluster2	Platelet/Megakaryocyte	0	Immune
+MP	MP_ST_P5_1_Cluster2	B	0.00918548687931325	Immune
+MP	MP_ST_P5_1_Cluster2	IGSF21+ Dendritic	0.0179879135429167	Immune
+MP	MP_ST_P5_1_Cluster2	EREG+ Dendritic	0.0150902080253039	Immune
+MP	MP_ST_P5_1_Cluster2	Plasmacytoid Dendritic	0.00111262313376609	Immune
+MP	MP_ST_P5_1_Cluster2	Myeloid Dendritic Type 1	0.0117740024352725	Immune
+MP	MP_ST_P5_1_Cluster2	TREM2+ Dendritic	0.0702741502916034	Immune
+MP	MP_ST_P5_1_Cluster2	Differentiating Basal	0.00145883342308005	Epithelial
+MP	MP_ST_P5_1_Cluster2	Proliferating Basal	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Basal	0.000136573044425591	Epithelial
+MP	MP_ST_P5_1_Cluster2	Plasma	0.00310702074582031	Immune
+MP	MP_ST_P5_1_Cluster2	Macrophage	0.523254323779278	Immune
+MP	MP_ST_P5_1_Cluster2	Basophil/Mast 1	0.00451303944017958	Immune
+MP	MP_ST_P5_1_Cluster2	Proliferating Macrophage	0.000434330888027629	Immune
+MP	MP_ST_P5_1_Cluster2	Capillary Aerocyte	0.0137491541538195	Endothelial
+MP	MP_ST_P5_1_Cluster2	Capillary	0.0374228312952696	Endothelial
+MP	MP_ST_P5_1_Cluster2	Bronchial Vessel 2	0.000184408217825318	Endothelial
+MP	MP_ST_P5_1_Cluster2	Vein	0.0208832857030288	Endothelial
+MP	MP_ST_P5_1_Cluster2	Artery	0.0301514528285466	Endothelial
+MP	MP_ST_P5_1_Cluster2	Lymphatic	0.0169662016759977	Endothelial
+MP	MP_ST_P5_1_Cluster2	Bronchial Vessel 1	0.00944882095810988	Endothelial
+MP	MP_ST_P5_1_Cluster2	Airway Smooth Muscle	0.00198178840132088	Stroma
+MP	MP_ST_P5_1_Cluster2	Alveolar Epithelial Type 2	0.000557020619064673	Epithelial
+MP	MP_ST_P5_1_Cluster2	Club	0.00124380464821729	Epithelial
+MP	MP_ST_P5_1_Cluster2	Pericyte	0.00816042526840365	Stroma
+MP	MP_ST_P5_1_Cluster2	Myofibroblast	0.0022925148990051	Stroma
+MP	MP_ST_P5_1_Cluster2	Alveolar Epithelial Type 1	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Ciliated	0.000620744740160437	Epithelial
+MP	MP_ST_P5_1_Cluster2	Adventitial Fibroblast	0.00314040746067276	Stroma
+MP	MP_ST_P5_1_Cluster2	Alveolar Fibroblast	0.0163191534224556	Stroma
+MP	MP_ST_P5_1_Cluster2	Lipofibroblast	0	Stroma
+MP	MP_ST_P5_1_Cluster2	Mesothelial	0	Stroma
+MP	MP_ST_P5_1_Cluster2	Capillary Intermediate 1	5.8550061056482e-05	Endothelial
+MP	MP_ST_P5_1_Cluster2	Capillary Intermediate 2	0.000780743404149928	Endothelial
+MP	MP_ST_P5_1_Cluster2	Vascular Smooth Muscle	0.00396935429634031	Stroma
+MP	MP_ST_P5_1_Cluster2	Mucous	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Proliferating NK/T	0.00413005370560195	Immune
+MP	MP_ST_P5_1_Cluster2	Natural Killer T	0.00763712281262784	Immune
+MP	MP_ST_P5_1_Cluster2	OLR1+ Classical Monocyte	0.00567169149644916	Immune
+MP	MP_ST_P5_1_Cluster2	Intermediate Monocyte	0.00065025157727565	Immune
+MP	MP_ST_P5_1_Cluster2	Basophil/Mast 2	0.000480529024782738	Immune
+MP	MP_ST_P5_1_Cluster2	Signaling Alveolar Epithelial Type 2	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Proximal Basal	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Neuroendocrine	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Fibromyocyte	0.00114920332779147	Stroma
+MP	MP_ST_P5_1_Cluster2	Ionocyte	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Serous	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Goblet	0	Epithelial
+MP	MP_ST_P5_1_Cluster2	Neutrophil	0.000308164486568325	Immune
+MP	MP_ST_P5_1_Cluster2	Dendritic	0.00101821253083952	Immune
+N	N_ST_P7_Cluster4	CD4+ Memory/Effector T	0.026899900564152	Immune
+N	N_ST_P7_Cluster4	CD4+ Naive T	0.00537020149524864	Immune
+N	N_ST_P7_Cluster4	CD8+ Memory/Effector T	0.0062154490135746	Immune
+N	N_ST_P7_Cluster4	CD8+ Naive T	0.0500002098149779	Immune
+N	N_ST_P7_Cluster4	Natural Killer	0.0187945929234191	Immune
+N	N_ST_P7_Cluster4	Classical Monocyte	0.0583406397895505	Immune
+N	N_ST_P7_Cluster4	Nonclassical Monocyte	0.00589950086389127	Immune
+N	N_ST_P7_Cluster4	Myeloid Dendritic Type 2	0.000133800356190452	Immune
+N	N_ST_P7_Cluster4	Platelet/Megakaryocyte	0.00420389177181118	Immune
+N	N_ST_P7_Cluster4	B	0.0331361135517924	Immune
+N	N_ST_P7_Cluster4	IGSF21+ Dendritic	0.0109854721297047	Immune
+N	N_ST_P7_Cluster4	EREG+ Dendritic	0.0170200909379574	Immune
+N	N_ST_P7_Cluster4	Plasmacytoid Dendritic	0.000300906951038343	Immune
+N	N_ST_P7_Cluster4	Myeloid Dendritic Type 1	0.00140528103904807	Immune
+N	N_ST_P7_Cluster4	TREM2+ Dendritic	0.0189174151377156	Immune
+N	N_ST_P7_Cluster4	Differentiating Basal	0.0031174496190899	Epithelial
+N	N_ST_P7_Cluster4	Proliferating Basal	0.00121143151162601	Epithelial
+N	N_ST_P7_Cluster4	Basal	0.0221211642284163	Epithelial
+N	N_ST_P7_Cluster4	Plasma	0.00802015114627391	Immune
+N	N_ST_P7_Cluster4	Macrophage	0.361232955891042	Immune
+N	N_ST_P7_Cluster4	Basophil/Mast 1	0.0213686468319559	Immune
+N	N_ST_P7_Cluster4	Proliferating Macrophage	0.00675815856621603	Immune
+N	N_ST_P7_Cluster4	Capillary Aerocyte	0.0307838568553715	Endothelial
+N	N_ST_P7_Cluster4	Capillary	0.0797766119861339	Endothelial
+N	N_ST_P7_Cluster4	Bronchial Vessel 2	0.000218357637205082	Endothelial
+N	N_ST_P7_Cluster4	Vein	0.00489903685099213	Endothelial
+N	N_ST_P7_Cluster4	Artery	0	Endothelial
+N	N_ST_P7_Cluster4	Lymphatic	0.00918031234197416	Endothelial
+N	N_ST_P7_Cluster4	Bronchial Vessel 1	0.020306638404722	Endothelial
+N	N_ST_P7_Cluster4	Airway Smooth Muscle	0.0117456841637813	Stroma
+N	N_ST_P7_Cluster4	Alveolar Epithelial Type 2	0.00757560186980079	Epithelial
+N	N_ST_P7_Cluster4	Club	0.00859307509296991	Epithelial
+N	N_ST_P7_Cluster4	Pericyte	0.0117593336558075	Stroma
+N	N_ST_P7_Cluster4	Myofibroblast	0.00103688746675837	Stroma
+N	N_ST_P7_Cluster4	Alveolar Epithelial Type 1	0.0329100012951821	Epithelial
+N	N_ST_P7_Cluster4	Ciliated	0.000829060302476366	Epithelial
+N	N_ST_P7_Cluster4	Adventitial Fibroblast	0.00401241009340015	Stroma
+N	N_ST_P7_Cluster4	Alveolar Fibroblast	0.00314710980333961	Stroma
+N	N_ST_P7_Cluster4	Lipofibroblast	0.000426525401399038	Stroma
+N	N_ST_P7_Cluster4	Mesothelial	0	Stroma
+N	N_ST_P7_Cluster4	Capillary Intermediate 1	0.00259312894822267	Endothelial
+N	N_ST_P7_Cluster4	Capillary Intermediate 2	0.00235920403762156	Endothelial
+N	N_ST_P7_Cluster4	Vascular Smooth Muscle	0.00622716709794258	Stroma
+N	N_ST_P7_Cluster4	Mucous	0.00774466896134822	Epithelial
+N	N_ST_P7_Cluster4	Proliferating NK/T	0.00346002664027438	Immune
+N	N_ST_P7_Cluster4	Natural Killer T	6.67676341344651e-05	Immune
+N	N_ST_P7_Cluster4	OLR1+ Classical Monocyte	0.0435826463156879	Immune
+N	N_ST_P7_Cluster4	Intermediate Monocyte	0.0202032522048958	Immune
+N	N_ST_P7_Cluster4	Basophil/Mast 2	0.00119166953531318	Immune
+N	N_ST_P7_Cluster4	Signaling Alveolar Epithelial Type 2	0	Epithelial
+N	N_ST_P7_Cluster4	Proximal Basal	6.71355217604896e-06	Epithelial
+N	N_ST_P7_Cluster4	Neuroendocrine	0.00189046070124586	Epithelial
+N	N_ST_P7_Cluster4	Fibromyocyte	0.000559335699220057	Stroma
+N	N_ST_P7_Cluster4	Ionocyte	2.66197096979529e-06	Epithelial
+N	N_ST_P7_Cluster4	Serous	0	Epithelial
+N	N_ST_P7_Cluster4	Proximal Ciliated	0	Epithelial
+N	N_ST_P7_Cluster4	Goblet	0.000775020678866899	Epithelial
+N	N_ST_P7_Cluster4	Neutrophil	0.000427384326838277	Immune
+N	N_ST_P7_Cluster4	Dendritic	0.000255964339235974	Immune
+PA	PA_ST_P1_Cluster5	CD4+ Memory/Effector T	0.0101399090039559	Immune
+PA	PA_ST_P1_Cluster5	CD4+ Naive T	0.000453549247789419	Immune
+PA	PA_ST_P1_Cluster5	CD8+ Memory/Effector T	0.0190578565021156	Immune
+PA	PA_ST_P1_Cluster5	CD8+ Naive T	0.0157282422878684	Immune
+PA	PA_ST_P1_Cluster5	Natural Killer	0.00201836350435132	Immune
+PA	PA_ST_P1_Cluster5	Classical Monocyte	0.0124197249608252	Immune
+PA	PA_ST_P1_Cluster5	Nonclassical Monocyte	0.00026607924842786	Immune
+PA	PA_ST_P1_Cluster5	Myeloid Dendritic Type 2	9.90559296094764e-05	Immune
+PA	PA_ST_P1_Cluster5	Platelet/Megakaryocyte	1.33026287006597e-05	Immune
+PA	PA_ST_P1_Cluster5	B	0.0199129253196921	Immune
+PA	PA_ST_P1_Cluster5	IGSF21+ Dendritic	0.000604158863384328	Immune
+PA	PA_ST_P1_Cluster5	EREG+ Dendritic	0.00777028699510803	Immune
+PA	PA_ST_P1_Cluster5	Plasmacytoid Dendritic	0.00789741978203839	Immune
+PA	PA_ST_P1_Cluster5	Myeloid Dendritic Type 1	0.00689141400098649	Immune
+PA	PA_ST_P1_Cluster5	TREM2+ Dendritic	0.000277160643951372	Immune
+PA	PA_ST_P1_Cluster5	Differentiating Basal	0.061052624907954	Epithelial
+PA	PA_ST_P1_Cluster5	Proliferating Basal	0.0132900773913283	Epithelial
+PA	PA_ST_P1_Cluster5	Basal	0.114754500950932	Epithelial
+PA	PA_ST_P1_Cluster5	Plasma	0.0158208734979797	Immune
+PA	PA_ST_P1_Cluster5	Macrophage	0.0880980284939448	Immune
+PA	PA_ST_P1_Cluster5	Basophil/Mast 1	0.00115928308789088	Immune
+PA	PA_ST_P1_Cluster5	Proliferating Macrophage	0.00932370106295073	Immune
+PA	PA_ST_P1_Cluster5	Capillary Aerocyte	0.0853552178377538	Endothelial
+PA	PA_ST_P1_Cluster5	Capillary	0.106827230801961	Endothelial
+PA	PA_ST_P1_Cluster5	Bronchial Vessel 2	0	Endothelial
+PA	PA_ST_P1_Cluster5	Vein	0.0176724348878506	Endothelial
+PA	PA_ST_P1_Cluster5	Artery	0.00819467561362036	Endothelial
+PA	PA_ST_P1_Cluster5	Lymphatic	0.0321479578444774	Endothelial
+PA	PA_ST_P1_Cluster5	Bronchial Vessel 1	0.00258476891604719	Endothelial
+PA	PA_ST_P1_Cluster5	Airway Smooth Muscle	0.00383635217841302	Stroma
+PA	PA_ST_P1_Cluster5	Alveolar Epithelial Type 2	0.0105874790041545	Epithelial
+PA	PA_ST_P1_Cluster5	Club	0.0363167327177151	Epithelial
+PA	PA_ST_P1_Cluster5	Pericyte	0.012470045840118	Stroma
+PA	PA_ST_P1_Cluster5	Myofibroblast	0.00995887941205532	Stroma
+PA	PA_ST_P1_Cluster5	Alveolar Epithelial Type 1	0.108342553520241	Epithelial
+PA	PA_ST_P1_Cluster5	Ciliated	5.91494264174845e-06	Epithelial
+PA	PA_ST_P1_Cluster5	Adventitial Fibroblast	0.00194976923471097	Stroma
+PA	PA_ST_P1_Cluster5	Alveolar Fibroblast	0.0172379731014011	Stroma
+PA	PA_ST_P1_Cluster5	Lipofibroblast	0	Stroma
+PA	PA_ST_P1_Cluster5	Mesothelial	0.00615161852634314	Stroma
+PA	PA_ST_P1_Cluster5	Capillary Intermediate 1	0.0205166785064673	Endothelial
+PA	PA_ST_P1_Cluster5	Capillary Intermediate 2	0.015728773542891	Endothelial
+PA	PA_ST_P1_Cluster5	Vascular Smooth Muscle	0.00313634254525051	Stroma
+PA	PA_ST_P1_Cluster5	Mucous	0.000656781728424535	Epithelial
+PA	PA_ST_P1_Cluster5	Proliferating NK/T	0.000395656630366206	Immune
+PA	PA_ST_P1_Cluster5	Natural Killer T	5.95421049586224e-06	Immune
+PA	PA_ST_P1_Cluster5	OLR1+ Classical Monocyte	0.000700651510196606	Immune
+PA	PA_ST_P1_Cluster5	Intermediate Monocyte	0.00135667562708956	Immune
+PA	PA_ST_P1_Cluster5	Basophil/Mast 2	0.0014749656362731	Immune
+PA	PA_ST_P1_Cluster5	Signaling Alveolar Epithelial Type 2	0	Epithelial
+PA	PA_ST_P1_Cluster5	Proximal Basal	0.00110659902465327	Epithelial
+PA	PA_ST_P1_Cluster5	Neuroendocrine	0.0348175163590548	Epithelial
+PA	PA_ST_P1_Cluster5	Fibromyocyte	9.72264919119036e-05	Stroma
+PA	PA_ST_P1_Cluster5	Ionocyte	0.0353978486425001	Epithelial
+PA	PA_ST_P1_Cluster5	Serous	0	Epithelial
+PA	PA_ST_P1_Cluster5	Proximal Ciliated	0	Epithelial
+PA	PA_ST_P1_Cluster5	Goblet	0.0179201868531367	Epithelial
+PA	PA_ST_P1_Cluster5	Neutrophil	0	Immune
+PA	PA_ST_P1_Cluster5	Dendritic	0	Immune
+MP	MP_ST_P1_Cluster0	CD4+ Memory/Effector T	0.0694385087130818	Immune
+MP	MP_ST_P1_Cluster0	CD4+ Naive T	0.0244653390330911	Immune
+MP	MP_ST_P1_Cluster0	CD8+ Memory/Effector T	0.0169448824629109	Immune
+MP	MP_ST_P1_Cluster0	CD8+ Naive T	0.0478047671810577	Immune
+MP	MP_ST_P1_Cluster0	Natural Killer	0.0885695620391303	Immune
+MP	MP_ST_P1_Cluster0	Classical Monocyte	0.0538091500392653	Immune
+MP	MP_ST_P1_Cluster0	Nonclassical Monocyte	0.00919372950456293	Immune
+MP	MP_ST_P1_Cluster0	Myeloid Dendritic Type 2	0.0016831701901921	Immune
+MP	MP_ST_P1_Cluster0	Platelet/Megakaryocyte	6.64196960008879e-05	Immune
+MP	MP_ST_P1_Cluster0	B	0.0740532467053823	Immune
+MP	MP_ST_P1_Cluster0	IGSF21+ Dendritic	0.000288318970058035	Immune
+MP	MP_ST_P1_Cluster0	EREG+ Dendritic	0.00103003852717912	Immune
+MP	MP_ST_P1_Cluster0	Plasmacytoid Dendritic	0.00839868873428382	Immune
+MP	MP_ST_P1_Cluster0	Myeloid Dendritic Type 1	0.00110929565553279	Immune
+MP	MP_ST_P1_Cluster0	TREM2+ Dendritic	3.62103102181782e-05	Immune
+MP	MP_ST_P1_Cluster0	Differentiating Basal	0.0208100400439084	Epithelial
+MP	MP_ST_P1_Cluster0	Proliferating Basal	1.7446567027158e-06	Epithelial
+MP	MP_ST_P1_Cluster0	Basal	0.0133190536255722	Epithelial
+MP	MP_ST_P1_Cluster0	Plasma	0.0129419677704716	Immune
+MP	MP_ST_P1_Cluster0	Macrophage	0.0993313678083081	Immune
+MP	MP_ST_P1_Cluster0	Basophil/Mast 1	0.0503984416787347	Immune
+MP	MP_ST_P1_Cluster0	Proliferating Macrophage	0.00501290283741834	Immune
+MP	MP_ST_P1_Cluster0	Capillary Aerocyte	0.054709751347378	Endothelial
+MP	MP_ST_P1_Cluster0	Capillary	0.0896239890010401	Endothelial
+MP	MP_ST_P1_Cluster0	Bronchial Vessel 2	0.00143615471821039	Endothelial
+MP	MP_ST_P1_Cluster0	Vein	0.00287176509962433	Endothelial
+MP	MP_ST_P1_Cluster0	Artery	0.00932155754119178	Endothelial
+MP	MP_ST_P1_Cluster0	Lymphatic	0.0041553932055723	Endothelial
+MP	MP_ST_P1_Cluster0	Bronchial Vessel 1	0.00922068678662034	Endothelial
+MP	MP_ST_P1_Cluster0	Airway Smooth Muscle	0.000946742813949671	Stroma
+MP	MP_ST_P1_Cluster0	Alveolar Epithelial Type 2	0.0383592519988903	Epithelial
+MP	MP_ST_P1_Cluster0	Club	0.0177766609373064	Epithelial
+MP	MP_ST_P1_Cluster0	Pericyte	0.00362175000932285	Stroma
+MP	MP_ST_P1_Cluster0	Myofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster0	Alveolar Epithelial Type 1	0.0600328244955844	Epithelial
+MP	MP_ST_P1_Cluster0	Ciliated	0.000424400494003597	Epithelial
+MP	MP_ST_P1_Cluster0	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P1_Cluster0	Alveolar Fibroblast	0.000398728747233225	Stroma
+MP	MP_ST_P1_Cluster0	Lipofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster0	Mesothelial	0	Stroma
+MP	MP_ST_P1_Cluster0	Capillary Intermediate 1	0.000112222441993387	Endothelial
+MP	MP_ST_P1_Cluster0	Capillary Intermediate 2	0.0355978812907439	Endothelial
+MP	MP_ST_P1_Cluster0	Vascular Smooth Muscle	0.00232640880874731	Stroma
+MP	MP_ST_P1_Cluster0	Mucous	0.00225607273442589	Epithelial
+MP	MP_ST_P1_Cluster0	Proliferating NK/T	0.0166636898611625	Immune
+MP	MP_ST_P1_Cluster0	Natural Killer T	0.00324018867301565	Immune
+MP	MP_ST_P1_Cluster0	OLR1+ Classical Monocyte	0.00637633444793325	Immune
+MP	MP_ST_P1_Cluster0	Intermediate Monocyte	0.00166946246801278	Immune
+MP	MP_ST_P1_Cluster0	Basophil/Mast 2	0.0153685578877354	Immune
+MP	MP_ST_P1_Cluster0	Signaling Alveolar Epithelial Type 2	0.010808212983349	Epithelial
+MP	MP_ST_P1_Cluster0	Proximal Basal	0	Epithelial
+MP	MP_ST_P1_Cluster0	Neuroendocrine	2.98497793828772e-05	Epithelial
+MP	MP_ST_P1_Cluster0	Fibromyocyte	0	Stroma
+MP	MP_ST_P1_Cluster0	Ionocyte	0.0040446856622183	Epithelial
+MP	MP_ST_P1_Cluster0	Serous	0	Epithelial
+MP	MP_ST_P1_Cluster0	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster0	Goblet	0.000703416491997081	Epithelial
+MP	MP_ST_P1_Cluster0	Neutrophil	0.00919651309029179	Immune
+MP	MP_ST_P1_Cluster0	Dendritic	0	Immune
+PA	PA_ST_P1_Cluster3	CD4+ Memory/Effector T	0.00161090332877026	Immune
+PA	PA_ST_P1_Cluster3	CD4+ Naive T	0.000361457237599863	Immune
+PA	PA_ST_P1_Cluster3	CD8+ Memory/Effector T	0.00162093051108055	Immune
+PA	PA_ST_P1_Cluster3	CD8+ Naive T	0.00234855143419684	Immune
+PA	PA_ST_P1_Cluster3	Natural Killer	0.00788253174338652	Immune
+PA	PA_ST_P1_Cluster3	Classical Monocyte	0.000195598581780075	Immune
+PA	PA_ST_P1_Cluster3	Nonclassical Monocyte	0.000327916513351165	Immune
+PA	PA_ST_P1_Cluster3	Myeloid Dendritic Type 2	0.000186128706954936	Immune
+PA	PA_ST_P1_Cluster3	Platelet/Megakaryocyte	0.00041921226441042	Immune
+PA	PA_ST_P1_Cluster3	B	0.00139830243253799	Immune
+PA	PA_ST_P1_Cluster3	IGSF21+ Dendritic	0.000463834864979357	Immune
+PA	PA_ST_P1_Cluster3	EREG+ Dendritic	0.000307808991025175	Immune
+PA	PA_ST_P1_Cluster3	Plasmacytoid Dendritic	0.00139379784252882	Immune
+PA	PA_ST_P1_Cluster3	Myeloid Dendritic Type 1	0.000256627507355092	Immune
+PA	PA_ST_P1_Cluster3	TREM2+ Dendritic	0.000110689578442356	Immune
+PA	PA_ST_P1_Cluster3	Differentiating Basal	0.017791732258738	Epithelial
+PA	PA_ST_P1_Cluster3	Proliferating Basal	0.00404651081087432	Epithelial
+PA	PA_ST_P1_Cluster3	Basal	0.0420662932758739	Epithelial
+PA	PA_ST_P1_Cluster3	Plasma	0.00122141380401873	Immune
+PA	PA_ST_P1_Cluster3	Macrophage	0.0138825344965141	Immune
+PA	PA_ST_P1_Cluster3	Basophil/Mast 1	0.001762129667377	Immune
+PA	PA_ST_P1_Cluster3	Proliferating Macrophage	0.00243934721345068	Immune
+PA	PA_ST_P1_Cluster3	Capillary Aerocyte	0.0140626137368521	Endothelial
+PA	PA_ST_P1_Cluster3	Capillary	0.0203493953489642	Endothelial
+PA	PA_ST_P1_Cluster3	Bronchial Vessel 2	0.000155738321231598	Endothelial
+PA	PA_ST_P1_Cluster3	Vein	0.0540231244687471	Endothelial
+PA	PA_ST_P1_Cluster3	Artery	0.0135213712477938	Endothelial
+PA	PA_ST_P1_Cluster3	Lymphatic	0.0264841804757443	Endothelial
+PA	PA_ST_P1_Cluster3	Bronchial Vessel 1	0.0116463326073578	Endothelial
+PA	PA_ST_P1_Cluster3	Airway Smooth Muscle	0.0122989761862833	Stroma
+PA	PA_ST_P1_Cluster3	Alveolar Epithelial Type 2	0.022688562034765	Epithelial
+PA	PA_ST_P1_Cluster3	Club	0.145288674194926	Epithelial
+PA	PA_ST_P1_Cluster3	Pericyte	0.0322898025346308	Stroma
+PA	PA_ST_P1_Cluster3	Myofibroblast	0.0274937387899225	Stroma
+PA	PA_ST_P1_Cluster3	Alveolar Epithelial Type 1	0.0128712930600903	Epithelial
+PA	PA_ST_P1_Cluster3	Ciliated	0	Epithelial
+PA	PA_ST_P1_Cluster3	Adventitial Fibroblast	0.115527832950762	Stroma
+PA	PA_ST_P1_Cluster3	Alveolar Fibroblast	0.192629395364463	Stroma
+PA	PA_ST_P1_Cluster3	Lipofibroblast	0.00146823583112729	Stroma
+PA	PA_ST_P1_Cluster3	Mesothelial	0.00344839909107261	Stroma
+PA	PA_ST_P1_Cluster3	Capillary Intermediate 1	0.00459031230617351	Endothelial
+PA	PA_ST_P1_Cluster3	Capillary Intermediate 2	0.00246191771659509	Endothelial
+PA	PA_ST_P1_Cluster3	Vascular Smooth Muscle	0.0647197927004327	Stroma
+PA	PA_ST_P1_Cluster3	Mucous	0.06713877148778	Epithelial
+PA	PA_ST_P1_Cluster3	Proliferating NK/T	0.000294491411885178	Immune
+PA	PA_ST_P1_Cluster3	Natural Killer T	7.82038038634532e-05	Immune
+PA	PA_ST_P1_Cluster3	OLR1+ Classical Monocyte	1.01930362677407e-05	Immune
+PA	PA_ST_P1_Cluster3	Intermediate Monocyte	0.000832808124477737	Immune
+PA	PA_ST_P1_Cluster3	Basophil/Mast 2	0.00094026003933008	Immune
+PA	PA_ST_P1_Cluster3	Signaling Alveolar Epithelial Type 2	0.00347401588018756	Epithelial
+PA	PA_ST_P1_Cluster3	Proximal Basal	0.00132384886325394	Epithelial
+PA	PA_ST_P1_Cluster3	Neuroendocrine	1.77615179367541e-05	Epithelial
+PA	PA_ST_P1_Cluster3	Fibromyocyte	0.0159491605803845	Stroma
+PA	PA_ST_P1_Cluster3	Ionocyte	0.000185477020685142	Epithelial
+PA	PA_ST_P1_Cluster3	Serous	0.0107418703036318	Epithelial
+PA	PA_ST_P1_Cluster3	Proximal Ciliated	0	Epithelial
+PA	PA_ST_P1_Cluster3	Goblet	0.0188991958971351	Epithelial
+PA	PA_ST_P1_Cluster3	Neutrophil	0	Immune
+PA	PA_ST_P1_Cluster3	Dendritic	0	Immune
+PA	PA_49_3_Cluster10	CD4+ Memory/Effector T	0.0201331894573956	Immune
+PA	PA_49_3_Cluster10	CD4+ Naive T	0.00588181317233196	Immune
+PA	PA_49_3_Cluster10	CD8+ Memory/Effector T	0.0107211134805153	Immune
+PA	PA_49_3_Cluster10	CD8+ Naive T	0.0330830756388858	Immune
+PA	PA_49_3_Cluster10	Natural Killer	0.0608122904490149	Immune
+PA	PA_49_3_Cluster10	Classical Monocyte	0.00604553948735109	Immune
+PA	PA_49_3_Cluster10	Nonclassical Monocyte	0.0743280996854889	Immune
+PA	PA_49_3_Cluster10	Myeloid Dendritic Type 2	0.0329585621151022	Immune
+PA	PA_49_3_Cluster10	Platelet/Megakaryocyte	0	Immune
+PA	PA_49_3_Cluster10	B	0.00148672152883224	Immune
+PA	PA_49_3_Cluster10	IGSF21+ Dendritic	0.00187005903836476	Immune
+PA	PA_49_3_Cluster10	EREG+ Dendritic	0.00454295121650761	Immune
+PA	PA_49_3_Cluster10	Plasmacytoid Dendritic	0	Immune
+PA	PA_49_3_Cluster10	Myeloid Dendritic Type 1	0.00225767669455603	Immune
+PA	PA_49_3_Cluster10	TREM2+ Dendritic	0.000555133754886828	Immune
+PA	PA_49_3_Cluster10	Differentiating Basal	0.000282553563369327	Epithelial
+PA	PA_49_3_Cluster10	Proliferating Basal	0.0293347238454459	Epithelial
+PA	PA_49_3_Cluster10	Basal	0.0204378495652858	Epithelial
+PA	PA_49_3_Cluster10	Plasma	0.000228845789054326	Immune
+PA	PA_49_3_Cluster10	Macrophage	0.108328893585893	Immune
+PA	PA_49_3_Cluster10	Basophil/Mast 1	0.172943660995651	Immune
+PA	PA_49_3_Cluster10	Proliferating Macrophage	0.0038949151051158	Immune
+PA	PA_49_3_Cluster10	Capillary Aerocyte	0.00942990204022956	Endothelial
+PA	PA_49_3_Cluster10	Capillary	0.000522176456953973	Endothelial
+PA	PA_49_3_Cluster10	Bronchial Vessel 2	0	Endothelial
+PA	PA_49_3_Cluster10	Vein	0	Endothelial
+PA	PA_49_3_Cluster10	Artery	0.0614480738621685	Endothelial
+PA	PA_49_3_Cluster10	Lymphatic	0.000441857104477124	Endothelial
+PA	PA_49_3_Cluster10	Bronchial Vessel 1	0.000513468971414645	Endothelial
+PA	PA_49_3_Cluster10	Airway Smooth Muscle	0.0090198756039632	Stroma
+PA	PA_49_3_Cluster10	Alveolar Epithelial Type 2	0.000651468105603547	Epithelial
+PA	PA_49_3_Cluster10	Club	0.00174894608874653	Epithelial
+PA	PA_49_3_Cluster10	Pericyte	0.000318721587144743	Stroma
+PA	PA_49_3_Cluster10	Myofibroblast	0.000585930757238357	Stroma
+PA	PA_49_3_Cluster10	Alveolar Epithelial Type 1	0.038093003727983	Epithelial
+PA	PA_49_3_Cluster10	Ciliated	0.0403787242651889	Epithelial
+PA	PA_49_3_Cluster10	Adventitial Fibroblast	0	Stroma
+PA	PA_49_3_Cluster10	Alveolar Fibroblast	0.00307523263771872	Stroma
+PA	PA_49_3_Cluster10	Lipofibroblast	0	Stroma
+PA	PA_49_3_Cluster10	Mesothelial	0	Stroma
+PA	PA_49_3_Cluster10	Capillary Intermediate 1	0	Endothelial
+PA	PA_49_3_Cluster10	Capillary Intermediate 2	0.0263084507326332	Endothelial
+PA	PA_49_3_Cluster10	Vascular Smooth Muscle	0	Stroma
+PA	PA_49_3_Cluster10	Mucous	0.0983214904929959	Epithelial
+PA	PA_49_3_Cluster10	Proliferating NK/T	0.0756942775488625	Immune
+PA	PA_49_3_Cluster10	Natural Killer T	0.00567819670129881	Immune
+PA	PA_49_3_Cluster10	OLR1+ Classical Monocyte	0.0162920931739274	Immune
+PA	PA_49_3_Cluster10	Intermediate Monocyte	0	Immune
+PA	PA_49_3_Cluster10	Basophil/Mast 2	0.000117968677887067	Immune
+PA	PA_49_3_Cluster10	Signaling Alveolar Epithelial Type 2	0	Epithelial
+PA	PA_49_3_Cluster10	Proximal Basal	0	Epithelial
+PA	PA_49_3_Cluster10	Neuroendocrine	0.000284987536107968	Epithelial
+PA	PA_49_3_Cluster10	Fibromyocyte	0	Stroma
+PA	PA_49_3_Cluster10	Ionocyte	6.9013330044509e-05	Epithelial
+PA	PA_49_3_Cluster10	Serous	0.0043864830914883	Epithelial
+PA	PA_49_3_Cluster10	Proximal Ciliated	0	Epithelial
+PA	PA_49_3_Cluster10	Goblet	0.0156393373807414	Epithelial
+PA	PA_49_3_Cluster10	Neutrophil	0.00085265195613431	Immune
+PA	PA_49_3_Cluster10	Dendritic	0	Immune
+N	N_49_3_Cluster8	CD4+ Memory/Effector T	0.0235834470691714	Immune
+N	N_49_3_Cluster8	CD4+ Naive T	0.00470912132799308	Immune
+N	N_49_3_Cluster8	CD8+ Memory/Effector T	0.00510840363650781	Immune
+N	N_49_3_Cluster8	CD8+ Naive T	0.0122293602896823	Immune
+N	N_49_3_Cluster8	Natural Killer	0.0221380843878097	Immune
+N	N_49_3_Cluster8	Classical Monocyte	0.0268668057198623	Immune
+N	N_49_3_Cluster8	Nonclassical Monocyte	0.00407845041905398	Immune
+N	N_49_3_Cluster8	Myeloid Dendritic Type 2	0.00832127311350637	Immune
+N	N_49_3_Cluster8	Platelet/Megakaryocyte	0.002087872068352	Immune
+N	N_49_3_Cluster8	B	0.058622036368128	Immune
+N	N_49_3_Cluster8	IGSF21+ Dendritic	0.0520902990651139	Immune
+N	N_49_3_Cluster8	EREG+ Dendritic	0.00041760702790954	Immune
+N	N_49_3_Cluster8	Plasmacytoid Dendritic	0	Immune
+N	N_49_3_Cluster8	Myeloid Dendritic Type 1	0.0025359088428981	Immune
+N	N_49_3_Cluster8	TREM2+ Dendritic	0	Immune
+N	N_49_3_Cluster8	Differentiating Basal	0.00670254937117145	Epithelial
+N	N_49_3_Cluster8	Proliferating Basal	0	Epithelial
+N	N_49_3_Cluster8	Basal	0	Epithelial
+N	N_49_3_Cluster8	Plasma	0.0166749646278404	Immune
+N	N_49_3_Cluster8	Macrophage	0.040462583061024	Immune
+N	N_49_3_Cluster8	Basophil/Mast 1	0.0153419638143409	Immune
+N	N_49_3_Cluster8	Proliferating Macrophage	0.0158571731165937	Immune
+N	N_49_3_Cluster8	Capillary Aerocyte	0.0482390715697768	Endothelial
+N	N_49_3_Cluster8	Capillary	0.0221379851314035	Endothelial
+N	N_49_3_Cluster8	Bronchial Vessel 2	0.000112672334594424	Endothelial
+N	N_49_3_Cluster8	Vein	0.0455013129850885	Endothelial
+N	N_49_3_Cluster8	Artery	0.0214875060625898	Endothelial
+N	N_49_3_Cluster8	Lymphatic	0.11492081175804	Endothelial
+N	N_49_3_Cluster8	Bronchial Vessel 1	0.00489646061690569	Endothelial
+N	N_49_3_Cluster8	Airway Smooth Muscle	0.0694020091841014	Stroma
+N	N_49_3_Cluster8	Alveolar Epithelial Type 2	0.0285429131730843	Epithelial
+N	N_49_3_Cluster8	Club	0.00636505218288755	Epithelial
+N	N_49_3_Cluster8	Pericyte	0.0518992840705428	Stroma
+N	N_49_3_Cluster8	Myofibroblast	0.00447621301502608	Stroma
+N	N_49_3_Cluster8	Alveolar Epithelial Type 1	0.00412349032744087	Epithelial
+N	N_49_3_Cluster8	Ciliated	0.0173058024657221	Epithelial
+N	N_49_3_Cluster8	Adventitial Fibroblast	0.00481940917123597	Stroma
+N	N_49_3_Cluster8	Alveolar Fibroblast	0.0452154902676849	Stroma
+N	N_49_3_Cluster8	Lipofibroblast	0.00479546168717889	Stroma
+N	N_49_3_Cluster8	Mesothelial	0.00867622460393508	Stroma
+N	N_49_3_Cluster8	Capillary Intermediate 1	0.000902667500117165	Endothelial
+N	N_49_3_Cluster8	Capillary Intermediate 2	0.00113021680063812	Endothelial
+N	N_49_3_Cluster8	Vascular Smooth Muscle	0.0599962380819602	Stroma
+N	N_49_3_Cluster8	Mucous	0.00270856104549745	Epithelial
+N	N_49_3_Cluster8	Proliferating NK/T	0.00833791472048955	Immune
+N	N_49_3_Cluster8	Natural Killer T	0	Immune
+N	N_49_3_Cluster8	OLR1+ Classical Monocyte	0	Immune
+N	N_49_3_Cluster8	Intermediate Monocyte	0.000796832984137446	Immune
+N	N_49_3_Cluster8	Basophil/Mast 2	0	Immune
+N	N_49_3_Cluster8	Signaling Alveolar Epithelial Type 2	0	Epithelial
+N	N_49_3_Cluster8	Proximal Basal	0.00111335225153614	Epithelial
+N	N_49_3_Cluster8	Neuroendocrine	0.034663739348333	Epithelial
+N	N_49_3_Cluster8	Fibromyocyte	0.00873639189338051	Stroma
+N	N_49_3_Cluster8	Ionocyte	0	Epithelial
+N	N_49_3_Cluster8	Serous	0.00710165137832932	Epithelial
+N	N_49_3_Cluster8	Proximal Ciliated	0.0207957687985546	Epithelial
+N	N_49_3_Cluster8	Goblet	0.0239887835937652	Epithelial
+N	N_49_3_Cluster8	Neutrophil	0.0089828076690634	Immune
+N	N_49_3_Cluster8	Dendritic	0	Immune
+PA	PA_ST_P5_1_Cluster1	CD4+ Memory/Effector T	0.00199285920844488	Immune
+PA	PA_ST_P5_1_Cluster1	CD4+ Naive T	0.000273940364414219	Immune
+PA	PA_ST_P5_1_Cluster1	CD8+ Memory/Effector T	6.96706181961056e-05	Immune
+PA	PA_ST_P5_1_Cluster1	CD8+ Naive T	0.000406862634285951	Immune
+PA	PA_ST_P5_1_Cluster1	Natural Killer	0.00368296460747197	Immune
+PA	PA_ST_P5_1_Cluster1	Classical Monocyte	0.000658881018205898	Immune
+PA	PA_ST_P5_1_Cluster1	Nonclassical Monocyte	0.000298837855817756	Immune
+PA	PA_ST_P5_1_Cluster1	Myeloid Dendritic Type 2	0	Immune
+PA	PA_ST_P5_1_Cluster1	Platelet/Megakaryocyte	0	Immune
+PA	PA_ST_P5_1_Cluster1	B	4.185271935658e-05	Immune
+PA	PA_ST_P5_1_Cluster1	IGSF21+ Dendritic	0.00121539978049665	Immune
+PA	PA_ST_P5_1_Cluster1	EREG+ Dendritic	0.000161566122121649	Immune
+PA	PA_ST_P5_1_Cluster1	Plasmacytoid Dendritic	0.000153662968233551	Immune
+PA	PA_ST_P5_1_Cluster1	Myeloid Dendritic Type 1	4.40236193939529e-05	Immune
+PA	PA_ST_P5_1_Cluster1	TREM2+ Dendritic	0.00071736669673697	Immune
+PA	PA_ST_P5_1_Cluster1	Differentiating Basal	0.00097688366096364	Epithelial
+PA	PA_ST_P5_1_Cluster1	Proliferating Basal	0	Epithelial
+PA	PA_ST_P5_1_Cluster1	Basal	0.0130776789987468	Epithelial
+PA	PA_ST_P5_1_Cluster1	Plasma	0.000281858872439785	Immune
+PA	PA_ST_P5_1_Cluster1	Macrophage	0.0152820402775489	Immune
+PA	PA_ST_P5_1_Cluster1	Basophil/Mast 1	0.0029836017069977	Immune
+PA	PA_ST_P5_1_Cluster1	Proliferating Macrophage	0	Immune
+PA	PA_ST_P5_1_Cluster1	Capillary Aerocyte	0.0190299498389289	Endothelial
+PA	PA_ST_P5_1_Cluster1	Capillary	0.0249933632614082	Endothelial
+PA	PA_ST_P5_1_Cluster1	Bronchial Vessel 2	0.000914851327124952	Endothelial
+PA	PA_ST_P5_1_Cluster1	Vein	0.0092284801347998	Endothelial
+PA	PA_ST_P5_1_Cluster1	Artery	0.00301855441401404	Endothelial
+PA	PA_ST_P5_1_Cluster1	Lymphatic	0.00903398390595305	Endothelial
+PA	PA_ST_P5_1_Cluster1	Bronchial Vessel 1	0.00306614109051702	Endothelial
+PA	PA_ST_P5_1_Cluster1	Airway Smooth Muscle	0.00377185350777157	Stroma
+PA	PA_ST_P5_1_Cluster1	Alveolar Epithelial Type 2	0.293475639255907	Epithelial
+PA	PA_ST_P5_1_Cluster1	Club	0.234756849333313	Epithelial
+PA	PA_ST_P5_1_Cluster1	Pericyte	0.0149520681368349	Stroma
+PA	PA_ST_P5_1_Cluster1	Myofibroblast	0.0043867969073846	Stroma
+PA	PA_ST_P5_1_Cluster1	Alveolar Epithelial Type 1	0.0115177486084438	Epithelial
+PA	PA_ST_P5_1_Cluster1	Ciliated	0.0112610368811341	Epithelial
+PA	PA_ST_P5_1_Cluster1	Adventitial Fibroblast	0.00578878564713384	Stroma
+PA	PA_ST_P5_1_Cluster1	Alveolar Fibroblast	0.0466355840953026	Stroma
+PA	PA_ST_P5_1_Cluster1	Lipofibroblast	0	Stroma
+PA	PA_ST_P5_1_Cluster1	Mesothelial	0	Stroma
+PA	PA_ST_P5_1_Cluster1	Capillary Intermediate 1	0.00153550436870715	Endothelial
+PA	PA_ST_P5_1_Cluster1	Capillary Intermediate 2	0.00407843991083237	Endothelial
+PA	PA_ST_P5_1_Cluster1	Vascular Smooth Muscle	0.00358575088120101	Stroma
+PA	PA_ST_P5_1_Cluster1	Mucous	0.178110761078254	Epithelial
+PA	PA_ST_P5_1_Cluster1	Proliferating NK/T	0.000863531132436893	Immune
+PA	PA_ST_P5_1_Cluster1	Natural Killer T	4.09175748920847e-05	Immune
+PA	PA_ST_P5_1_Cluster1	OLR1+ Classical Monocyte	0.000580758881431643	Immune
+PA	PA_ST_P5_1_Cluster1	Intermediate Monocyte	0.0004103919467075	Immune
+PA	PA_ST_P5_1_Cluster1	Basophil/Mast 2	2.44540850487776e-05	Immune
+PA	PA_ST_P5_1_Cluster1	Signaling Alveolar Epithelial Type 2	0.0322670107981499	Epithelial
+PA	PA_ST_P5_1_Cluster1	Proximal Basal	2.63294720562052e-05	Epithelial
+PA	PA_ST_P5_1_Cluster1	Neuroendocrine	4.38965864322165e-06	Epithelial
+PA	PA_ST_P5_1_Cluster1	Fibromyocyte	0.00101051945007597	Stroma
+PA	PA_ST_P5_1_Cluster1	Ionocyte	0	Epithelial
+PA	PA_ST_P5_1_Cluster1	Serous	0.0174918345423134	Epithelial
+PA	PA_ST_P5_1_Cluster1	Proximal Ciliated	0	Epithelial
+PA	PA_ST_P5_1_Cluster1	Goblet	0.0218177681434056	Epithelial
+PA	PA_ST_P5_1_Cluster1	Neutrophil	0	Immune
+PA	PA_ST_P5_1_Cluster1	Dendritic	0	Immune
+S	S_ST_P5_1_Cluster5	CD4+ Memory/Effector T	0.013940493553126	Immune
+S	S_ST_P5_1_Cluster5	CD4+ Naive T	0.002314182421595	Immune
+S	S_ST_P5_1_Cluster5	CD8+ Memory/Effector T	0.00231953829424185	Immune
+S	S_ST_P5_1_Cluster5	CD8+ Naive T	0.00372689017628184	Immune
+S	S_ST_P5_1_Cluster5	Natural Killer	0.0133733381007528	Immune
+S	S_ST_P5_1_Cluster5	Classical Monocyte	0.0086657123111771	Immune
+S	S_ST_P5_1_Cluster5	Nonclassical Monocyte	0.000277583341492889	Immune
+S	S_ST_P5_1_Cluster5	Myeloid Dendritic Type 2	0.000180066935160001	Immune
+S	S_ST_P5_1_Cluster5	Platelet/Megakaryocyte	0	Immune
+S	S_ST_P5_1_Cluster5	B	0.00306201723274004	Immune
+S	S_ST_P5_1_Cluster5	IGSF21+ Dendritic	0.00595521859521516	Immune
+S	S_ST_P5_1_Cluster5	EREG+ Dendritic	0.00190028931201286	Immune
+S	S_ST_P5_1_Cluster5	Plasmacytoid Dendritic	0.000139110360229956	Immune
+S	S_ST_P5_1_Cluster5	Myeloid Dendritic Type 1	0.00507798750814656	Immune
+S	S_ST_P5_1_Cluster5	TREM2+ Dendritic	0.00311688688002737	Immune
+S	S_ST_P5_1_Cluster5	Differentiating Basal	7.25765292845672e-05	Epithelial
+S	S_ST_P5_1_Cluster5	Proliferating Basal	0	Epithelial
+S	S_ST_P5_1_Cluster5	Basal	0.00861797850622601	Epithelial
+S	S_ST_P5_1_Cluster5	Plasma	0.000337718329169904	Immune
+S	S_ST_P5_1_Cluster5	Macrophage	0.102056861966578	Immune
+S	S_ST_P5_1_Cluster5	Basophil/Mast 1	0.0221174581444002	Immune
+S	S_ST_P5_1_Cluster5	Proliferating Macrophage	0.000100777766345949	Immune
+S	S_ST_P5_1_Cluster5	Capillary Aerocyte	0.0207748453693279	Endothelial
+S	S_ST_P5_1_Cluster5	Capillary	0.00825156470078866	Endothelial
+S	S_ST_P5_1_Cluster5	Bronchial Vessel 2	0.0009125906991525	Endothelial
+S	S_ST_P5_1_Cluster5	Vein	0.000180863910322401	Endothelial
+S	S_ST_P5_1_Cluster5	Artery	0.00431723059645278	Endothelial
+S	S_ST_P5_1_Cluster5	Lymphatic	0.0122527580933248	Endothelial
+S	S_ST_P5_1_Cluster5	Bronchial Vessel 1	0.00920204854166435	Endothelial
+S	S_ST_P5_1_Cluster5	Airway Smooth Muscle	0.0828202758861752	Stroma
+S	S_ST_P5_1_Cluster5	Alveolar Epithelial Type 2	0.00262288166272734	Epithelial
+S	S_ST_P5_1_Cluster5	Club	0.000250418656538802	Epithelial
+S	S_ST_P5_1_Cluster5	Pericyte	0.00188917205270258	Stroma
+S	S_ST_P5_1_Cluster5	Myofibroblast	0.137296360097975	Stroma
+S	S_ST_P5_1_Cluster5	Alveolar Epithelial Type 1	0.00111149236438494	Epithelial
+S	S_ST_P5_1_Cluster5	Ciliated	0.000197566288072001	Epithelial
+S	S_ST_P5_1_Cluster5	Adventitial Fibroblast	0.224384879799655	Stroma
+S	S_ST_P5_1_Cluster5	Alveolar Fibroblast	0.0732219379288929	Stroma
+S	S_ST_P5_1_Cluster5	Lipofibroblast	0.0139718243286157	Stroma
+S	S_ST_P5_1_Cluster5	Mesothelial	0.0019392175926182	Stroma
+S	S_ST_P5_1_Cluster5	Capillary Intermediate 1	0	Endothelial
+S	S_ST_P5_1_Cluster5	Capillary Intermediate 2	0.00376913343561723	Endothelial
+S	S_ST_P5_1_Cluster5	Vascular Smooth Muscle	0.158849937438566	Stroma
+S	S_ST_P5_1_Cluster5	Mucous	0	Epithelial
+S	S_ST_P5_1_Cluster5	Proliferating NK/T	0.00430734020145764	Immune
+S	S_ST_P5_1_Cluster5	Natural Killer T	0.000605695919370216	Immune
+S	S_ST_P5_1_Cluster5	OLR1+ Classical Monocyte	0.000603120928990192	Immune
+S	S_ST_P5_1_Cluster5	Intermediate Monocyte	0	Immune
+S	S_ST_P5_1_Cluster5	Basophil/Mast 2	0.00247943830973046	Immune
+S	S_ST_P5_1_Cluster5	Signaling Alveolar Epithelial Type 2	0	Epithelial
+S	S_ST_P5_1_Cluster5	Proximal Basal	0	Epithelial
+S	S_ST_P5_1_Cluster5	Neuroendocrine	0.000153072918643176	Epithelial
+S	S_ST_P5_1_Cluster5	Fibromyocyte	0.0361013254941415	Stroma
+S	S_ST_P5_1_Cluster5	Ionocyte	8.45571680802094e-05	Epithelial
+S	S_ST_P5_1_Cluster5	Serous	0	Epithelial
+S	S_ST_P5_1_Cluster5	Proximal Ciliated	0	Epithelial
+S	S_ST_P5_1_Cluster5	Goblet	0	Epithelial
+S	S_ST_P5_1_Cluster5	Neutrophil	9.57633518083525e-05	Immune
+S	S_ST_P5_1_Cluster5	Dendritic	0	Immune
+MP	MP_ST_P7_Cluster5	CD4+ Memory/Effector T	0.0725108077416783	Immune
+MP	MP_ST_P7_Cluster5	CD4+ Naive T	0.0657936370095117	Immune
+MP	MP_ST_P7_Cluster5	CD8+ Memory/Effector T	0.0628999968166548	Immune
+MP	MP_ST_P7_Cluster5	CD8+ Naive T	0.0458041908147504	Immune
+MP	MP_ST_P7_Cluster5	Natural Killer	0.0167613729955532	Immune
+MP	MP_ST_P7_Cluster5	Classical Monocyte	0.0504992395057393	Immune
+MP	MP_ST_P7_Cluster5	Nonclassical Monocyte	0.0150312319980139	Immune
+MP	MP_ST_P7_Cluster5	Myeloid Dendritic Type 2	0.000848235621317233	Immune
+MP	MP_ST_P7_Cluster5	Platelet/Megakaryocyte	6.40239186589074e-05	Immune
+MP	MP_ST_P7_Cluster5	B	0.0268512521448295	Immune
+MP	MP_ST_P7_Cluster5	IGSF21+ Dendritic	0.00719756023315149	Immune
+MP	MP_ST_P7_Cluster5	EREG+ Dendritic	0.000451826888809185	Immune
+MP	MP_ST_P7_Cluster5	Plasmacytoid Dendritic	0	Immune
+MP	MP_ST_P7_Cluster5	Myeloid Dendritic Type 1	0.013175352884186	Immune
+MP	MP_ST_P7_Cluster5	TREM2+ Dendritic	0.00392503668348131	Immune
+MP	MP_ST_P7_Cluster5	Differentiating Basal	0.158584200900336	Epithelial
+MP	MP_ST_P7_Cluster5	Proliferating Basal	0.000131061442228212	Epithelial
+MP	MP_ST_P7_Cluster5	Basal	0.0609735529050144	Epithelial
+MP	MP_ST_P7_Cluster5	Plasma	0	Immune
+MP	MP_ST_P7_Cluster5	Macrophage	0.137446223019753	Immune
+MP	MP_ST_P7_Cluster5	Basophil/Mast 1	0.0171052488338783	Immune
+MP	MP_ST_P7_Cluster5	Proliferating Macrophage	0.000601996950883892	Immune
+MP	MP_ST_P7_Cluster5	Capillary Aerocyte	0.051262545988017	Endothelial
+MP	MP_ST_P7_Cluster5	Capillary	0.00890500537019568	Endothelial
+MP	MP_ST_P7_Cluster5	Bronchial Vessel 2	0.000145531606317138	Endothelial
+MP	MP_ST_P7_Cluster5	Vein	6.57004465661723e-05	Endothelial
+MP	MP_ST_P7_Cluster5	Artery	0	Endothelial
+MP	MP_ST_P7_Cluster5	Lymphatic	0.000498252626014453	Endothelial
+MP	MP_ST_P7_Cluster5	Bronchial Vessel 1	0.00111895336767587	Endothelial
+MP	MP_ST_P7_Cluster5	Airway Smooth Muscle	0.00122273883790146	Stroma
+MP	MP_ST_P7_Cluster5	Alveolar Epithelial Type 2	0.0110750518944371	Epithelial
+MP	MP_ST_P7_Cluster5	Club	0.0533923137856517	Epithelial
+MP	MP_ST_P7_Cluster5	Pericyte	0	Stroma
+MP	MP_ST_P7_Cluster5	Myofibroblast	0.000191926549231854	Stroma
+MP	MP_ST_P7_Cluster5	Alveolar Epithelial Type 1	0.0347085198835732	Epithelial
+MP	MP_ST_P7_Cluster5	Ciliated	0.00396105722922416	Epithelial
+MP	MP_ST_P7_Cluster5	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P7_Cluster5	Alveolar Fibroblast	0.000289355521999268	Stroma
+MP	MP_ST_P7_Cluster5	Lipofibroblast	0	Stroma
+MP	MP_ST_P7_Cluster5	Mesothelial	0	Stroma
+MP	MP_ST_P7_Cluster5	Capillary Intermediate 1	6.0742798475101e-07	Endothelial
+MP	MP_ST_P7_Cluster5	Capillary Intermediate 2	0.0192733245087427	Endothelial
+MP	MP_ST_P7_Cluster5	Vascular Smooth Muscle	0.00380292626720414	Stroma
+MP	MP_ST_P7_Cluster5	Mucous	0.00671145448544325	Epithelial
+MP	MP_ST_P7_Cluster5	Proliferating NK/T	0.000539922475627499	Immune
+MP	MP_ST_P7_Cluster5	Natural Killer T	0.000926369441514283	Immune
+MP	MP_ST_P7_Cluster5	OLR1+ Classical Monocyte	0.0128997759412846	Immune
+MP	MP_ST_P7_Cluster5	Intermediate Monocyte	0.0141694039688902	Immune
+MP	MP_ST_P7_Cluster5	Basophil/Mast 2	6.2471123532881e-05	Immune
+MP	MP_ST_P7_Cluster5	Signaling Alveolar Epithelial Type 2	0.0125197020007595	Epithelial
+MP	MP_ST_P7_Cluster5	Proximal Basal	0.000803059323179271	Epithelial
+MP	MP_ST_P7_Cluster5	Neuroendocrine	0	Epithelial
+MP	MP_ST_P7_Cluster5	Fibromyocyte	0	Stroma
+MP	MP_ST_P7_Cluster5	Ionocyte	0	Epithelial
+MP	MP_ST_P7_Cluster5	Serous	0	Epithelial
+MP	MP_ST_P7_Cluster5	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P7_Cluster5	Goblet	0.00189634710520707	Epithelial
+MP	MP_ST_P7_Cluster5	Neutrophil	0.00290163351539589	Immune
+MP	MP_ST_P7_Cluster5	Dendritic	0	Immune
+MP	MP_ST_P5_1_Cluster9	CD4+ Memory/Effector T	0.0441438319212805	Immune
+MP	MP_ST_P5_1_Cluster9	CD4+ Naive T	0.0132039424692696	Immune
+MP	MP_ST_P5_1_Cluster9	CD8+ Memory/Effector T	0.0639780251258184	Immune
+MP	MP_ST_P5_1_Cluster9	CD8+ Naive T	0.0471873836027919	Immune
+MP	MP_ST_P5_1_Cluster9	Natural Killer	0.0652716261487566	Immune
+MP	MP_ST_P5_1_Cluster9	Classical Monocyte	0.0112301171683668	Immune
+MP	MP_ST_P5_1_Cluster9	Nonclassical Monocyte	0.00702931181585162	Immune
+MP	MP_ST_P5_1_Cluster9	Myeloid Dendritic Type 2	0.00454827917950238	Immune
+MP	MP_ST_P5_1_Cluster9	Platelet/Megakaryocyte	0.00308152318037561	Immune
+MP	MP_ST_P5_1_Cluster9	B	0.0498460016483711	Immune
+MP	MP_ST_P5_1_Cluster9	IGSF21+ Dendritic	0.00040622158098334	Immune
+MP	MP_ST_P5_1_Cluster9	EREG+ Dendritic	0.000984314032289167	Immune
+MP	MP_ST_P5_1_Cluster9	Plasmacytoid Dendritic	0.0165964056749824	Immune
+MP	MP_ST_P5_1_Cluster9	Myeloid Dendritic Type 1	0.0193153871972396	Immune
+MP	MP_ST_P5_1_Cluster9	TREM2+ Dendritic	0	Immune
+MP	MP_ST_P5_1_Cluster9	Differentiating Basal	0.00147375337845287	Epithelial
+MP	MP_ST_P5_1_Cluster9	Proliferating Basal	0.00282573306708251	Epithelial
+MP	MP_ST_P5_1_Cluster9	Basal	0.0623577096400388	Epithelial
+MP	MP_ST_P5_1_Cluster9	Plasma	0.0253451320391627	Immune
+MP	MP_ST_P5_1_Cluster9	Macrophage	0.0399998976952468	Immune
+MP	MP_ST_P5_1_Cluster9	Basophil/Mast 1	0.0283688763212378	Immune
+MP	MP_ST_P5_1_Cluster9	Proliferating Macrophage	9.35454007031572e-05	Immune
+MP	MP_ST_P5_1_Cluster9	Capillary Aerocyte	0.0110629855615727	Endothelial
+MP	MP_ST_P5_1_Cluster9	Capillary	0.0416966070696331	Endothelial
+MP	MP_ST_P5_1_Cluster9	Bronchial Vessel 2	0.00064135932664155	Endothelial
+MP	MP_ST_P5_1_Cluster9	Vein	0.0899518568913418	Endothelial
+MP	MP_ST_P5_1_Cluster9	Artery	0.00544715639276279	Endothelial
+MP	MP_ST_P5_1_Cluster9	Lymphatic	0.0427810157452669	Endothelial
+MP	MP_ST_P5_1_Cluster9	Bronchial Vessel 1	0.0105483093781432	Endothelial
+MP	MP_ST_P5_1_Cluster9	Airway Smooth Muscle	0.0250913377025262	Stroma
+MP	MP_ST_P5_1_Cluster9	Alveolar Epithelial Type 2	0.010650849098462	Epithelial
+MP	MP_ST_P5_1_Cluster9	Club	0.0573626691515864	Epithelial
+MP	MP_ST_P5_1_Cluster9	Pericyte	0.000945924138969375	Stroma
+MP	MP_ST_P5_1_Cluster9	Myofibroblast	6.16455294098629e-06	Stroma
+MP	MP_ST_P5_1_Cluster9	Alveolar Epithelial Type 1	0.0334672962201421	Epithelial
+MP	MP_ST_P5_1_Cluster9	Ciliated	0.00204094684054016	Epithelial
+MP	MP_ST_P5_1_Cluster9	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P5_1_Cluster9	Alveolar Fibroblast	0.00589873418166966	Stroma
+MP	MP_ST_P5_1_Cluster9	Lipofibroblast	0	Stroma
+MP	MP_ST_P5_1_Cluster9	Mesothelial	0	Stroma
+MP	MP_ST_P5_1_Cluster9	Capillary Intermediate 1	0.0254879573959611	Endothelial
+MP	MP_ST_P5_1_Cluster9	Capillary Intermediate 2	0.00319276213263949	Endothelial
+MP	MP_ST_P5_1_Cluster9	Vascular Smooth Muscle	0.00628259819947247	Stroma
+MP	MP_ST_P5_1_Cluster9	Mucous	0.0391418020069936	Epithelial
+MP	MP_ST_P5_1_Cluster9	Proliferating NK/T	0.0150866890175089	Immune
+MP	MP_ST_P5_1_Cluster9	Natural Killer T	0.000614332991118263	Immune
+MP	MP_ST_P5_1_Cluster9	OLR1+ Classical Monocyte	0.000906183306149305	Immune
+MP	MP_ST_P5_1_Cluster9	Intermediate Monocyte	5.51174431167338e-05	Immune
+MP	MP_ST_P5_1_Cluster9	Basophil/Mast 2	0.000272579335938016	Immune
+MP	MP_ST_P5_1_Cluster9	Signaling Alveolar Epithelial Type 2	0	Epithelial
+MP	MP_ST_P5_1_Cluster9	Proximal Basal	0.00057981033686696	Epithelial
+MP	MP_ST_P5_1_Cluster9	Neuroendocrine	0.0169385789286867	Epithelial
+MP	MP_ST_P5_1_Cluster9	Fibromyocyte	2.37831611464382e-05	Stroma
+MP	MP_ST_P5_1_Cluster9	Ionocyte	0.00856845213767018	Epithelial
+MP	MP_ST_P5_1_Cluster9	Serous	0.00604733979463768	Epithelial
+MP	MP_ST_P5_1_Cluster9	Proximal Ciliated	0.000393755408481121	Epithelial
+MP	MP_ST_P5_1_Cluster9	Goblet	0.00330541234662509	Epithelial
+MP	MP_ST_P5_1_Cluster9	Neutrophil	0.0282226155169851	Immune
+MP	MP_ST_P5_1_Cluster9	Dendritic	0	Immune
+MP	MP_ST_P7_Cluster3	CD4+ Memory/Effector T	0.0211039949073131	Immune
+MP	MP_ST_P7_Cluster3	CD4+ Naive T	0.0136878414312408	Immune
+MP	MP_ST_P7_Cluster3	CD8+ Memory/Effector T	0.0125343467406666	Immune
+MP	MP_ST_P7_Cluster3	CD8+ Naive T	0.0541853581397923	Immune
+MP	MP_ST_P7_Cluster3	Natural Killer	0.0387068047587862	Immune
+MP	MP_ST_P7_Cluster3	Classical Monocyte	0.039864370167757	Immune
+MP	MP_ST_P7_Cluster3	Nonclassical Monocyte	0.00551249190924289	Immune
+MP	MP_ST_P7_Cluster3	Myeloid Dendritic Type 2	0.000874470095619569	Immune
+MP	MP_ST_P7_Cluster3	Platelet/Megakaryocyte	0.00253926819215135	Immune
+MP	MP_ST_P7_Cluster3	B	0.0159520685364609	Immune
+MP	MP_ST_P7_Cluster3	IGSF21+ Dendritic	0.0026793856174902	Immune
+MP	MP_ST_P7_Cluster3	EREG+ Dendritic	0.000225346040613578	Immune
+MP	MP_ST_P7_Cluster3	Plasmacytoid Dendritic	0.00131162998564088	Immune
+MP	MP_ST_P7_Cluster3	Myeloid Dendritic Type 1	0.00251664662394667	Immune
+MP	MP_ST_P7_Cluster3	TREM2+ Dendritic	0	Immune
+MP	MP_ST_P7_Cluster3	Differentiating Basal	0.155669797086665	Epithelial
+MP	MP_ST_P7_Cluster3	Proliferating Basal	0.0185176254686894	Epithelial
+MP	MP_ST_P7_Cluster3	Basal	0.130945467246131	Epithelial
+MP	MP_ST_P7_Cluster3	Plasma	0.000417978160724016	Immune
+MP	MP_ST_P7_Cluster3	Macrophage	0.0395785265966628	Immune
+MP	MP_ST_P7_Cluster3	Basophil/Mast 1	0.0095905794007601	Immune
+MP	MP_ST_P7_Cluster3	Proliferating Macrophage	0.00543199069117882	Immune
+MP	MP_ST_P7_Cluster3	Capillary Aerocyte	0.0623598349889624	Endothelial
+MP	MP_ST_P7_Cluster3	Capillary	0.0233833661387683	Endothelial
+MP	MP_ST_P7_Cluster3	Bronchial Vessel 2	0.0024655267937299	Endothelial
+MP	MP_ST_P7_Cluster3	Vein	0.00308891088054792	Endothelial
+MP	MP_ST_P7_Cluster3	Artery	0	Endothelial
+MP	MP_ST_P7_Cluster3	Lymphatic	0.00121170097210181	Endothelial
+MP	MP_ST_P7_Cluster3	Bronchial Vessel 1	0.00636127813750783	Endothelial
+MP	MP_ST_P7_Cluster3	Airway Smooth Muscle	0.000430272579476971	Stroma
+MP	MP_ST_P7_Cluster3	Alveolar Epithelial Type 2	0.020814351354486	Epithelial
+MP	MP_ST_P7_Cluster3	Club	0.0814655851123749	Epithelial
+MP	MP_ST_P7_Cluster3	Pericyte	0.000357879537964671	Stroma
+MP	MP_ST_P7_Cluster3	Myofibroblast	0	Stroma
+MP	MP_ST_P7_Cluster3	Alveolar Epithelial Type 1	0.0758021525568205	Epithelial
+MP	MP_ST_P7_Cluster3	Ciliated	0.00395410831443405	Epithelial
+MP	MP_ST_P7_Cluster3	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P7_Cluster3	Alveolar Fibroblast	0.00092004523910489	Stroma
+MP	MP_ST_P7_Cluster3	Lipofibroblast	0	Stroma
+MP	MP_ST_P7_Cluster3	Mesothelial	8.88347641558606e-05	Stroma
+MP	MP_ST_P7_Cluster3	Capillary Intermediate 1	3.86371617461592e-06	Endothelial
+MP	MP_ST_P7_Cluster3	Capillary Intermediate 2	0.0123413445092906	Endothelial
+MP	MP_ST_P7_Cluster3	Vascular Smooth Muscle	0.00038058735488788	Stroma
+MP	MP_ST_P7_Cluster3	Mucous	0.0630700957054194	Epithelial
+MP	MP_ST_P7_Cluster3	Proliferating NK/T	0.00401056645333337	Immune
+MP	MP_ST_P7_Cluster3	Natural Killer T	0.00193544483000842	Immune
+MP	MP_ST_P7_Cluster3	OLR1+ Classical Monocyte	0.00296584268744488	Immune
+MP	MP_ST_P7_Cluster3	Intermediate Monocyte	0.00106513640876528	Immune
+MP	MP_ST_P7_Cluster3	Basophil/Mast 2	0.00403668396727455	Immune
+MP	MP_ST_P7_Cluster3	Signaling Alveolar Epithelial Type 2	0.00991070049752891	Epithelial
+MP	MP_ST_P7_Cluster3	Proximal Basal	0.0028337581109044	Epithelial
+MP	MP_ST_P7_Cluster3	Neuroendocrine	8.68758749521741e-05	Epithelial
+MP	MP_ST_P7_Cluster3	Fibromyocyte	0	Stroma
+MP	MP_ST_P7_Cluster3	Ionocyte	0.000161770821757505	Epithelial
+MP	MP_ST_P7_Cluster3	Serous	0	Epithelial
+MP	MP_ST_P7_Cluster3	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P7_Cluster3	Goblet	0.0371549317237261	Epithelial
+MP	MP_ST_P7_Cluster3	Neutrophil	0.00549256217056311	Immune
+MP	MP_ST_P7_Cluster3	Dendritic	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	CD4+ Memory/Effector T	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	CD4+ Naive T	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	CD8+ Memory/Effector T	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	CD8+ Naive T	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Natural Killer	0.000334437182729575	Immune
+Lep	Lep_ST_P8_1_Cluster8	Classical Monocyte	1.11832106732326e-05	Immune
+Lep	Lep_ST_P8_1_Cluster8	Nonclassical Monocyte	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Myeloid Dendritic Type 2	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Platelet/Megakaryocyte	0.0224893298437052	Immune
+Lep	Lep_ST_P8_1_Cluster8	B	0.000385617354325648	Immune
+Lep	Lep_ST_P8_1_Cluster8	IGSF21+ Dendritic	0.00138879053135711	Immune
+Lep	Lep_ST_P8_1_Cluster8	EREG+ Dendritic	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Plasmacytoid Dendritic	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Myeloid Dendritic Type 1	3.48625630853276e-06	Immune
+Lep	Lep_ST_P8_1_Cluster8	TREM2+ Dendritic	0.00104347360095631	Immune
+Lep	Lep_ST_P8_1_Cluster8	Differentiating Basal	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Proliferating Basal	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Basal	0.0212426463634809	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Plasma	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Macrophage	0.0153573849742743	Immune
+Lep	Lep_ST_P8_1_Cluster8	Basophil/Mast 1	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Proliferating Macrophage	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Capillary Aerocyte	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Capillary	0.00152959009762359	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Bronchial Vessel 2	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Vein	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Artery	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Lymphatic	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Bronchial Vessel 1	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Airway Smooth Muscle	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Alveolar Epithelial Type 2	0.000257804852631727	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Club	0.01375943052822	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Pericyte	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Myofibroblast	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Alveolar Epithelial Type 1	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Ciliated	0.709059745022232	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Adventitial Fibroblast	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Alveolar Fibroblast	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Lipofibroblast	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Mesothelial	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Capillary Intermediate 1	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Capillary Intermediate 2	0	Endothelial
+Lep	Lep_ST_P8_1_Cluster8	Vascular Smooth Muscle	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Mucous	0.172632159461598	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Proliferating NK/T	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Natural Killer T	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	OLR1+ Classical Monocyte	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Intermediate Monocyte	8.94760618384586e-06	Immune
+Lep	Lep_ST_P8_1_Cluster8	Basophil/Mast 2	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Signaling Alveolar Epithelial Type 2	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Proximal Basal	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Neuroendocrine	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Fibromyocyte	0	Stroma
+Lep	Lep_ST_P8_1_Cluster8	Ionocyte	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Serous	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Proximal Ciliated	0.0153793251505613	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Goblet	0.0251166479631389	Epithelial
+Lep	Lep_ST_P8_1_Cluster8	Neutrophil	0	Immune
+Lep	Lep_ST_P8_1_Cluster8	Dendritic	0	Immune
+MP	MP_ST_P1_Cluster4	CD4+ Memory/Effector T	0.0776625998149684	Immune
+MP	MP_ST_P1_Cluster4	CD4+ Naive T	0.0162261221849365	Immune
+MP	MP_ST_P1_Cluster4	CD8+ Memory/Effector T	0.0479545053397078	Immune
+MP	MP_ST_P1_Cluster4	CD8+ Naive T	0.0581126279019661	Immune
+MP	MP_ST_P1_Cluster4	Natural Killer	0.0230367029515889	Immune
+MP	MP_ST_P1_Cluster4	Classical Monocyte	0.0755678409600953	Immune
+MP	MP_ST_P1_Cluster4	Nonclassical Monocyte	0.00181654222653881	Immune
+MP	MP_ST_P1_Cluster4	Myeloid Dendritic Type 2	0.00228508657595101	Immune
+MP	MP_ST_P1_Cluster4	Platelet/Megakaryocyte	0	Immune
+MP	MP_ST_P1_Cluster4	B	0.0215544422971405	Immune
+MP	MP_ST_P1_Cluster4	IGSF21+ Dendritic	0.00727555137039421	Immune
+MP	MP_ST_P1_Cluster4	EREG+ Dendritic	0.00309269033723971	Immune
+MP	MP_ST_P1_Cluster4	Plasmacytoid Dendritic	0.00823021851690257	Immune
+MP	MP_ST_P1_Cluster4	Myeloid Dendritic Type 1	0.00733690932664908	Immune
+MP	MP_ST_P1_Cluster4	TREM2+ Dendritic	0.00128523659111438	Immune
+MP	MP_ST_P1_Cluster4	Differentiating Basal	0.0213662422606282	Epithelial
+MP	MP_ST_P1_Cluster4	Proliferating Basal	0	Epithelial
+MP	MP_ST_P1_Cluster4	Basal	0.0319492409080037	Epithelial
+MP	MP_ST_P1_Cluster4	Plasma	0.0134174694804338	Immune
+MP	MP_ST_P1_Cluster4	Macrophage	0.0423573977215595	Immune
+MP	MP_ST_P1_Cluster4	Basophil/Mast 1	0.0116096265715119	Immune
+MP	MP_ST_P1_Cluster4	Proliferating Macrophage	0.000942716041991902	Immune
+MP	MP_ST_P1_Cluster4	Capillary Aerocyte	0.0574568412804042	Endothelial
+MP	MP_ST_P1_Cluster4	Capillary	0.165883852543475	Endothelial
+MP	MP_ST_P1_Cluster4	Bronchial Vessel 2	0.00124651296414097	Endothelial
+MP	MP_ST_P1_Cluster4	Vein	0.00948755723536963	Endothelial
+MP	MP_ST_P1_Cluster4	Artery	0.0156790749624983	Endothelial
+MP	MP_ST_P1_Cluster4	Lymphatic	0.0235562438237683	Endothelial
+MP	MP_ST_P1_Cluster4	Bronchial Vessel 1	0.0353603107769996	Endothelial
+MP	MP_ST_P1_Cluster4	Airway Smooth Muscle	0.00157235875366856	Stroma
+MP	MP_ST_P1_Cluster4	Alveolar Epithelial Type 2	0.0233596974680183	Epithelial
+MP	MP_ST_P1_Cluster4	Club	0.0138307712057162	Epithelial
+MP	MP_ST_P1_Cluster4	Pericyte	0.0276052312130778	Stroma
+MP	MP_ST_P1_Cluster4	Myofibroblast	8.48327060719486e-06	Stroma
+MP	MP_ST_P1_Cluster4	Alveolar Epithelial Type 1	0.0241264917637847	Epithelial
+MP	MP_ST_P1_Cluster4	Ciliated	0.000282613974599727	Epithelial
+MP	MP_ST_P1_Cluster4	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P1_Cluster4	Alveolar Fibroblast	0.000640643676005057	Stroma
+MP	MP_ST_P1_Cluster4	Lipofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster4	Mesothelial	0	Stroma
+MP	MP_ST_P1_Cluster4	Capillary Intermediate 1	0.000428839032572489	Endothelial
+MP	MP_ST_P1_Cluster4	Capillary Intermediate 2	0.0503713755638961	Endothelial
+MP	MP_ST_P1_Cluster4	Vascular Smooth Muscle	0.0039587284497085	Stroma
+MP	MP_ST_P1_Cluster4	Mucous	0.00957407558946478	Epithelial
+MP	MP_ST_P1_Cluster4	Proliferating NK/T	0.00372484358617211	Immune
+MP	MP_ST_P1_Cluster4	Natural Killer T	0.0264625245457723	Immune
+MP	MP_ST_P1_Cluster4	OLR1+ Classical Monocyte	0.00492623426205852	Immune
+MP	MP_ST_P1_Cluster4	Intermediate Monocyte	0.00245670256365145	Immune
+MP	MP_ST_P1_Cluster4	Basophil/Mast 2	0.00357889836049963	Immune
+MP	MP_ST_P1_Cluster4	Signaling Alveolar Epithelial Type 2	0.00553014461635781	Epithelial
+MP	MP_ST_P1_Cluster4	Proximal Basal	0	Epithelial
+MP	MP_ST_P1_Cluster4	Neuroendocrine	0	Epithelial
+MP	MP_ST_P1_Cluster4	Fibromyocyte	0	Stroma
+MP	MP_ST_P1_Cluster4	Ionocyte	0.0055364790216281	Epithelial
+MP	MP_ST_P1_Cluster4	Serous	0	Epithelial
+MP	MP_ST_P1_Cluster4	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster4	Goblet	0.00999371346676534	Epithelial
+MP	MP_ST_P1_Cluster4	Neutrophil	0.000280986649996594	Immune
+MP	MP_ST_P1_Cluster4	Dendritic	0	Immune
+S	S_ST_P5_1_Cluster7	CD4+ Memory/Effector T	0.00555228443404584	Immune
+S	S_ST_P5_1_Cluster7	CD4+ Naive T	0.00301507832930719	Immune
+S	S_ST_P5_1_Cluster7	CD8+ Memory/Effector T	0.000363967106388399	Immune
+S	S_ST_P5_1_Cluster7	CD8+ Naive T	0.000182379743045152	Immune
+S	S_ST_P5_1_Cluster7	Natural Killer	0.00254760724130834	Immune
+S	S_ST_P5_1_Cluster7	Classical Monocyte	4.82468826187431e-05	Immune
+S	S_ST_P5_1_Cluster7	Nonclassical Monocyte	5.879719118006e-05	Immune
+S	S_ST_P5_1_Cluster7	Myeloid Dendritic Type 2	0	Immune
+S	S_ST_P5_1_Cluster7	Platelet/Megakaryocyte	0.000553866111779665	Immune
+S	S_ST_P5_1_Cluster7	B	0	Immune
+S	S_ST_P5_1_Cluster7	IGSF21+ Dendritic	0.00404692644476634	Immune
+S	S_ST_P5_1_Cluster7	EREG+ Dendritic	0.00438598714951478	Immune
+S	S_ST_P5_1_Cluster7	Plasmacytoid Dendritic	0	Immune
+S	S_ST_P5_1_Cluster7	Myeloid Dendritic Type 1	0	Immune
+S	S_ST_P5_1_Cluster7	TREM2+ Dendritic	0	Immune
+S	S_ST_P5_1_Cluster7	Differentiating Basal	0.0167273789411435	Epithelial
+S	S_ST_P5_1_Cluster7	Proliferating Basal	0.085272758572994	Epithelial
+S	S_ST_P5_1_Cluster7	Basal	0.140693668483926	Epithelial
+S	S_ST_P5_1_Cluster7	Plasma	0	Immune
+S	S_ST_P5_1_Cluster7	Macrophage	0.0191067784917657	Immune
+S	S_ST_P5_1_Cluster7	Basophil/Mast 1	0.0108618378699782	Immune
+S	S_ST_P5_1_Cluster7	Proliferating Macrophage	0	Immune
+S	S_ST_P5_1_Cluster7	Capillary Aerocyte	0.0179574611961826	Endothelial
+S	S_ST_P5_1_Cluster7	Capillary	0.0162250596135594	Endothelial
+S	S_ST_P5_1_Cluster7	Bronchial Vessel 2	0.00793159037666824	Endothelial
+S	S_ST_P5_1_Cluster7	Vein	6.64561236762539e-05	Endothelial
+S	S_ST_P5_1_Cluster7	Artery	0.000941540632971876	Endothelial
+S	S_ST_P5_1_Cluster7	Lymphatic	2.87566347092718e-05	Endothelial
+S	S_ST_P5_1_Cluster7	Bronchial Vessel 1	0.00335170082048398	Endothelial
+S	S_ST_P5_1_Cluster7	Airway Smooth Muscle	0.0104670895348172	Stroma
+S	S_ST_P5_1_Cluster7	Alveolar Epithelial Type 2	0.563657579456075	Epithelial
+S	S_ST_P5_1_Cluster7	Club	0.0103326203646158	Epithelial
+S	S_ST_P5_1_Cluster7	Pericyte	0.00225327696067343	Stroma
+S	S_ST_P5_1_Cluster7	Myofibroblast	0.0181470883492148	Stroma
+S	S_ST_P5_1_Cluster7	Alveolar Epithelial Type 1	0.00322292336841857	Epithelial
+S	S_ST_P5_1_Cluster7	Ciliated	0.00142112477587032	Epithelial
+S	S_ST_P5_1_Cluster7	Adventitial Fibroblast	0.00346844349982274	Stroma
+S	S_ST_P5_1_Cluster7	Alveolar Fibroblast	0.0056763829614552	Stroma
+S	S_ST_P5_1_Cluster7	Lipofibroblast	0	Stroma
+S	S_ST_P5_1_Cluster7	Mesothelial	0.00205283035645358	Stroma
+S	S_ST_P5_1_Cluster7	Capillary Intermediate 1	0.0025840103107194	Endothelial
+S	S_ST_P5_1_Cluster7	Capillary Intermediate 2	0.00157046140716348	Endothelial
+S	S_ST_P5_1_Cluster7	Vascular Smooth Muscle	0.00989845360662332	Stroma
+S	S_ST_P5_1_Cluster7	Mucous	0.000150845578854806	Epithelial
+S	S_ST_P5_1_Cluster7	Proliferating NK/T	0.00141088237156875	Immune
+S	S_ST_P5_1_Cluster7	Natural Killer T	0	Immune
+S	S_ST_P5_1_Cluster7	OLR1+ Classical Monocyte	0.00791901540312541	Immune
+S	S_ST_P5_1_Cluster7	Intermediate Monocyte	1.88845015904734e-05	Immune
+S	S_ST_P5_1_Cluster7	Basophil/Mast 2	0.00121843213463619	Immune
+S	S_ST_P5_1_Cluster7	Signaling Alveolar Epithelial Type 2	0.0125498295604284	Epithelial
+S	S_ST_P5_1_Cluster7	Proximal Basal	0.000854924877925311	Epithelial
+S	S_ST_P5_1_Cluster7	Neuroendocrine	0	Epithelial
+S	S_ST_P5_1_Cluster7	Fibromyocyte	0.000436150345704966	Stroma
+S	S_ST_P5_1_Cluster7	Ionocyte	0	Epithelial
+S	S_ST_P5_1_Cluster7	Serous	0.000160253726669883	Epithelial
+S	S_ST_P5_1_Cluster7	Proximal Ciliated	0.000117352382215958	Epithelial
+S	S_ST_P5_1_Cluster7	Goblet	0.000491015773343381	Epithelial
+S	S_ST_P5_1_Cluster7	Neutrophil	0	Immune
+S	S_ST_P5_1_Cluster7	Dendritic	0	Immune
+MP	MP_ST_P8_1_Cluster4	CD4+ Memory/Effector T	0.078610060484229	Immune
+MP	MP_ST_P8_1_Cluster4	CD4+ Naive T	0.0160925216743637	Immune
+MP	MP_ST_P8_1_Cluster4	CD8+ Memory/Effector T	0.0210840684449073	Immune
+MP	MP_ST_P8_1_Cluster4	CD8+ Naive T	0.0436804426366512	Immune
+MP	MP_ST_P8_1_Cluster4	Natural Killer	0.0165847746876175	Immune
+MP	MP_ST_P8_1_Cluster4	Classical Monocyte	0.0207829021465763	Immune
+MP	MP_ST_P8_1_Cluster4	Nonclassical Monocyte	0.00136712129301184	Immune
+MP	MP_ST_P8_1_Cluster4	Myeloid Dendritic Type 2	0.00150935217204074	Immune
+MP	MP_ST_P8_1_Cluster4	Platelet/Megakaryocyte	0.00160602126462322	Immune
+MP	MP_ST_P8_1_Cluster4	B	0.0380014053100391	Immune
+MP	MP_ST_P8_1_Cluster4	IGSF21+ Dendritic	0.0134281848687664	Immune
+MP	MP_ST_P8_1_Cluster4	EREG+ Dendritic	0.00289812427781833	Immune
+MP	MP_ST_P8_1_Cluster4	Plasmacytoid Dendritic	0.00806298365890177	Immune
+MP	MP_ST_P8_1_Cluster4	Myeloid Dendritic Type 1	0.00344909008238169	Immune
+MP	MP_ST_P8_1_Cluster4	TREM2+ Dendritic	0.0428905186389145	Immune
+MP	MP_ST_P8_1_Cluster4	Differentiating Basal	0.00448212334747484	Epithelial
+MP	MP_ST_P8_1_Cluster4	Proliferating Basal	0.00333086122610113	Epithelial
+MP	MP_ST_P8_1_Cluster4	Basal	0.00633730399594624	Epithelial
+MP	MP_ST_P8_1_Cluster4	Plasma	0.000425288307616798	Immune
+MP	MP_ST_P8_1_Cluster4	Macrophage	0.135302702805531	Immune
+MP	MP_ST_P8_1_Cluster4	Basophil/Mast 1	0.0520410364747129	Immune
+MP	MP_ST_P8_1_Cluster4	Proliferating Macrophage	0.000262608235330047	Immune
+MP	MP_ST_P8_1_Cluster4	Capillary Aerocyte	0.0128763764187124	Endothelial
+MP	MP_ST_P8_1_Cluster4	Capillary	0.0159071926831647	Endothelial
+MP	MP_ST_P8_1_Cluster4	Bronchial Vessel 2	0.00114992619868056	Endothelial
+MP	MP_ST_P8_1_Cluster4	Vein	0.00654672065433393	Endothelial
+MP	MP_ST_P8_1_Cluster4	Artery	0.00529653159305776	Endothelial
+MP	MP_ST_P8_1_Cluster4	Lymphatic	0.0204426710824766	Endothelial
+MP	MP_ST_P8_1_Cluster4	Bronchial Vessel 1	0.00456661386834228	Endothelial
+MP	MP_ST_P8_1_Cluster4	Airway Smooth Muscle	0.0293545869639849	Stroma
+MP	MP_ST_P8_1_Cluster4	Alveolar Epithelial Type 2	0.00468434805223657	Epithelial
+MP	MP_ST_P8_1_Cluster4	Club	0.11743547835049	Epithelial
+MP	MP_ST_P8_1_Cluster4	Pericyte	0.0105949251574495	Stroma
+MP	MP_ST_P8_1_Cluster4	Myofibroblast	0.0737249032433646	Stroma
+MP	MP_ST_P8_1_Cluster4	Alveolar Epithelial Type 1	0.00385197574339476	Epithelial
+MP	MP_ST_P8_1_Cluster4	Ciliated	0.00162065756957659	Epithelial
+MP	MP_ST_P8_1_Cluster4	Adventitial Fibroblast	0.0484728899556464	Stroma
+MP	MP_ST_P8_1_Cluster4	Alveolar Fibroblast	0.0206749546351556	Stroma
+MP	MP_ST_P8_1_Cluster4	Lipofibroblast	0.00480910292451819	Stroma
+MP	MP_ST_P8_1_Cluster4	Mesothelial	0	Stroma
+MP	MP_ST_P8_1_Cluster4	Capillary Intermediate 1	0.000111925782466422	Endothelial
+MP	MP_ST_P8_1_Cluster4	Capillary Intermediate 2	0.00241913086649612	Endothelial
+MP	MP_ST_P8_1_Cluster4	Vascular Smooth Muscle	0.0288973872300082	Stroma
+MP	MP_ST_P8_1_Cluster4	Mucous	0.00903592055248086	Epithelial
+MP	MP_ST_P8_1_Cluster4	Proliferating NK/T	0.0238999307683094	Immune
+MP	MP_ST_P8_1_Cluster4	Natural Killer T	0.00620443060768183	Immune
+MP	MP_ST_P8_1_Cluster4	OLR1+ Classical Monocyte	0.00444301991062199	Immune
+MP	MP_ST_P8_1_Cluster4	Intermediate Monocyte	0.000120007829216045	Immune
+MP	MP_ST_P8_1_Cluster4	Basophil/Mast 2	0.0190545717587832	Immune
+MP	MP_ST_P8_1_Cluster4	Signaling Alveolar Epithelial Type 2	0.000108654794816774	Epithelial
+MP	MP_ST_P8_1_Cluster4	Proximal Basal	0.0013259102838447	Epithelial
+MP	MP_ST_P8_1_Cluster4	Neuroendocrine	1.50399591366548e-05	Epithelial
+MP	MP_ST_P8_1_Cluster4	Fibromyocyte	0.00809497066989272	Stroma
+MP	MP_ST_P8_1_Cluster4	Ionocyte	3.35710778700723e-05	Epithelial
+MP	MP_ST_P8_1_Cluster4	Serous	0	Epithelial
+MP	MP_ST_P8_1_Cluster4	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P8_1_Cluster4	Goblet	0.00181186226782437	Epithelial
+MP	MP_ST_P8_1_Cluster4	Neutrophil	0.00011926567218035	Immune
+MP	MP_ST_P8_1_Cluster4	Dendritic	6.50488402292857e-05	Immune
+MA	MA_49_3_Cluster0	CD4+ Memory/Effector T	0.0299319730963035	Immune
+MA	MA_49_3_Cluster0	CD4+ Naive T	0.0129167161703305	Immune
+MA	MA_49_3_Cluster0	CD8+ Memory/Effector T	0.0225047254593828	Immune
+MA	MA_49_3_Cluster0	CD8+ Naive T	0.0281871689723325	Immune
+MA	MA_49_3_Cluster0	Natural Killer	0.0470398819123036	Immune
+MA	MA_49_3_Cluster0	Classical Monocyte	0.0161710974402388	Immune
+MA	MA_49_3_Cluster0	Nonclassical Monocyte	0.00953437433306007	Immune
+MA	MA_49_3_Cluster0	Myeloid Dendritic Type 2	0.00805660633887489	Immune
+MA	MA_49_3_Cluster0	Platelet/Megakaryocyte	0.00176237582567774	Immune
+MA	MA_49_3_Cluster0	B	0.0145200443658601	Immune
+MA	MA_49_3_Cluster0	IGSF21+ Dendritic	0.000388210894867629	Immune
+MA	MA_49_3_Cluster0	EREG+ Dendritic	0.000315729780921299	Immune
+MA	MA_49_3_Cluster0	Plasmacytoid Dendritic	0.000500745705839551	Immune
+MA	MA_49_3_Cluster0	Myeloid Dendritic Type 1	0.000473450683834327	Immune
+MA	MA_49_3_Cluster0	TREM2+ Dendritic	0.00218187636709397	Immune
+MA	MA_49_3_Cluster0	Differentiating Basal	0.0280927379956939	Epithelial
+MA	MA_49_3_Cluster0	Proliferating Basal	0.00675331947685695	Epithelial
+MA	MA_49_3_Cluster0	Basal	0.0809870504742617	Epithelial
+MA	MA_49_3_Cluster0	Plasma	0.0129877386420796	Immune
+MA	MA_49_3_Cluster0	Macrophage	0.0823591857103309	Immune
+MA	MA_49_3_Cluster0	Basophil/Mast 1	0.0123817228477028	Immune
+MA	MA_49_3_Cluster0	Proliferating Macrophage	0.0034042785489147	Immune
+MA	MA_49_3_Cluster0	Capillary Aerocyte	0.0625764355105949	Endothelial
+MA	MA_49_3_Cluster0	Capillary	0.00733483832412749	Endothelial
+MA	MA_49_3_Cluster0	Bronchial Vessel 2	0.00140992267131561	Endothelial
+MA	MA_49_3_Cluster0	Vein	0.0053805226571814	Endothelial
+MA	MA_49_3_Cluster0	Artery	0.0247282081430633	Endothelial
+MA	MA_49_3_Cluster0	Lymphatic	0.0162547465790775	Endothelial
+MA	MA_49_3_Cluster0	Bronchial Vessel 1	0.0129976101215491	Endothelial
+MA	MA_49_3_Cluster0	Airway Smooth Muscle	0.0553611730134228	Stroma
+MA	MA_49_3_Cluster0	Alveolar Epithelial Type 2	0.0255509638561728	Epithelial
+MA	MA_49_3_Cluster0	Club	0.0289476942081171	Epithelial
+MA	MA_49_3_Cluster0	Pericyte	0.0500907902305008	Stroma
+MA	MA_49_3_Cluster0	Myofibroblast	8.43152820807197e-05	Stroma
+MA	MA_49_3_Cluster0	Alveolar Epithelial Type 1	0.0231039757386773	Epithelial
+MA	MA_49_3_Cluster0	Ciliated	0.0557408779178876	Epithelial
+MA	MA_49_3_Cluster0	Adventitial Fibroblast	4.4529113018946e-05	Stroma
+MA	MA_49_3_Cluster0	Alveolar Fibroblast	0.0162831749202714	Stroma
+MA	MA_49_3_Cluster0	Lipofibroblast	2.22739541860802e-05	Stroma
+MA	MA_49_3_Cluster0	Mesothelial	4.40618280197362e-05	Stroma
+MA	MA_49_3_Cluster0	Capillary Intermediate 1	0.00142255867775947	Endothelial
+MA	MA_49_3_Cluster0	Capillary Intermediate 2	0.0235340349384954	Endothelial
+MA	MA_49_3_Cluster0	Vascular Smooth Muscle	0.0162007488866355	Stroma
+MA	MA_49_3_Cluster0	Mucous	0.0277552650690352	Epithelial
+MA	MA_49_3_Cluster0	Proliferating NK/T	0.0123378923527959	Immune
+MA	MA_49_3_Cluster0	Natural Killer T	0.00145624194878643	Immune
+MA	MA_49_3_Cluster0	OLR1+ Classical Monocyte	0.00232561765011656	Immune
+MA	MA_49_3_Cluster0	Intermediate Monocyte	0.00186581726667638	Immune
+MA	MA_49_3_Cluster0	Basophil/Mast 2	0.000809479512821381	Immune
+MA	MA_49_3_Cluster0	Signaling Alveolar Epithelial Type 2	0.000327628615012599	Epithelial
+MA	MA_49_3_Cluster0	Proximal Basal	0.000856899964405389	Epithelial
+MA	MA_49_3_Cluster0	Neuroendocrine	0.00842369378770095	Epithelial
+MA	MA_49_3_Cluster0	Fibromyocyte	0.00314195881297083	Stroma
+MA	MA_49_3_Cluster0	Ionocyte	0.0160202621938364	Epithelial
+MA	MA_49_3_Cluster0	Serous	0.00871665781095617	Epithelial
+MA	MA_49_3_Cluster0	Proximal Ciliated	0.00394409267188145	Epithelial
+MA	MA_49_3_Cluster0	Goblet	0.0609879255082899	Epithelial
+MA	MA_49_3_Cluster0	Neutrophil	0.00246609921979771	Immune
+MA	MA_49_3_Cluster0	Dendritic	0	Immune
+S	S_ST_P5_1_Cluster3	CD4+ Memory/Effector T	0.233000061523025	Immune
+S	S_ST_P5_1_Cluster3	CD4+ Naive T	0.0866634814644607	Immune
+S	S_ST_P5_1_Cluster3	CD8+ Memory/Effector T	0.0551832651484054	Immune
+S	S_ST_P5_1_Cluster3	CD8+ Naive T	0.025319693198569	Immune
+S	S_ST_P5_1_Cluster3	Natural Killer	0.0429253650896833	Immune
+S	S_ST_P5_1_Cluster3	Classical Monocyte	0.0399375377930683	Immune
+S	S_ST_P5_1_Cluster3	Nonclassical Monocyte	0.0100927815893867	Immune
+S	S_ST_P5_1_Cluster3	Myeloid Dendritic Type 2	0.000275010740137536	Immune
+S	S_ST_P5_1_Cluster3	Platelet/Megakaryocyte	0.00308830565278728	Immune
+S	S_ST_P5_1_Cluster3	B	0.0479233238610645	Immune
+S	S_ST_P5_1_Cluster3	IGSF21+ Dendritic	0.000921619107209628	Immune
+S	S_ST_P5_1_Cluster3	EREG+ Dendritic	0.00205571910460512	Immune
+S	S_ST_P5_1_Cluster3	Plasmacytoid Dendritic	0.000467354460277764	Immune
+S	S_ST_P5_1_Cluster3	Myeloid Dendritic Type 1	0.0133809839449259	Immune
+S	S_ST_P5_1_Cluster3	TREM2+ Dendritic	0.000236931169304973	Immune
+S	S_ST_P5_1_Cluster3	Differentiating Basal	0.0088348082691395	Epithelial
+S	S_ST_P5_1_Cluster3	Proliferating Basal	0	Epithelial
+S	S_ST_P5_1_Cluster3	Basal	0.00990623675749234	Epithelial
+S	S_ST_P5_1_Cluster3	Plasma	0.00962641362438153	Immune
+S	S_ST_P5_1_Cluster3	Macrophage	0.126703537808809	Immune
+S	S_ST_P5_1_Cluster3	Basophil/Mast 1	0.0251302812335322	Immune
+S	S_ST_P5_1_Cluster3	Proliferating Macrophage	0	Immune
+S	S_ST_P5_1_Cluster3	Capillary Aerocyte	0.0286618851437226	Endothelial
+S	S_ST_P5_1_Cluster3	Capillary	0.055151995348893	Endothelial
+S	S_ST_P5_1_Cluster3	Bronchial Vessel 2	0.00675803370164763	Endothelial
+S	S_ST_P5_1_Cluster3	Vein	0.00036037027948848	Endothelial
+S	S_ST_P5_1_Cluster3	Artery	0.012255702449284	Endothelial
+S	S_ST_P5_1_Cluster3	Lymphatic	0.00969228384744901	Endothelial
+S	S_ST_P5_1_Cluster3	Bronchial Vessel 1	0.0232693885905892	Endothelial
+S	S_ST_P5_1_Cluster3	Airway Smooth Muscle	0.00884163696488061	Stroma
+S	S_ST_P5_1_Cluster3	Alveolar Epithelial Type 2	0.000229969896621194	Epithelial
+S	S_ST_P5_1_Cluster3	Club	0.0185954555021818	Epithelial
+S	S_ST_P5_1_Cluster3	Pericyte	0.00998592725888699	Stroma
+S	S_ST_P5_1_Cluster3	Myofibroblast	0.0048166955686894	Stroma
+S	S_ST_P5_1_Cluster3	Alveolar Epithelial Type 1	0.00356030531186259	Epithelial
+S	S_ST_P5_1_Cluster3	Ciliated	0.00214534218682886	Epithelial
+S	S_ST_P5_1_Cluster3	Adventitial Fibroblast	0.00195818004975504	Stroma
+S	S_ST_P5_1_Cluster3	Alveolar Fibroblast	0.0127428066003104	Stroma
+S	S_ST_P5_1_Cluster3	Lipofibroblast	1.3093843606766e-05	Stroma
+S	S_ST_P5_1_Cluster3	Mesothelial	0.00354290659959901	Stroma
+S	S_ST_P5_1_Cluster3	Capillary Intermediate 1	0.00169661392275953	Endothelial
+S	S_ST_P5_1_Cluster3	Capillary Intermediate 2	0.0272981922821622	Endothelial
+S	S_ST_P5_1_Cluster3	Vascular Smooth Muscle	0.0155117412816635	Stroma
+S	S_ST_P5_1_Cluster3	Mucous	0	Epithelial
+S	S_ST_P5_1_Cluster3	Proliferating NK/T	0.00472384350330014	Immune
+S	S_ST_P5_1_Cluster3	Natural Killer T	7.19686373962694e-05	Immune
+S	S_ST_P5_1_Cluster3	OLR1+ Classical Monocyte	0.00114657899378058	Immune
+S	S_ST_P5_1_Cluster3	Intermediate Monocyte	3.34547235488338e-06	Immune
+S	S_ST_P5_1_Cluster3	Basophil/Mast 2	0.00189499026866316	Immune
+S	S_ST_P5_1_Cluster3	Signaling Alveolar Epithelial Type 2	7.42204430538271e-05	Epithelial
+S	S_ST_P5_1_Cluster3	Proximal Basal	0	Epithelial
+S	S_ST_P5_1_Cluster3	Neuroendocrine	3.67889765967676e-05	Epithelial
+S	S_ST_P5_1_Cluster3	Fibromyocyte	0.00324027374992189	Stroma
+S	S_ST_P5_1_Cluster3	Ionocyte	0	Epithelial
+S	S_ST_P5_1_Cluster3	Serous	0	Epithelial
+S	S_ST_P5_1_Cluster3	Proximal Ciliated	4.67517837850344e-05	Epithelial
+S	S_ST_P5_1_Cluster3	Goblet	0	Epithelial
+S	S_ST_P5_1_Cluster3	Neutrophil	0	Immune
+S	S_ST_P5_1_Cluster3	Dendritic	0	Immune
+MP	MP_ST_P7_Cluster7	CD4+ Memory/Effector T	0.0155166306805659	Immune
+MP	MP_ST_P7_Cluster7	CD4+ Naive T	0.00145704065257698	Immune
+MP	MP_ST_P7_Cluster7	CD8+ Memory/Effector T	0.00538268985162808	Immune
+MP	MP_ST_P7_Cluster7	CD8+ Naive T	0.00378114231342265	Immune
+MP	MP_ST_P7_Cluster7	Natural Killer	0.00152228956264659	Immune
+MP	MP_ST_P7_Cluster7	Classical Monocyte	0.00246852428419838	Immune
+MP	MP_ST_P7_Cluster7	Nonclassical Monocyte	0.000583308459082953	Immune
+MP	MP_ST_P7_Cluster7	Myeloid Dendritic Type 2	0.000675866588864279	Immune
+MP	MP_ST_P7_Cluster7	Platelet/Megakaryocyte	0.000191472502594328	Immune
+MP	MP_ST_P7_Cluster7	B	0.000311365749690401	Immune
+MP	MP_ST_P7_Cluster7	IGSF21+ Dendritic	0.00113516509570546	Immune
+MP	MP_ST_P7_Cluster7	EREG+ Dendritic	0.000513354423848502	Immune
+MP	MP_ST_P7_Cluster7	Plasmacytoid Dendritic	0.00149673751670443	Immune
+MP	MP_ST_P7_Cluster7	Myeloid Dendritic Type 1	7.61422636526702e-07	Immune
+MP	MP_ST_P7_Cluster7	TREM2+ Dendritic	0.00124767394125453	Immune
+MP	MP_ST_P7_Cluster7	Differentiating Basal	0.00873769233487744	Epithelial
+MP	MP_ST_P7_Cluster7	Proliferating Basal	0.00333464359289389	Epithelial
+MP	MP_ST_P7_Cluster7	Basal	0.0595226255908726	Epithelial
+MP	MP_ST_P7_Cluster7	Plasma	2.62685349476205e-05	Immune
+MP	MP_ST_P7_Cluster7	Macrophage	0.057098037156987	Immune
+MP	MP_ST_P7_Cluster7	Basophil/Mast 1	0.00299703746852969	Immune
+MP	MP_ST_P7_Cluster7	Proliferating Macrophage	0.0148943558250764	Immune
+MP	MP_ST_P7_Cluster7	Capillary Aerocyte	0.00473679197231787	Endothelial
+MP	MP_ST_P7_Cluster7	Capillary	0.00603274206248377	Endothelial
+MP	MP_ST_P7_Cluster7	Bronchial Vessel 2	2.60582189157058e-05	Endothelial
+MP	MP_ST_P7_Cluster7	Vein	0.00644901068497254	Endothelial
+MP	MP_ST_P7_Cluster7	Artery	0.00083732264953415	Endothelial
+MP	MP_ST_P7_Cluster7	Lymphatic	0.0046070036924145	Endothelial
+MP	MP_ST_P7_Cluster7	Bronchial Vessel 1	0.00872104615737765	Endothelial
+MP	MP_ST_P7_Cluster7	Airway Smooth Muscle	0.00882132401393883	Stroma
+MP	MP_ST_P7_Cluster7	Alveolar Epithelial Type 2	0.00579220585817441	Epithelial
+MP	MP_ST_P7_Cluster7	Club	0.0023995154963253	Epithelial
+MP	MP_ST_P7_Cluster7	Pericyte	0.00137651364182262	Stroma
+MP	MP_ST_P7_Cluster7	Myofibroblast	0.155664012349742	Stroma
+MP	MP_ST_P7_Cluster7	Alveolar Epithelial Type 1	0.003765628733674	Epithelial
+MP	MP_ST_P7_Cluster7	Ciliated	4.4945525291861e-05	Epithelial
+MP	MP_ST_P7_Cluster7	Adventitial Fibroblast	0.212473932094784	Stroma
+MP	MP_ST_P7_Cluster7	Alveolar Fibroblast	0.146959301111196	Stroma
+MP	MP_ST_P7_Cluster7	Lipofibroblast	0.00673252167987241	Stroma
+MP	MP_ST_P7_Cluster7	Mesothelial	0	Stroma
+MP	MP_ST_P7_Cluster7	Capillary Intermediate 1	0.00054475659037913	Endothelial
+MP	MP_ST_P7_Cluster7	Capillary Intermediate 2	0.000292309892900513	Endothelial
+MP	MP_ST_P7_Cluster7	Vascular Smooth Muscle	0.118031063144333	Stroma
+MP	MP_ST_P7_Cluster7	Mucous	0.0109983733370047	Epithelial
+MP	MP_ST_P7_Cluster7	Proliferating NK/T	0.000630672314273845	Immune
+MP	MP_ST_P7_Cluster7	Natural Killer T	0.0011356180828516	Immune
+MP	MP_ST_P7_Cluster7	OLR1+ Classical Monocyte	0.000384205748740447	Immune
+MP	MP_ST_P7_Cluster7	Intermediate Monocyte	0.00055147952150223	Immune
+MP	MP_ST_P7_Cluster7	Basophil/Mast 2	0.000311020105030102	Immune
+MP	MP_ST_P7_Cluster7	Signaling Alveolar Epithelial Type 2	0	Epithelial
+MP	MP_ST_P7_Cluster7	Proximal Basal	0.000194216019228237	Epithelial
+MP	MP_ST_P7_Cluster7	Neuroendocrine	0.00164991344656557	Epithelial
+MP	MP_ST_P7_Cluster7	Fibromyocyte	0.103755904297276	Stroma
+MP	MP_ST_P7_Cluster7	Ionocyte	0	Epithelial
+MP	MP_ST_P7_Cluster7	Serous	0	Epithelial
+MP	MP_ST_P7_Cluster7	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P7_Cluster7	Goblet	0.00282446959922321	Epithelial
+MP	MP_ST_P7_Cluster7	Neutrophil	2.7935448368683e-05	Immune
+MP	MP_ST_P7_Cluster7	Dendritic	0.00033350295988161	Immune
+Lep	Lep_ST_P8_1_Cluster3	CD4+ Memory/Effector T	0.0296730736331097	Immune
+Lep	Lep_ST_P8_1_Cluster3	CD4+ Naive T	0.0111843095652768	Immune
+Lep	Lep_ST_P8_1_Cluster3	CD8+ Memory/Effector T	0.0053933501451304	Immune
+Lep	Lep_ST_P8_1_Cluster3	CD8+ Naive T	0.00589388840435206	Immune
+Lep	Lep_ST_P8_1_Cluster3	Natural Killer	0.0056708694649339	Immune
+Lep	Lep_ST_P8_1_Cluster3	Classical Monocyte	0.00958380726444267	Immune
+Lep	Lep_ST_P8_1_Cluster3	Nonclassical Monocyte	0.000605345423527352	Immune
+Lep	Lep_ST_P8_1_Cluster3	Myeloid Dendritic Type 2	0.000104383062216751	Immune
+Lep	Lep_ST_P8_1_Cluster3	Platelet/Megakaryocyte	0.00395179796023891	Immune
+Lep	Lep_ST_P8_1_Cluster3	B	0.0880145896104956	Immune
+Lep	Lep_ST_P8_1_Cluster3	IGSF21+ Dendritic	0.000201476064717973	Immune
+Lep	Lep_ST_P8_1_Cluster3	EREG+ Dendritic	0.000346307519452478	Immune
+Lep	Lep_ST_P8_1_Cluster3	Plasmacytoid Dendritic	0.0429651490189407	Immune
+Lep	Lep_ST_P8_1_Cluster3	Myeloid Dendritic Type 1	0.000165025096742981	Immune
+Lep	Lep_ST_P8_1_Cluster3	TREM2+ Dendritic	0.00510708566798307	Immune
+Lep	Lep_ST_P8_1_Cluster3	Differentiating Basal	0.00480364217084718	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Proliferating Basal	0.0085473809755356	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Basal	0.0220758028181968	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Plasma	0.128694800401511	Immune
+Lep	Lep_ST_P8_1_Cluster3	Macrophage	0.0176203797245354	Immune
+Lep	Lep_ST_P8_1_Cluster3	Basophil/Mast 1	0.0155640890354971	Immune
+Lep	Lep_ST_P8_1_Cluster3	Proliferating Macrophage	9.51310422751825e-05	Immune
+Lep	Lep_ST_P8_1_Cluster3	Capillary Aerocyte	0.00649958815322762	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Capillary	0.00833828527969468	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Bronchial Vessel 2	1.1480022645929e-05	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Vein	0.0497586322863704	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Artery	0.0129979102940164	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Lymphatic	0.0747922842401904	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Bronchial Vessel 1	0.0119300023563112	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Airway Smooth Muscle	0.0198255555099485	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Alveolar Epithelial Type 2	0.102092386238442	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Club	0.038203057300817	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Pericyte	0.00777841286385016	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Myofibroblast	0.0222534708429575	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Alveolar Epithelial Type 1	0.00772263579850814	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Ciliated	0.0011120498848623	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Adventitial Fibroblast	0.0440827580135186	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Alveolar Fibroblast	0.0553560247477009	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Lipofibroblast	0.0139380483367727	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Mesothelial	0.00164512560505634	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Capillary Intermediate 1	0.000271517161387891	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Capillary Intermediate 2	0.000516669477276804	Endothelial
+Lep	Lep_ST_P8_1_Cluster3	Vascular Smooth Muscle	0.0363958925066835	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Mucous	0.0330874730990106	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Proliferating NK/T	0.00277854972451857	Immune
+Lep	Lep_ST_P8_1_Cluster3	Natural Killer T	0.000636252891333498	Immune
+Lep	Lep_ST_P8_1_Cluster3	OLR1+ Classical Monocyte	0.00189787549651913	Immune
+Lep	Lep_ST_P8_1_Cluster3	Intermediate Monocyte	0.000299615363773296	Immune
+Lep	Lep_ST_P8_1_Cluster3	Basophil/Mast 2	0.00851764807853754	Immune
+Lep	Lep_ST_P8_1_Cluster3	Signaling Alveolar Epithelial Type 2	0.0044153783117852	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Proximal Basal	0.00315151304979721	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Neuroendocrine	7.88044471778026e-05	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Fibromyocyte	0.00302603454374252	Stroma
+Lep	Lep_ST_P8_1_Cluster3	Ionocyte	0.00092140698287629	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Serous	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Proximal Ciliated	0	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Goblet	0.0122378422773607	Epithelial
+Lep	Lep_ST_P8_1_Cluster3	Neutrophil	0.00596935329927095	Immune
+Lep	Lep_ST_P8_1_Cluster3	Dendritic	0.0011987814440985	Immune
+MP	MP_49_3_Cluster2	CD4+ Memory/Effector T	0.0421468195292443	Immune
+MP	MP_49_3_Cluster2	CD4+ Naive T	0.0169504170028244	Immune
+MP	MP_49_3_Cluster2	CD8+ Memory/Effector T	0.0212245190788548	Immune
+MP	MP_49_3_Cluster2	CD8+ Naive T	0.0248087819786581	Immune
+MP	MP_49_3_Cluster2	Natural Killer	0.0493900247342056	Immune
+MP	MP_49_3_Cluster2	Classical Monocyte	0.0500365288978921	Immune
+MP	MP_49_3_Cluster2	Nonclassical Monocyte	0.00826642049074836	Immune
+MP	MP_49_3_Cluster2	Myeloid Dendritic Type 2	0.00104053657183484	Immune
+MP	MP_49_3_Cluster2	Platelet/Megakaryocyte	0.00987079157876687	Immune
+MP	MP_49_3_Cluster2	B	0.0130374489405078	Immune
+MP	MP_49_3_Cluster2	IGSF21+ Dendritic	0.00129423196246695	Immune
+MP	MP_49_3_Cluster2	EREG+ Dendritic	0.00401656691045148	Immune
+MP	MP_49_3_Cluster2	Plasmacytoid Dendritic	0.000551149112936982	Immune
+MP	MP_49_3_Cluster2	Myeloid Dendritic Type 1	0.00990157267956662	Immune
+MP	MP_49_3_Cluster2	TREM2+ Dendritic	0	Immune
+MP	MP_49_3_Cluster2	Differentiating Basal	0.00064079077051016	Epithelial
+MP	MP_49_3_Cluster2	Proliferating Basal	0	Epithelial
+MP	MP_49_3_Cluster2	Basal	0.0162620847765635	Epithelial
+MP	MP_49_3_Cluster2	Plasma	0.00345814758634516	Immune
+MP	MP_49_3_Cluster2	Macrophage	0.106504278002349	Immune
+MP	MP_49_3_Cluster2	Basophil/Mast 1	0.00321017769445655	Immune
+MP	MP_49_3_Cluster2	Proliferating Macrophage	0.018437733602939	Immune
+MP	MP_49_3_Cluster2	Capillary Aerocyte	0.0529152362792647	Endothelial
+MP	MP_49_3_Cluster2	Capillary	0.0418518846549546	Endothelial
+MP	MP_49_3_Cluster2	Bronchial Vessel 2	0.00957898161420654	Endothelial
+MP	MP_49_3_Cluster2	Vein	0.00903764792350851	Endothelial
+MP	MP_49_3_Cluster2	Artery	0.0115736205808869	Endothelial
+MP	MP_49_3_Cluster2	Lymphatic	0.106525038571537	Endothelial
+MP	MP_49_3_Cluster2	Bronchial Vessel 1	0.00410223782879107	Endothelial
+MP	MP_49_3_Cluster2	Airway Smooth Muscle	0.0294094713632578	Stroma
+MP	MP_49_3_Cluster2	Alveolar Epithelial Type 2	0.017469246807522	Epithelial
+MP	MP_49_3_Cluster2	Club	0.00915238897443831	Epithelial
+MP	MP_49_3_Cluster2	Pericyte	0.0315306520597905	Stroma
+MP	MP_49_3_Cluster2	Myofibroblast	0	Stroma
+MP	MP_49_3_Cluster2	Alveolar Epithelial Type 1	0.129778121392486	Epithelial
+MP	MP_49_3_Cluster2	Ciliated	0.0166877806766958	Epithelial
+MP	MP_49_3_Cluster2	Adventitial Fibroblast	0	Stroma
+MP	MP_49_3_Cluster2	Alveolar Fibroblast	0.00708692219082434	Stroma
+MP	MP_49_3_Cluster2	Lipofibroblast	0	Stroma
+MP	MP_49_3_Cluster2	Mesothelial	0.000263425631827877	Stroma
+MP	MP_49_3_Cluster2	Capillary Intermediate 1	0.00100190497490574	Endothelial
+MP	MP_49_3_Cluster2	Capillary Intermediate 2	0.0143257849961461	Endothelial
+MP	MP_49_3_Cluster2	Vascular Smooth Muscle	0.0395302657626332	Stroma
+MP	MP_49_3_Cluster2	Mucous	0.00177426239302239	Epithelial
+MP	MP_49_3_Cluster2	Proliferating NK/T	0.000674462504976026	Immune
+MP	MP_49_3_Cluster2	Natural Killer T	0.00239716431906392	Immune
+MP	MP_49_3_Cluster2	OLR1+ Classical Monocyte	0.00417754047352779	Immune
+MP	MP_49_3_Cluster2	Intermediate Monocyte	0.0116991196316378	Immune
+MP	MP_49_3_Cluster2	Basophil/Mast 2	3.01328232980593e-05	Immune
+MP	MP_49_3_Cluster2	Signaling Alveolar Epithelial Type 2	0	Epithelial
+MP	MP_49_3_Cluster2	Proximal Basal	0	Epithelial
+MP	MP_49_3_Cluster2	Neuroendocrine	0.0099608242064098	Epithelial
+MP	MP_49_3_Cluster2	Fibromyocyte	0.0155809959302531	Stroma
+MP	MP_49_3_Cluster2	Ionocyte	0.0083807904676541	Epithelial
+MP	MP_49_3_Cluster2	Serous	7.02348535415715e-05	Epithelial
+MP	MP_49_3_Cluster2	Proximal Ciliated	0.00539309172536871	Epithelial
+MP	MP_49_3_Cluster2	Goblet	0.0040037730796688	Epithelial
+MP	MP_49_3_Cluster2	Neutrophil	0.00298797340577816	Immune
+MP	MP_49_3_Cluster2	Dendritic	0	Immune
+S	S_ST_P5_1_Cluster6	CD4+ Memory/Effector T	0.0284641372294442	Immune
+S	S_ST_P5_1_Cluster6	CD4+ Naive T	0.0130112202868775	Immune
+S	S_ST_P5_1_Cluster6	CD8+ Memory/Effector T	0.018597763764305	Immune
+S	S_ST_P5_1_Cluster6	CD8+ Naive T	0.0133693530038938	Immune
+S	S_ST_P5_1_Cluster6	Natural Killer	0.0341042367417022	Immune
+S	S_ST_P5_1_Cluster6	Classical Monocyte	0.0562068030785936	Immune
+S	S_ST_P5_1_Cluster6	Nonclassical Monocyte	0.0153214728092222	Immune
+S	S_ST_P5_1_Cluster6	Myeloid Dendritic Type 2	1.53975206087726e-05	Immune
+S	S_ST_P5_1_Cluster6	Platelet/Megakaryocyte	0	Immune
+S	S_ST_P5_1_Cluster6	B	0.0533364004264271	Immune
+S	S_ST_P5_1_Cluster6	IGSF21+ Dendritic	0.00984766104127309	Immune
+S	S_ST_P5_1_Cluster6	EREG+ Dendritic	0.00243161029833139	Immune
+S	S_ST_P5_1_Cluster6	Plasmacytoid Dendritic	0	Immune
+S	S_ST_P5_1_Cluster6	Myeloid Dendritic Type 1	0.0169252749840774	Immune
+S	S_ST_P5_1_Cluster6	TREM2+ Dendritic	0.0183291582669839	Immune
+S	S_ST_P5_1_Cluster6	Differentiating Basal	0.0169517774865289	Epithelial
+S	S_ST_P5_1_Cluster6	Proliferating Basal	0.0057325968086046	Epithelial
+S	S_ST_P5_1_Cluster6	Basal	0.0311378260404295	Epithelial
+S	S_ST_P5_1_Cluster6	Plasma	0.00311949902227414	Immune
+S	S_ST_P5_1_Cluster6	Macrophage	0.348592821758304	Immune
+S	S_ST_P5_1_Cluster6	Basophil/Mast 1	0.0300277883778623	Immune
+S	S_ST_P5_1_Cluster6	Proliferating Macrophage	0	Immune
+S	S_ST_P5_1_Cluster6	Capillary Aerocyte	0.0249419638203584	Endothelial
+S	S_ST_P5_1_Cluster6	Capillary	0.0250843607279221	Endothelial
+S	S_ST_P5_1_Cluster6	Bronchial Vessel 2	0.00256468330967667	Endothelial
+S	S_ST_P5_1_Cluster6	Vein	2.80878090687377e-05	Endothelial
+S	S_ST_P5_1_Cluster6	Artery	0.00958259615829498	Endothelial
+S	S_ST_P5_1_Cluster6	Lymphatic	0.00707258425762892	Endothelial
+S	S_ST_P5_1_Cluster6	Bronchial Vessel 1	0.0123184398825725	Endothelial
+S	S_ST_P5_1_Cluster6	Airway Smooth Muscle	0.025506433536138	Stroma
+S	S_ST_P5_1_Cluster6	Alveolar Epithelial Type 2	0.00828912339674017	Epithelial
+S	S_ST_P5_1_Cluster6	Club	0.00792014063704309	Epithelial
+S	S_ST_P5_1_Cluster6	Pericyte	0.00161469418107049	Stroma
+S	S_ST_P5_1_Cluster6	Myofibroblast	0.0317559581527124	Stroma
+S	S_ST_P5_1_Cluster6	Alveolar Epithelial Type 1	0.0111350048724056	Epithelial
+S	S_ST_P5_1_Cluster6	Ciliated	2.30155049224828e-05	Epithelial
+S	S_ST_P5_1_Cluster6	Adventitial Fibroblast	0.0183686196374471	Stroma
+S	S_ST_P5_1_Cluster6	Alveolar Fibroblast	0.0115205185296959	Stroma
+S	S_ST_P5_1_Cluster6	Lipofibroblast	9.59073873119178e-06	Stroma
+S	S_ST_P5_1_Cluster6	Mesothelial	0.000133776674921077	Stroma
+S	S_ST_P5_1_Cluster6	Capillary Intermediate 1	0.00262314406270678	Endothelial
+S	S_ST_P5_1_Cluster6	Capillary Intermediate 2	0.0116779295366912	Endothelial
+S	S_ST_P5_1_Cluster6	Vascular Smooth Muscle	0.0327520650228258	Stroma
+S	S_ST_P5_1_Cluster6	Mucous	0	Epithelial
+S	S_ST_P5_1_Cluster6	Proliferating NK/T	0.00013509552836965	Immune
+S	S_ST_P5_1_Cluster6	Natural Killer T	0	Immune
+S	S_ST_P5_1_Cluster6	OLR1+ Classical Monocyte	0.0115960196929321	Immune
+S	S_ST_P5_1_Cluster6	Intermediate Monocyte	0.00449661534894222	Immune
+S	S_ST_P5_1_Cluster6	Basophil/Mast 2	0.00446438103854502	Immune
+S	S_ST_P5_1_Cluster6	Signaling Alveolar Epithelial Type 2	0	Epithelial
+S	S_ST_P5_1_Cluster6	Proximal Basal	0	Epithelial
+S	S_ST_P5_1_Cluster6	Neuroendocrine	0	Epithelial
+S	S_ST_P5_1_Cluster6	Fibromyocyte	0.0186670890054046	Stroma
+S	S_ST_P5_1_Cluster6	Ionocyte	0	Epithelial
+S	S_ST_P5_1_Cluster6	Serous	0	Epithelial
+S	S_ST_P5_1_Cluster6	Proximal Ciliated	0	Epithelial
+S	S_ST_P5_1_Cluster6	Goblet	0	Epithelial
+S	S_ST_P5_1_Cluster6	Neutrophil	0.000195269990489297	Immune
+S	S_ST_P5_1_Cluster6	Dendritic	0	Immune
+N	N_ST_P8_1_Cluster7	CD4+ Memory/Effector T	0.00168731410502603	Immune
+N	N_ST_P8_1_Cluster7	CD4+ Naive T	0.000544027952843452	Immune
+N	N_ST_P8_1_Cluster7	CD8+ Memory/Effector T	0.000589084730962742	Immune
+N	N_ST_P8_1_Cluster7	CD8+ Naive T	0.00972264801478044	Immune
+N	N_ST_P8_1_Cluster7	Natural Killer	0.00515679280275174	Immune
+N	N_ST_P8_1_Cluster7	Classical Monocyte	0.000447842654645042	Immune
+N	N_ST_P8_1_Cluster7	Nonclassical Monocyte	0.000141464906377946	Immune
+N	N_ST_P8_1_Cluster7	Myeloid Dendritic Type 2	0	Immune
+N	N_ST_P8_1_Cluster7	Platelet/Megakaryocyte	0.0044154233125524	Immune
+N	N_ST_P8_1_Cluster7	B	7.75957325845068e-05	Immune
+N	N_ST_P8_1_Cluster7	IGSF21+ Dendritic	0.00493071297207778	Immune
+N	N_ST_P8_1_Cluster7	EREG+ Dendritic	9.1630971946575e-05	Immune
+N	N_ST_P8_1_Cluster7	Plasmacytoid Dendritic	0	Immune
+N	N_ST_P8_1_Cluster7	Myeloid Dendritic Type 1	0	Immune
+N	N_ST_P8_1_Cluster7	TREM2+ Dendritic	0.00032919477225487	Immune
+N	N_ST_P8_1_Cluster7	Differentiating Basal	0.0016855053929813	Epithelial
+N	N_ST_P8_1_Cluster7	Proliferating Basal	0	Epithelial
+N	N_ST_P8_1_Cluster7	Basal	6.57165531659968e-05	Epithelial
+N	N_ST_P8_1_Cluster7	Plasma	0	Immune
+N	N_ST_P8_1_Cluster7	Macrophage	0.50900413450053	Immune
+N	N_ST_P8_1_Cluster7	Basophil/Mast 1	0.000459138735728835	Immune
+N	N_ST_P8_1_Cluster7	Proliferating Macrophage	0.000645528394195618	Immune
+N	N_ST_P8_1_Cluster7	Capillary Aerocyte	0.217390406683706	Endothelial
+N	N_ST_P8_1_Cluster7	Capillary	0.0776752301520875	Endothelial
+N	N_ST_P8_1_Cluster7	Bronchial Vessel 2	0	Endothelial
+N	N_ST_P8_1_Cluster7	Vein	0.00538059739361455	Endothelial
+N	N_ST_P8_1_Cluster7	Artery	0.018567330285801	Endothelial
+N	N_ST_P8_1_Cluster7	Lymphatic	0	Endothelial
+N	N_ST_P8_1_Cluster7	Bronchial Vessel 1	0.00138468513120611	Endothelial
+N	N_ST_P8_1_Cluster7	Airway Smooth Muscle	0	Stroma
+N	N_ST_P8_1_Cluster7	Alveolar Epithelial Type 2	0.00732601917619179	Epithelial
+N	N_ST_P8_1_Cluster7	Club	0	Epithelial
+N	N_ST_P8_1_Cluster7	Pericyte	0.00849123042452455	Stroma
+N	N_ST_P8_1_Cluster7	Myofibroblast	8.02716878521276e-05	Stroma
+N	N_ST_P8_1_Cluster7	Alveolar Epithelial Type 1	0.0996115019453714	Epithelial
+N	N_ST_P8_1_Cluster7	Ciliated	0	Epithelial
+N	N_ST_P8_1_Cluster7	Adventitial Fibroblast	0.000291192302339628	Stroma
+N	N_ST_P8_1_Cluster7	Alveolar Fibroblast	0.0121685774984586	Stroma
+N	N_ST_P8_1_Cluster7	Lipofibroblast	0	Stroma
+N	N_ST_P8_1_Cluster7	Mesothelial	0	Stroma
+N	N_ST_P8_1_Cluster7	Capillary Intermediate 1	0.0013660870269072	Endothelial
+N	N_ST_P8_1_Cluster7	Capillary Intermediate 2	0.00274495505347705	Endothelial
+N	N_ST_P8_1_Cluster7	Vascular Smooth Muscle	0.00616277644809824	Stroma
+N	N_ST_P8_1_Cluster7	Mucous	0	Epithelial
+N	N_ST_P8_1_Cluster7	Proliferating NK/T	0.000564442764301805	Immune
+N	N_ST_P8_1_Cluster7	Natural Killer T	0	Immune
+N	N_ST_P8_1_Cluster7	OLR1+ Classical Monocyte	0.000456335165425498	Immune
+N	N_ST_P8_1_Cluster7	Intermediate Monocyte	7.23080643155032e-05	Immune
+N	N_ST_P8_1_Cluster7	Basophil/Mast 2	0.000272296290916195	Immune
+N	N_ST_P8_1_Cluster7	Signaling Alveolar Epithelial Type 2	0	Epithelial
+N	N_ST_P8_1_Cluster7	Proximal Basal	0	Epithelial
+N	N_ST_P8_1_Cluster7	Neuroendocrine	0	Epithelial
+N	N_ST_P8_1_Cluster7	Fibromyocyte	0	Stroma
+N	N_ST_P8_1_Cluster7	Ionocyte	0	Epithelial
+N	N_ST_P8_1_Cluster7	Serous	0	Epithelial
+N	N_ST_P8_1_Cluster7	Proximal Ciliated	0	Epithelial
+N	N_ST_P8_1_Cluster7	Goblet	0	Epithelial
+N	N_ST_P8_1_Cluster7	Neutrophil	0	Immune
+N	N_ST_P8_1_Cluster7	Dendritic	0	Immune
+MP	MP_ST_P7_Cluster1	CD4+ Memory/Effector T	0.0187246054609604	Immune
+MP	MP_ST_P7_Cluster1	CD4+ Naive T	0.0033569463488963	Immune
+MP	MP_ST_P7_Cluster1	CD8+ Memory/Effector T	0.00402057349412563	Immune
+MP	MP_ST_P7_Cluster1	CD8+ Naive T	0.0031745620029268	Immune
+MP	MP_ST_P7_Cluster1	Natural Killer	0.0186987869547042	Immune
+MP	MP_ST_P7_Cluster1	Classical Monocyte	0.0189253013632164	Immune
+MP	MP_ST_P7_Cluster1	Nonclassical Monocyte	0.00683989526783282	Immune
+MP	MP_ST_P7_Cluster1	Myeloid Dendritic Type 2	0.00714524426458826	Immune
+MP	MP_ST_P7_Cluster1	Platelet/Megakaryocyte	0.00284326112020106	Immune
+MP	MP_ST_P7_Cluster1	B	0.0522560785919425	Immune
+MP	MP_ST_P7_Cluster1	IGSF21+ Dendritic	0.0182028967100118	Immune
+MP	MP_ST_P7_Cluster1	EREG+ Dendritic	0.00146033353990039	Immune
+MP	MP_ST_P7_Cluster1	Plasmacytoid Dendritic	0.0240185139897203	Immune
+MP	MP_ST_P7_Cluster1	Myeloid Dendritic Type 1	0.017615255761341	Immune
+MP	MP_ST_P7_Cluster1	TREM2+ Dendritic	0.012711019650006	Immune
+MP	MP_ST_P7_Cluster1	Differentiating Basal	0.0010523152262047	Epithelial
+MP	MP_ST_P7_Cluster1	Proliferating Basal	0.000181467134391693	Epithelial
+MP	MP_ST_P7_Cluster1	Basal	0.000699036827203234	Epithelial
+MP	MP_ST_P7_Cluster1	Plasma	0.0455135936073792	Immune
+MP	MP_ST_P7_Cluster1	Macrophage	0.0657777648358945	Immune
+MP	MP_ST_P7_Cluster1	Basophil/Mast 1	0.0125060634566681	Immune
+MP	MP_ST_P7_Cluster1	Proliferating Macrophage	0.00465295316210199	Immune
+MP	MP_ST_P7_Cluster1	Capillary Aerocyte	0.0121197582574486	Endothelial
+MP	MP_ST_P7_Cluster1	Capillary	0.0194915902066402	Endothelial
+MP	MP_ST_P7_Cluster1	Bronchial Vessel 2	0.000601040151596941	Endothelial
+MP	MP_ST_P7_Cluster1	Vein	0.0659226800705951	Endothelial
+MP	MP_ST_P7_Cluster1	Artery	0.014867298825187	Endothelial
+MP	MP_ST_P7_Cluster1	Lymphatic	0.125803826959536	Endothelial
+MP	MP_ST_P7_Cluster1	Bronchial Vessel 1	0.0168568294411926	Endothelial
+MP	MP_ST_P7_Cluster1	Airway Smooth Muscle	0.0115644195547045	Stroma
+MP	MP_ST_P7_Cluster1	Alveolar Epithelial Type 2	0.0215588987028148	Epithelial
+MP	MP_ST_P7_Cluster1	Club	0.00279529065465614	Epithelial
+MP	MP_ST_P7_Cluster1	Pericyte	0.00992608953410727	Stroma
+MP	MP_ST_P7_Cluster1	Myofibroblast	0.0226494530060863	Stroma
+MP	MP_ST_P7_Cluster1	Alveolar Epithelial Type 1	0.0166138840093199	Epithelial
+MP	MP_ST_P7_Cluster1	Ciliated	0.0169923838675378	Epithelial
+MP	MP_ST_P7_Cluster1	Adventitial Fibroblast	0.176086399472636	Stroma
+MP	MP_ST_P7_Cluster1	Alveolar Fibroblast	0.0471026930526565	Stroma
+MP	MP_ST_P7_Cluster1	Lipofibroblast	0.0126166416298344	Stroma
+MP	MP_ST_P7_Cluster1	Mesothelial	0.00304281587512488	Stroma
+MP	MP_ST_P7_Cluster1	Capillary Intermediate 1	0.00604467315332332	Endothelial
+MP	MP_ST_P7_Cluster1	Capillary Intermediate 2	0.000379253893452967	Endothelial
+MP	MP_ST_P7_Cluster1	Vascular Smooth Muscle	0.0364888332430983	Stroma
+MP	MP_ST_P7_Cluster1	Mucous	0.00401545641019816	Epithelial
+MP	MP_ST_P7_Cluster1	Proliferating NK/T	0.0017744246668645	Immune
+MP	MP_ST_P7_Cluster1	Natural Killer T	0.00145807312596513	Immune
+MP	MP_ST_P7_Cluster1	OLR1+ Classical Monocyte	0.000559800282005545	Immune
+MP	MP_ST_P7_Cluster1	Intermediate Monocyte	0.000218514127924905	Immune
+MP	MP_ST_P7_Cluster1	Basophil/Mast 2	0.00163037882907459	Immune
+MP	MP_ST_P7_Cluster1	Signaling Alveolar Epithelial Type 2	0.000804832739292179	Epithelial
+MP	MP_ST_P7_Cluster1	Proximal Basal	8.58718045571647e-06	Epithelial
+MP	MP_ST_P7_Cluster1	Neuroendocrine	9.36422220934256e-06	Epithelial
+MP	MP_ST_P7_Cluster1	Fibromyocyte	0.0024708409910803	Stroma
+MP	MP_ST_P7_Cluster1	Ionocyte	0	Epithelial
+MP	MP_ST_P7_Cluster1	Serous	0	Epithelial
+MP	MP_ST_P7_Cluster1	Proximal Ciliated	0.000858499318498776	Epithelial
+MP	MP_ST_P7_Cluster1	Goblet	0.000705524573843615	Epithelial
+MP	MP_ST_P7_Cluster1	Neutrophil	0.00019867240326516	Immune
+MP	MP_ST_P7_Cluster1	Dendritic	0.00538580879755594	Immune
+MP	MP_ST_P1_Cluster6	CD4+ Memory/Effector T	0.0329149857669582	Immune
+MP	MP_ST_P1_Cluster6	CD4+ Naive T	0.00970653267511814	Immune
+MP	MP_ST_P1_Cluster6	CD8+ Memory/Effector T	0.00373182665281268	Immune
+MP	MP_ST_P1_Cluster6	CD8+ Naive T	0.0448982766021677	Immune
+MP	MP_ST_P1_Cluster6	Natural Killer	0.0862553217046226	Immune
+MP	MP_ST_P1_Cluster6	Classical Monocyte	0.0326184774886629	Immune
+MP	MP_ST_P1_Cluster6	Nonclassical Monocyte	0.00800539786829921	Immune
+MP	MP_ST_P1_Cluster6	Myeloid Dendritic Type 2	0.00148339537535951	Immune
+MP	MP_ST_P1_Cluster6	Platelet/Megakaryocyte	0.00190366831167248	Immune
+MP	MP_ST_P1_Cluster6	B	0.0245848556273039	Immune
+MP	MP_ST_P1_Cluster6	IGSF21+ Dendritic	0.000340151660699769	Immune
+MP	MP_ST_P1_Cluster6	EREG+ Dendritic	0.000334522725964825	Immune
+MP	MP_ST_P1_Cluster6	Plasmacytoid Dendritic	0.00182792094350718	Immune
+MP	MP_ST_P1_Cluster6	Myeloid Dendritic Type 1	0.00284020677218313	Immune
+MP	MP_ST_P1_Cluster6	TREM2+ Dendritic	0	Immune
+MP	MP_ST_P1_Cluster6	Differentiating Basal	0.00518847110110145	Epithelial
+MP	MP_ST_P1_Cluster6	Proliferating Basal	0.000904990452213861	Epithelial
+MP	MP_ST_P1_Cluster6	Basal	0.00553266667929013	Epithelial
+MP	MP_ST_P1_Cluster6	Plasma	0.0030429807190692	Immune
+MP	MP_ST_P1_Cluster6	Macrophage	0.0684734419076635	Immune
+MP	MP_ST_P1_Cluster6	Basophil/Mast 1	0.00225595045321231	Immune
+MP	MP_ST_P1_Cluster6	Proliferating Macrophage	0.000936666811532321	Immune
+MP	MP_ST_P1_Cluster6	Capillary Aerocyte	0.0233600302722181	Endothelial
+MP	MP_ST_P1_Cluster6	Capillary	0.0358612518679975	Endothelial
+MP	MP_ST_P1_Cluster6	Bronchial Vessel 2	0.00192074278576586	Endothelial
+MP	MP_ST_P1_Cluster6	Vein	0.00290255153316334	Endothelial
+MP	MP_ST_P1_Cluster6	Artery	0.00175063113755753	Endothelial
+MP	MP_ST_P1_Cluster6	Lymphatic	0.00573173828705352	Endothelial
+MP	MP_ST_P1_Cluster6	Bronchial Vessel 1	0.0163882303638539	Endothelial
+MP	MP_ST_P1_Cluster6	Airway Smooth Muscle	0.000744189663700356	Stroma
+MP	MP_ST_P1_Cluster6	Alveolar Epithelial Type 2	0.00849233958350188	Epithelial
+MP	MP_ST_P1_Cluster6	Club	0.367189307913949	Epithelial
+MP	MP_ST_P1_Cluster6	Pericyte	0.0221483126752427	Stroma
+MP	MP_ST_P1_Cluster6	Myofibroblast	0.000206983001159785	Stroma
+MP	MP_ST_P1_Cluster6	Alveolar Epithelial Type 1	0.0807638066779883	Epithelial
+MP	MP_ST_P1_Cluster6	Ciliated	2.03188400569791e-05	Epithelial
+MP	MP_ST_P1_Cluster6	Adventitial Fibroblast	0	Stroma
+MP	MP_ST_P1_Cluster6	Alveolar Fibroblast	0.00222732717535065	Stroma
+MP	MP_ST_P1_Cluster6	Lipofibroblast	0	Stroma
+MP	MP_ST_P1_Cluster6	Mesothelial	0	Stroma
+MP	MP_ST_P1_Cluster6	Capillary Intermediate 1	0	Endothelial
+MP	MP_ST_P1_Cluster6	Capillary Intermediate 2	0.022331186993132	Endothelial
+MP	MP_ST_P1_Cluster6	Vascular Smooth Muscle	0.000671210144344298	Stroma
+MP	MP_ST_P1_Cluster6	Mucous	0.000227650326228541	Epithelial
+MP	MP_ST_P1_Cluster6	Proliferating NK/T	0.0318915414398252	Immune
+MP	MP_ST_P1_Cluster6	Natural Killer T	0.0011339088324021	Immune
+MP	MP_ST_P1_Cluster6	OLR1+ Classical Monocyte	0.010636713935615	Immune
+MP	MP_ST_P1_Cluster6	Intermediate Monocyte	0.00292369741295101	Immune
+MP	MP_ST_P1_Cluster6	Basophil/Mast 2	0.000743818341405078	Immune
+MP	MP_ST_P1_Cluster6	Signaling Alveolar Epithelial Type 2	0.00714883990315295	Epithelial
+MP	MP_ST_P1_Cluster6	Proximal Basal	0	Epithelial
+MP	MP_ST_P1_Cluster6	Neuroendocrine	0.00159295322473988	Epithelial
+MP	MP_ST_P1_Cluster6	Fibromyocyte	0	Stroma
+MP	MP_ST_P1_Cluster6	Ionocyte	0.00576808488545014	Epithelial
+MP	MP_ST_P1_Cluster6	Serous	0	Epithelial
+MP	MP_ST_P1_Cluster6	Proximal Ciliated	0	Epithelial
+MP	MP_ST_P1_Cluster6	Goblet	5.22757959433299e-05	Epithelial
+MP	MP_ST_P1_Cluster6	Neutrophil	0.00738964868683592	Immune
+MP	MP_ST_P1_Cluster6	Dendritic	0	Immune
